@@ -2,3 +2,4 @@ numpy>=1.22.2
 discord-py-interactions>=4.2.1
 interactions-wait-for>=1.0.5
 interactions-tasks>=1.0.0
+wikipedia>=1.4.0
