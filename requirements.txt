@@ -1,0 +1,2 @@
+numpy==1.22.2
+discord-py-interactions==4.2.1
