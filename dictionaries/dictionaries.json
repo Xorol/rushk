@@ -1,0 +1,38 @@
+{
+  "tsevhu": {
+    "file":"dictionaries/tsevhu.csv",
+    "display":"Tsevhu",
+    "name":"tsevhu",
+    "description":"Tsevhu [tsɛˈβu] n. constructed art-language made by koallary centered around the basis of a free-order volition controlled grammar system and a hidden non-linear writing system created using koi fish and ripples.",
+    "image":"https://images-ext-1.discordapp.net/external/pfO3zveWqrkhb3Yj9E3njEkA3Fsm2iIU4AdYvLoQvu0/%3Fwidth%3D3600%26format%3Dpng%26auto%3Dwebp%26s%3D635087de582bd1765c00161fb111058e81d57e1a/https/preview.redd.it/vgwk8ixaouc61.png?width=665&height=499",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1Z3GgLvUsjAupx9l_Zo0lBfozFwRk_K_gE6kCBJmuU3Y/edit#gid=0",
+    "owner":{
+      "name":"koallary",
+      "discriminator":"0263"
+    }
+  },
+  "ciscun": {
+    "file":"dictionaries/ciscun.csv",
+    "display":"Ciscun",
+    "name":"ciscun",
+    "description":"Ya need a turtle? Ya got a turtle",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Spot_the_cow.gif",
+    "dictionary":"https://docs.google.com/spreadsheets/d/10rfOaXTPF7LNQzY-3vaH4jfikY2ER3cm3B7GpDFwRwI/edit#gid=0",
+    "owner": {
+      "name":"^_^",
+      "discriminator":"8842"
+    }
+  },
+  "osrhean": {
+    "file":"dictionaries/osrhean.csv",
+    "display":"Osrhean",
+    "name":"osrhean",
+    "description":null,
+    "image":null,
+    "dictionary":null,
+    "owner": {
+      "name":"inbread_cat",
+      "discriminator":"4089"
+    }
+  }
+}
