@@ -4,6 +4,7 @@
 
 import interactions  # discord api wrapper
 import os  # You know what this is
+import asyncio
 import utils  # custom module, in folder named utils
 import random  # You also know what this is
 import logging  # Helps with debugging
