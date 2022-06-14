@@ -10,6 +10,7 @@ import logging  # Helps with debugging
 from interactions.ext.tasks import IntervalTrigger, create_task  # Task extension
 from interactions.ext.wait_for import setup
 from loguru import logger
+from interactions.api.http.route import Route
 
 #######
 #DEBUG#
@@ -106,6 +107,12 @@ bot.load("commands.suggestions")
 print(f"[{utils.time.get_formatted_time()}] Suggestion commands loaded!")
 bot.load("commands.language")
 print(f"[{utils.time.get_formatted_time()}] Language commands loaded!")
+
+#more debugging
+async def get_self_guilds() -> List[dict]:
+    request = await bot._http._req.request(Route("GET", "/users/@me/guilds"))
+    print("==> REQUEST:", request)
+asyncio.run(get_self_guilds)
 
 # Initialize the bot
 with logger.catch():
