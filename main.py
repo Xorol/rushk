@@ -9,6 +9,7 @@ import random  # You also know what this is
 import logging  # Helps with debugging
 from interactions.ext.tasks import IntervalTrigger, create_task  # Task extension
 from interactions.ext.wait_for import setup
+from loguru import logger
 
 #######
 #DEBUG#
@@ -107,4 +108,5 @@ bot.load("commands.language")
 print(f"[{utils.time.get_formatted_time()}] Language commands loaded!")
 
 # Initialize the bot
-bot.start()
+with logger.catch():
+    bot.start()
