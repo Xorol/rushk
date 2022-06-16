@@ -110,11 +110,13 @@ bot.load("commands.language")
 print(f"[{utils.time.get_formatted_time()}] Language commands loaded!")
 
 #more debugging
-async def get_self_guilds():
-    request = await bot._http._req.request(Route("GET", "/users/@me/guilds"))
-    print("==> REQUEST:", request)
-asyncio.run(get_self_guilds)
+#async def get_self_guilds():
+#    request = await bot._http._req.request(Route("GET", "/users/@me/guilds"))
+#    print("==> REQUEST:", request)
+#asyncio.run(get_self_guilds())
 
 # Initialize the bot
-with logger.catch():
-    bot.start()
+#with logger.catch():
+#   bot.start()
+
+bot.start()
