@@ -105,6 +105,8 @@ bot.load("commands.suggestions")
 print(f"[{utils.time.get_formatted_time()}] Suggestion commands loaded!")
 bot.load("commands.language")
 print(f"[{utils.time.get_formatted_time()}] Language commands loaded!")
+bot.load("commands.tsevhu")
+print(f"[{utils.time.get_formatted_time()}] Tsevhu commands loaded!")
 
 # Initialize the bot
 bot.start()
