@@ -68,7 +68,7 @@ class TsevhuCommands(interactions.Extension):
   @interactions.extension_command(
     name="tsevhu",
     description="secret desc lol",
-    scope=utils.ids.PLAYGROUND,
+    scope=utils.ids.KOILANG,
     options=[
       interactions.Option(
         name="ipa",
