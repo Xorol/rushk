@@ -10,14 +10,12 @@ class DictionaryCommands (interactions.Extension):
     dict = utils.dictionary.Dictionary(args['dictionary'], utils.dictionary.load_dictionaries())
     res = dict.search(args['term'], args['specificity'])
 
-    if len(res) >= 2000:
-      # The amount pf words in one message
-      a = 5 * 2
-      
-      r = res.split("\n", a)[a]
-      for i in res[:-len(r) - 1]:
-        await ctx.send("Your search was too broad, I will now unleash koifire unto your DMs, banishing them to hell")
-        await ctx.author.send(i)
+    if len(res) >= 2000:    
+      await ctx.send("Your search was too broad, I shall unleash koifire unto your DMs, banashing them to hell!")
+      k2 = 2000
+      res = [res[i:i+k2] for i in range(0, len(res), n)]
+      for i in res:
+        await ctx.author.send(res)
       return
       
     if len(res) > 300:
