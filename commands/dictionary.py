@@ -13,7 +13,7 @@ class DictionaryCommands (interactions.Extension):
     if len(res) >= 2000:    
       await ctx.send("Your search was too broad, I shall unleash koifire unto your DMs, banashing them to hell!")
       k2 = 2000
-      res = [res[i:i+k2] for i in range(0, len(res), n)]
+      res = [res[i:i+k2] for i in range(0, len(res), k2)]
       for i in res:
         await ctx.author.send(res)
       return
