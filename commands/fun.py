@@ -9,7 +9,7 @@ class FunCommands (interactions.Extension):
   @interactions.extension_command(
     name = "pancak",
     description = "Learn how to make pancaks!",
-    scope = utils.ids.PLAYGROUND,
+    scope = utils.ids.KOILANG,
     description_localizations = {
       "es-ES":"Aprende hacer los pancaks!"
     },
@@ -20,7 +20,7 @@ class FunCommands (interactions.Extension):
   @interactions.extension_command(
     name = "edcypher",
     description = "Encrypt your messages using Ed's Cypher!",
-    scope = utils.ids.PLAYGROUND,
+    scope = utils.ids.KOILANG,
     options = [
       interactions.Option(
         name = "mode",
@@ -92,7 +92,7 @@ class FunCommands (interactions.Extension):
   @interactions.extension_command(
     name = "no",
     description="You don't want to do this...",
-    scope=utils.ids.PLAYGROUND
+    scope=utils.ids.KOILANG
   )
   async def no (self, ctx: interactions.CommandContext):
     with open("commands/no.txt") as f:
