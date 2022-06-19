@@ -17,7 +17,7 @@ from interactions.api.http.route import Route
 #DEBUG#
 #######
 
-#logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 
 #####
 #BOT#
