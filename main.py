@@ -4,17 +4,20 @@
 
 import interactions  # discord api wrapper
 import os  # You know what this is
+import asyncio
 import utils  # custom module, in folder named utils
 import random  # You also know what this is
 import logging  # Helps with debugging
 from interactions.ext.tasks import IntervalTrigger, create_task  # Task extension
 from interactions.ext.wait_for import setup
+from loguru import logger
+from interactions.api.http.route import Route
 
 #######
 #DEBUG#
 #######
 
-#logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG)
 
 #####
 #BOT#
@@ -107,6 +110,8 @@ bot.load("commands.language")
 print(f"[{utils.time.get_formatted_time()}] Language commands loaded!")
 bot.load("commands.tsevhu")
 print(f"[{utils.time.get_formatted_time()}] Tsevhu commands loaded!")
+bot.load("commands.help")
+print(f"[{utils.time.get_formatted_time()}] Help command loaded!")
 
-# Initialize the bot
+
 bot.start()
