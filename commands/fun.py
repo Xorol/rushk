@@ -1,5 +1,7 @@
 import interactions, utils
 
+MODE = ""
+
 class FunCommands (interactions.Extension):
   def __init__(self, client):
     self.client = client
@@ -7,7 +9,7 @@ class FunCommands (interactions.Extension):
   @interactions.extension_command(
     name = "pancak",
     description = "Learn how to make pancaks!",
-    scope = utils.ids.KOILANG,
+    scope = utils.ids.PLAYGROUND,
     description_localizations = {
       "es-ES":"Aprende hacer los pancaks!"
     },
@@ -18,7 +20,7 @@ class FunCommands (interactions.Extension):
   @interactions.extension_command(
     name = "edcypher",
     description = "Encrypt your messages using Ed's Cypher!",
-    scope = utils.ids.KOILANG,
+    scope = utils.ids.PLAYGROUND,
     options = [
       interactions.Option(
         name = "mode",
@@ -35,46 +37,62 @@ class FunCommands (interactions.Extension):
             value = "decrypt"
           )
         ]
-      ),
-      interactions.Option(
-        name = "text",
-        description = "The text to en/decrypt",
-        type = interactions.OptionType.STRING,
-        required = True
-      ),
-      interactions.Option(
-        name = "key",
-        description = "The key for the cypher",
-        type = interactions.OptionType.STRING,
-        required = True
-      ),
-      interactions.Option(
-        name = "offset",
-        description = "The amount by which to offset the output",
-        type = interactions.OptionType.INTEGER,
-        required = True
       )
     ]
   )
-  async def edcypher(self, ctx : interactions.CommandContext, mode : str, text : str, key : str, offset : int):
+  async def edcypher(self, ctx : interactions.CommandContext, mode: str):
+    text = interactions.TextInput(
+      style=interactions.TextStyleType.PARAGRAPH,
+      label="Enter the text to en/decrypt:",
+      custom_id="beezchurger"
+    )
+    key = interactions.TextInput(
+      style=interactions.TextStyleType.SHORT,
+      label="Enter the key:",
+      custom_id="llave"
+    )
+    offset = interactions.TextInput(
+      style=interactions.TextStyleType.SHORT,
+      label="Enter the number by which to offset:",
+      custom_id="offset"
+    )
+    
+    global MODE
+    MODE = mode
+
+    await ctx.popup(interactions.Modal(
+      title="Ed's Cypher",
+      custom_id="edcypher",
+      components=[text, key, offset]
+    ))
+
+  @interactions.extension_modal("edcypher")
+  async def do_cypher(self, ctx: interactions.CommandContext, text: str, key: str, offset: str):
     text = [ord(i) for i in text]
     key = [ord(i) * key.count(i) for i in key]
 
+    try:
+      offset = int(offset)
+    except ValueError:
+      await ctx.send("Your offset must be a number!", ephemeral=True)
+      return
+
     out = []
-    if mode == "encrypt":
-      for i, j in enumerate(text):
-        out.append(chr(j + key[i % len(key)] + offset))
+    
+    global MODE
+    if MODE == "encrypt":
+        for i, j in enumerate(text):
+            out.append(chr(j + key[i % len(key)] + offset))
     else:
       for i, j in enumerate(text):
-        out.append(chr(j - key[i % len(key)] - offset))
-
+          out.append(chr(j - key[i % len(key)] - offset))
     out = ''.join(out)
     await ctx.send(out)
 
   @interactions.extension_command(
     name = "no",
     description="You don't want to do this...",
-    scope=utils.ids.KOILANG
+    scope=utils.ids.PLAYGROUND
   )
   async def no (self, ctx: interactions.CommandContext):
     with open("commands/no.txt") as f:
