@@ -38,17 +38,22 @@ class DictionaryCommands (interactions.Extension):
   async def info(self, ctx : interactions.CommandContext, args : dict):
     dict = utils.dictionary.Dictionary(args['dictionary'], utils.dictionary.load_dictionaries())
     embeda = interactions.Embed(
-      title = dict.display_name,
-      description = dict.description if dict.description else "Placeholder...",
-      url = dict.link if dict.link else None,
-      thumbnail = interactions.EmbedImageStruct(url=dict.image)._json if dict.image else None,
-      fields = [
-        interactions.EmbedField(name = "Owner", value=f"{dict.owner['name']}#{dict.owner['discriminator']}"),
-        interactions.EmbedField(name="Words", value = len(dict.words)),
-        interactions.EmbedField(name="Sample Word", value=dict.random_word())
-      ]
+        title=dict.display_name,
+        description=dict.description or "Placeholder...",
+        url=dict.link or None,
+        thumbnail=interactions.EmbedImageStruct(
+            url=dict.image)._json if dict.image else None,
+        fields=[
+            interactions.EmbedField(
+                name="Owner",
+                value=f"{dict.owner['name']}#{dict.owner['discriminator']}",
+            ),
+            interactions.EmbedField(name="Words", value=len(dict.words)),
+            interactions.EmbedField(
+                name="Sample Word", value=dict.random_word()),
+        ],
     )
-    
+
     await ctx.send(embeds=embeda)
 
   async def edit (self, ctx : interactions.CommandContext, args : dict):
@@ -172,20 +177,20 @@ class DictionaryCommands (interactions.Extension):
         )
       ]
   )
-  async def dictionary (self, ctx : interactions.CommandContext, sub_command : str, **kwargs):
-    if sub_command == "search":
+  async def dictionary(self, ctx : interactions.CommandContext, sub_command : str, **kwargs):
+    if sub_command == "edit":
+      await self.edit(ctx, kwargs)
+    elif sub_command == "info":
+      await self.info(ctx, kwargs)
+    elif sub_command == "random":
+      await self.random(ctx, kwargs)
+    elif sub_command == "search":
       try:
         _ = kwargs['specificity']
       except KeyError:
         kwargs['specificity'] = "broad"
-        
+
       await self.search(ctx, kwargs)
-    elif sub_command == "random":
-      await self.random(ctx, kwargs)
-    elif sub_command == "info":
-      await self.info(ctx, kwargs)
-    elif sub_command == "edit":
-      await self.edit(ctx, kwargs)
 
 def setup (client):
   DictionaryCommands(client)

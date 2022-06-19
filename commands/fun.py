@@ -78,14 +78,13 @@ class FunCommands (interactions.Extension):
       return
 
     out = []
-    
+
     global MODE
-    if MODE == "encrypt":
-        for i, j in enumerate(text):
-            out.append(chr(j + key[i % len(key)] + offset))
-    else:
-      for i, j in enumerate(text):
-          out.append(chr(j - key[i % len(key)] - offset))
+    for i, j in enumerate(text):
+      if MODE == "encrypt":
+        out.append(chr(j + key[i % len(key)] + offset))
+      else:
+        out.append(chr(j - key[i % len(key)] - offset))
     out = ''.join(out)
     await ctx.send(out)
 
