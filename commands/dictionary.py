@@ -102,7 +102,7 @@ class DictionaryCommands (interactions.Extension):
             name = "specificity",
             description = "If set to narrow, only shows results that are the item; If broad, shows results that contain it.",
             type = interactions.OptionType.STRING,
-            required = True,
+            required = False,
             choices = [
               interactions.Choice(name = "Broad search", value = "broad"),
               interactions.Choice(name = "Narrow search", value = "narrow")
@@ -174,6 +174,11 @@ class DictionaryCommands (interactions.Extension):
   )
   async def dictionary (self, ctx : interactions.CommandContext, sub_command : str, **kwargs):
     if sub_command == "search":
+      try:
+        _ = kwargs['specificity']
+      except KeyError:
+        kwargs['specificity'] = "broad"
+        
       await self.search(ctx, kwargs)
     elif sub_command == "random":
       await self.random(ctx, kwargs)
