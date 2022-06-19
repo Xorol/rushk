@@ -114,4 +114,5 @@ bot.load("commands.help")
 print(f"[{utils.time.get_formatted_time()}] Help command loaded!")
 
 
+
 bot.start()
