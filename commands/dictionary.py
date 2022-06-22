@@ -51,30 +51,6 @@ class DictionaryCommands (interactions.Extension):
     
     await ctx.send(embeds=embeda)
 
-  async def edit (self, ctx : interactions.CommandContext, args : dict):
-    dict = utils.dictionary.Dictionary(args['dictionary'], utils.dictionary.load_dictionaries())
-    
-    if ctx.user.username != dict.owner["name"] or ctx.user.discriminator != dict.owner["discriminator"]:
-      await ctx.send("You can't edit that! It's not yours!")
-      return
-
-    json_dicts = utils.dictionary.load_dictionaries()
-
-    item = args["item"]
-    new = args["new"]
-
-    json_dicts[dict.name][item] = new
-
-    with open("dictionaries/dictionaries.json", "w") as f:
-      json.dump(json_dicts, f)
-
-    if item == "display":
-      await ctx.send("Your dictionary's name has been updated, but it will not show in the commands until I'm reloaded!")
-      return
-
-    await ctx.send("Your dictionary has been updated!")
-    
-
   @interactions.extension_command(
     name = "dictionary",
     description = "Secret desc lol",
@@ -137,40 +113,8 @@ class DictionaryCommands (interactions.Extension):
             choices = dictionary_choices
           )
         ]
-      ),
-      interactions.Option(
-        name = "edit",
-        description = "Edit your dictionary!",
-        type = interactions.OptionType.SUB_COMMAND,
-        options = [
-          interactions.Option(
-            name = "dictionary",
-            description="The dictionary to edit",
-            type = interactions.OptionType.STRING,
-            required = True,
-            choices = dictionary_choices
-          ),
-          interactions.Option(
-                name="item",
-                description="The thing to edit",
-                type = interactions.OptionType.STRING,
-                required=True,
-                choices=[
-                  interactions.Choice(name = "Image", value="image"),
-                  interactions.Choice(name = "Dictionary Link", value="dictionary"),
-                  interactions.Choice(name = "Name", value="display"),
-                  interactions.Choice(name = "Description", value="description"),
-                ]
-            ),
-            interactions.Option(
-              name = "new",
-              description="What to replace the item with",
-              type = interactions.OptionType.STRING,
-              required = True
-            ),
-          ]
-        )
-      ]
+      )
+    ]
   )
   async def dictionary (self, ctx : interactions.CommandContext, sub_command : str, **kwargs):
     if sub_command == "search":
@@ -184,8 +128,6 @@ class DictionaryCommands (interactions.Extension):
       await self.random(ctx, kwargs)
     elif sub_command == "info":
       await self.info(ctx, kwargs)
-    elif sub_command == "edit":
-      await self.edit(ctx, kwargs)
 
 def setup (client):
   DictionaryCommands(client)
