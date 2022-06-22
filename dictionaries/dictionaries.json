@@ -34,5 +34,16 @@
       "name":"inbread_cat",
       "discriminator":"4089"
     }
-  }
+  },
+  "aafokovol": {
+    "file":"dictionaries/aafokovol.csv",
+    "display":"Aafokovol",
+    "name":"aafokovol",
+    "description":"A post-apocalyptic language of two scripts and a culture based on the denial of scientific progress",
+    "image":"https://cdn.discordapp.com/attachments/773676901146296320/988988188716589146/59940300-1F81-4471-AFB2-EDCECBB67301.jpg",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1bivMhmc_CI3rYmDD8IX4CEA7n5x3tJ_FU6DIrx6WEco/edit#gid=974740045",
+    "owner": {
+      "name":"^_^",
+      "discriminator":"8842"
+    }
 }
