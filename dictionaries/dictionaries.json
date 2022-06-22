@@ -45,5 +45,27 @@
     "owner": {
       "name":"^_^",
       "discriminator":"8842"
+    },
+    "hantera": {
+    "file":"dictionaries/hantera.csv",
+    "display":"Hantera",
+    "name":"hantera",
+    "description":"a conpidgin that texas made with some friends",
+    "image":"https://cdn.discordapp.com/attachments/986040640360046652/986041321888301096/unknown.png",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1Tbp42dKbSI37apjB_NOngKqaijJngQX4VP9S-TrWGiQ/edit#gid=0",
+    "owner": {
+      "name":"tllsTEXAS",
+      "discriminator":"3313"
+    },
+    "gedenano": {
+    "file":"dictionaries/gedenano.csv",
+    "display":"Gedenano",
+    "name":"gedenano",
+    "description":"A minority language spoken by ex-time-travellers on Onope",
+    "image":"",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1wg6OkHMDYVBgsgZMoOr6_Oz9UerSuHFUhrrYS5dP0D4/edit#gid=2100135960",
+    "owner": {
+      "name":"hcaelbxorolc",
+      "discriminator":"9113"
     }
 }
