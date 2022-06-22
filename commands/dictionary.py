@@ -57,7 +57,7 @@ class DictionaryCommands (interactions.Extension):
     scope = utils.ids.KOILANG,
     options = [
       interactions.Option(
-        name = "searclh",
+        name = "search",
         description = "Search a dictionary!",
         type = interactions.OptionType.SUB_COMMAND,
         options = [
