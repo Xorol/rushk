@@ -32,8 +32,8 @@ bot: interactions.Client = interactions.Client(
 # Applies hooks to the class
 setup(bot)
 
-send_start_up_msg = False
-on_start_msg = "Added some more statuses (statii?)"
+on_start_msg = input("Enter a message: ")
+send_start_up_msg = on_start_msg != ""
 start_msg_channel_name = "bot"
 
 bot_name = "Rushk but hip"
