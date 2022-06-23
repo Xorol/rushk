@@ -32,7 +32,7 @@ bot: interactions.Client = interactions.Client(
 # Applies hooks to the class
 setup(bot)
 
-on_start_msg = input("Enter a message: ")
+on_start_msg = ''
 send_start_up_msg = on_start_msg != ""
 start_msg_channel_name = "bot"
 
