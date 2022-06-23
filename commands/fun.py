@@ -1,10 +1,102 @@
-import interactions, utils
+import interactions, utils, datetime
 
 MODE = ""
 
 class FunCommands (interactions.Extension):
   def __init__(self, client):
     self.client = client
+  
+  @interactions.extension_command(
+    name="format-time",
+    scope=utils.ids.KOILANG,
+    description="Format time",
+    options=[
+      interactions.Option(
+        name="day",
+        description="The day of the date to format",
+        type=interactions.OptionType.INTEGER,
+        required=True,
+        min_values=1,
+        max_values=31
+      ),
+      interactions.Option(
+        name="month",
+        description="The month of the date to format",
+        required=True,
+        type=interactions.OptionType.INTEGER,
+        choices=[
+          interactions.Choice(name="January",value=1),
+          interactions.Choice(name="February",value=2),
+          interactions.Choice(name="March",value=3),
+          interactions.Choice(name="April",value=4),
+          interactions.Choice(name="May",value=5),
+          interactions.Choice(name="June",value=6),
+          interactions.Choice(name="July",value=7),
+          interactions.Choice(name="August",value=8),
+          interactions.Choice(name="September",value=9),
+          interactions.Choice(name="October",value=10),
+          interactions.Choice(name="November",value=11),
+          interactions.Choice(name="December",value=12),
+        ]
+      ),
+      interactions.Option(
+        name="year",
+        description="The year of the date to format",
+        required=True,
+        type=interactions.OptionType.INTEGER,
+        min_values=0,
+      ),
+      interactions.Option(
+        name="format",
+        description="The format of the timestamp",
+        type=interactions.OptionType.STRING,
+        required=True,
+        choices=[
+          interactions.Choice(name="Short time (HH:MM PM/AM)", value="t"),
+          interactions.Choice(name="Long time (HH:MM:SS PM/AM)", value="T"),
+          interactions.Choice(name="Short date (DD/MM/YYYY)", value="d"),
+          interactions.Choice(name="Long date (DD month YYYY)", value="D"),
+          interactions.Choice(name="Short datetime (DD month YYYY HH:MM AM/PM)", value="f"),
+          interactions.Choice(name="Long datetime (day DD month YYYY HH:MM AM/PM)", value="F"),
+          interactions.Choice(name="Relative time (two months ago)", value="R"),
+        ]
+      ),
+      interactions.Option(
+        name="hour",
+        description="MUST BE 24-HOUR",
+        type=interactions.OptionType.INTEGER,
+        required=False,
+        min_values=0,
+        max_values=24
+      ),
+      interactions.Option(
+        name="minute",
+        description="The minute of the date to format",
+        type=interactions.OptionType.INTEGER,
+        required=False,
+        min_values=0,
+        max_values=60
+      ),
+      interactions.Option(
+        name="second",
+        description="The second of the date to format",
+        type=interactions.OptionType.INTEGER,
+        required=False,
+        min_values=0,
+        max_values=60
+      )
+    ]
+  )
+  async def format_time(self, ctx, day: int, month: int, year: int, format: str, hour:int = 0, minute:int = 0, second:int = 0):
+    dt = datetime.datetime(year, month, day, hour, minute, second)
+    embedu = interactions.Embed(
+      title="Time format",
+      fields=[
+        interactions.EmbedField(name="Preview", value=f"<t:{int(dt.timestamp())}:{format}>", inline=True),
+        interactions.EmbedField(name="Plain text", value=f"`<t:{int(dt.timestamp())}:{format}>`", inline=True)
+      ]
+    )
+    await ctx.send(embeds=embedu)
 
   @interactions.extension_command(
     name = "pancak",
