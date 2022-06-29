@@ -44,7 +44,7 @@ with open("statuses.txt", "r") as f:
 @create_task(IntervalTrigger(15))
 async def switch_statuses():
     status = random.choice(status_wheel)
-    await utils.utils.set_game(status, bot)
+    await utils.set_game(status, bot)
 
 
 ##########
@@ -64,7 +64,7 @@ async def on_ready():
     )
 
     # Set an initial status
-    await utils.utils.set_game(
+    await utils.set_game(
         "You've seen me within 15 seconds of me starting up! You must be a true fan!",
         bot
         )
@@ -84,7 +84,7 @@ with open("extensions.txt", "r") as fexts:
 
 for i in exts:
     bot.load(f"commands.{i}")
-    utils.time.ts_print(f"[%s] Loaded extension '{i}'")
+    utils.ts_print(f"[%s] Loaded extension '{i}'")
 
 # Start the bot
 bot.start()

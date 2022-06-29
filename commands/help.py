@@ -29,7 +29,7 @@ class HelpCommand(interactions.Extension):
   @interactions.extension_command(
     name="help",
     description="Get some help with commands!",
-    scope=utils.ids.KOILANG,
+    scope=utils.KOILANG,
     options=[
       interactions.Option(
         name="command",
