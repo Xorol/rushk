@@ -1,13 +1,13 @@
 import interactions, random, json, utils
 
-dictionary_choices = utils.dictionary.generate_dictionary_choices()
+dictionary_choices = utils.generate_dictionary_choices()
 
 class DictionaryCommands (interactions.Extension):
   def __init__(self, client):
     self.client : interactions.Client = client
 
   async def search (self, ctx : interactions.CommandContext, args : dict):
-    dict = utils.dictionary.Dictionary(args['dictionary'], utils.dictionary.load_dictionaries())
+    dict = utils.Dictionary(args['dictionary'], utils.load_dictionaries())
     res = dict.search(args['term'], args['specificity'])
 
     if len(res) >= 2000:    
@@ -26,26 +26,26 @@ class DictionaryCommands (interactions.Extension):
     await ctx.send(res)
 
   async def random(self, ctx : interactions.CommandContext, args : dict):
-    dicts = utils.dictionary.load_dictionaries()
+    dicts = utils.load_dictionaries()
     if args["dictionary"] == "random_dict":
       names = list(dicts.keys())
-      dict = utils.dictionary.Dictionary(random.choice(names), dicts)
+      dict = utils.Dictionary(random.choice(names), dicts)
     else:
-      dict = utils.dictionary.Dictionary(args['dictionary'], dicts)
+      dict = utils.Dictionary(args['dictionary'], dicts)
 
     await ctx.send(f"A random word from {dict.display_name}:\n{dict.random_word()}")
 
   async def info(self, ctx : interactions.CommandContext, args : dict):
-    dict = utils.dictionary.Dictionary(args['dictionary'], utils.dictionary.load_dictionaries())
+    dicty = utils.Dictionary(args['dictionary'], utils.load_dictionaries())
     embeda = interactions.Embed(
-      title = dict.display_name,
-      description = dict.description if dict.description else "Placeholder...",
-      url = dict.link if dict.link else None,
-      thumbnail = interactions.EmbedImageStruct(url=dict.image)._json if dict.image else None,
+      title = dicty.display_name,
+      description = dicty.description if dicty.description else "Placeholder...",
+      url = dicty.link if dicty.link else None,
+      thumbnail = interactions.EmbedImageStruct(url=dicty.image)._json if dicty.image else None,
       fields = [
-        interactions.EmbedField(name = "Owner", value=f"{dict.owner['name']}#{dict.owner['discriminator']}"),
-        interactions.EmbedField(name="Words", value = len(dict.words)),
-        interactions.EmbedField(name="Sample Word", value=dict.random_word())
+        interactions.EmbedField(name = "Owner", value=f"{dicty.owner['name']}#{dicty.owner['discriminator']}"),
+        interactions.EmbedField(name="Words", value = len(dicty.words)),
+        interactions.EmbedField(name="Sample Word", value=dicty.random_word())
       ]
     )
     
@@ -54,7 +54,7 @@ class DictionaryCommands (interactions.Extension):
   @interactions.extension_command(
     name = "dictionary",
     description = "Secret desc lol",
-    scope = utils.ids.KOILANG,
+    scope = utils.KOILANG,
     options = [
       interactions.Option(
         name = "search",
@@ -117,17 +117,18 @@ class DictionaryCommands (interactions.Extension):
     ]
   )
   async def dictionary (self, ctx : interactions.CommandContext, sub_command : str, **kwargs):
-    if sub_command == "search":
-      try:
-        _ = kwargs['specificity']
-      except KeyError:
-        kwargs['specificity'] = "broad"
-        
-      await self.search(ctx, kwargs)
-    elif sub_command == "random":
-      await self.random(ctx, kwargs)
-    elif sub_command == "info":
-      await self.info(ctx, kwargs)
+    match sub_command:
+      case "search":
+        try:
+          _ = kwargs['specificity']
+        except KeyError:
+          kwargs['specificity'] = "broad"
+          
+        await self.search(ctx, kwargs)
+      case "random":
+        await self.random(ctx, kwargs)
+      case "info":
+        await self.info(ctx, kwargs)
 
 def setup (client):
   DictionaryCommands(client)

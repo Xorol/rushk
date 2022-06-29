@@ -66,7 +66,7 @@ class WikipediaCommands (interactions.Extension):
   @interactions.extension_command(
       name = "wikipedia",
       description = "Secret desc lol",
-      scope = utils.ids.KOILANG,
+      scope = utils.KOILANG,
       options = [
         interactions.Option(
           name = "view",

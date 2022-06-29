@@ -23,9 +23,9 @@ class TsevhuCommands(interactions.Extension):
     ))
 
   async def tsevhu_to_ipa (self, ctx: interactions.CommandContext, response: str):
-    response = utils.str.removelt(response, utils.str.PUNCTUATION)
+    response = utils.removelt(response, utils.PUNCTUATION)
     
-    ipa = utils.str.replacedt(
+    ipa = utils.replacedt(
       response, 
       {
         # CONSOS
@@ -68,7 +68,7 @@ class TsevhuCommands(interactions.Extension):
   @interactions.extension_command(
     name="tsevhu",
     description="secret desc lol",
-    scope=utils.ids.KOILANG,
+    scope=utils.KOILANG,
     options=[
       interactions.Option(
         name="ipa",

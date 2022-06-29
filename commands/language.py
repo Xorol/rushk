@@ -7,7 +7,7 @@ class LanguageCommands (interactions.Extension):
   @interactions.extension_command(
     name = "hsilgne",
     description = "Translates your text in or out of hsilgnE!",
-    scope = utils.ids.KOILANG,
+    scope = utils.KOILANG,
     options = [
       interactions.Option(
         name = "language",
