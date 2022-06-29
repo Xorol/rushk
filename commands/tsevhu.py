@@ -22,9 +22,9 @@ class TsevhuCommands(interactions.Extension):
       components=[text_input]
     ))
 
-  async def tsevhu_to_ipa (self, ctx: interactions.CommandContext, response: str):
+  async def tsevhu_to_ipa(self, ctx: interactions.CommandContext, response: str):
     response = utils.removelt(response, utils.PUNCTUATION)
-    
+
     ipa = utils.replacedt(
       response, 
       {
@@ -62,8 +62,8 @@ class TsevhuCommands(interactions.Extension):
     )
 
     ipa = ipa.rstrip()
-    
-    await ctx.send("/" + ipa + "/")
+
+    await ctx.send(f"/{ipa}/")
 
   @interactions.extension_command(
     name="tsevhu",

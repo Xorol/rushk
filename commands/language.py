@@ -30,7 +30,7 @@ class LanguageCommands (interactions.Extension):
   async def hsilgne (self, ctx : interactions.CommandContext, language : str, text : str):
     dest = "English" if language == "english" else "hsilgnE"
     orig = "hsilgnE" if language == "english" else "English"
-    
+
     embedo = interactions.Embed(
       title = "Translation",
       fields = [
@@ -38,7 +38,7 @@ class LanguageCommands (interactions.Extension):
         interactions.EmbedField(name = dest, value = text[::-1])
       ]
     )
-    
+
     await ctx.send(embeds = embedo)
     
 def setup (client):

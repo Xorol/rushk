@@ -38,17 +38,22 @@ class DictionaryCommands (interactions.Extension):
   async def info(self, ctx : interactions.CommandContext, args : dict):
     dicty = utils.Dictionary(args['dictionary'], utils.load_dictionaries())
     embeda = interactions.Embed(
-      title = dicty.display_name,
-      description = dicty.description if dicty.description else "Placeholder...",
-      url = dicty.link if dicty.link else None,
-      thumbnail = interactions.EmbedImageStruct(url=dicty.image)._json if dicty.image else None,
-      fields = [
-        interactions.EmbedField(name = "Owner", value=f"{dicty.owner['name']}#{dicty.owner['discriminator']}"),
-        interactions.EmbedField(name="Words", value = len(dicty.words)),
-        interactions.EmbedField(name="Sample Word", value=dicty.random_word())
-      ]
+        title=dicty.display_name,
+        description=dicty.description or "Placeholder...",
+        url=dicty.link or None,
+        thumbnail=interactions.EmbedImageStruct(
+            url=dicty.image)._json if dicty.image else None,
+        fields=[
+            interactions.EmbedField(
+                name="Owner",
+                value=f"{dicty.owner['name']}#{dicty.owner['discriminator']}",
+            ),
+            interactions.EmbedField(name="Words", value=len(dicty.words)),
+            interactions.EmbedField(
+                name="Sample Word", value=dicty.random_word()),
+        ],
     )
-    
+
     await ctx.send(embeds=embeda)
 
   @interactions.extension_command(
