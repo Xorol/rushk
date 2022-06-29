@@ -42,24 +42,17 @@ class Dictionary:
 
     self.words = [i.split(',')[:4] for i in self.raw.split("\n")]
 
-  def search (self, item : str, specificity : str = "broad"):
+  def search(self, item : str, specificity : str = "broad"):
     out = []
-    if specificity == "broad":
-      for i in self.words:
-        for j in i:
-          if item in j: 
-            out.append(i)
-    elif specificity == "narrow":
-      for i in self.words:
-        for j in i:
-          if item == j: 
-            out.append(i)
-
-    if len(out) == 0:
+    for i in self.words:
+      out.extend(
+          i for j in i if specificity == "broad" and item in j
+          or specificity != "broad" and specificity == "narrow" and item == j)
+    if not out:
       return "No results"
 
     act_out = f"Result{'s' if len(out) > 1 else ''} for {item} in {self.display_name}:"
-    
+
     for i in out:
       act_out += "\n" + self.format_word(i)
 
@@ -77,10 +70,10 @@ def load_dictionaries():
 
 def generate_dictionary_choices():
   dicts = load_dictionaries()
-  out = []
-  for i in dicts.keys():
-    out.append(interactions.Choice(name = dicts[i]['display'], value = dicts[i]['name']))
-  return out
+  return [
+      interactions.Choice(name=dicts[i]['display'], value=dicts[i]['name'])
+      for i in dicts.keys()
+  ]
 
 async def set_game(game : str, client : interactions.Client):
   await client.change_presence(interactions.ClientPresence(activities=[interactions.PresenceActivity(name=game, type=interactions.PresenceActivityType.GAME)]))
@@ -108,14 +101,14 @@ def ts_print(text: str) -> None:
   """Print text with the formatted time, replacing '%s' with the time"""
   print(text % get_formatted_time())
 
-def replacedt (string: str, replacements: dict, multis: dict = None) -> str:
+def replacedt(string: str, replacements: dict, multis: dict = None) -> str:
   """Replace stuff in a string via a dictionary"""
   re_keys = replacements.keys()
-  
+
   if multis:
-    for i in multis.keys():
+    for i in multis:
       string = string.replace(str(i), multis[i])
-  
+
   for i in re_keys:
     string = string.replace(str(i), replacements[i])
   return string
