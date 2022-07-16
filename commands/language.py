@@ -7,7 +7,7 @@ class LanguageCommands (interactions.Extension):
    
   @interactions.extension_message_command(
     name="Translate",
-    scope=utils.ids.PLAYGROUND
+    scope=utils.KOILANG
   )
   async def translate_command(self, ctx: interactions.CommandContext):
     content = str(ctx.target)
