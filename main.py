@@ -83,8 +83,8 @@ with open("extensions.txt", "r") as fexts:
     exts: list[str] = fexts.read().split("\n")
 
 for i in exts:
-    bot.load(f"commands.{i}")
     utils.ts_print(f"[%s] Loaded extension '{i}'")
+    bot.load(f"commands.{i}")
 
 # Start the bot
 bot.start()
