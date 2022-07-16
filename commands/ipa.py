@@ -7,7 +7,7 @@ class IPACommands(interactions.Extension):
   @interactions.extension_modal("tsevhu_ipa_in")
   async def tsevhu_ipa_in(self, ctx, response):
     response = utils.removelt(response, utils.PUNCTUATION)
-    
+
     ipa = utils.replacedtck(
       response.lower(), 
       {
@@ -63,8 +63,8 @@ class IPACommands(interactions.Extension):
     )
 
     ipa = ipa.rstrip()
-    
-    await ctx.send("/" + ipa + "/")
+
+    await ctx.send(f"/{ipa}/")
 
   async def tsevhu_to_ipa_show_modal (self, ctx: interactions.CommandContext):
     text_input = interactions.TextInput(
@@ -80,7 +80,7 @@ class IPACommands(interactions.Extension):
     ))
 
   @interactions.extension_modal("ciscun_ipa_in")
-  async def ciscun_to_ipa (self, ctx, response):
+  async def ciscun_to_ipa(self, ctx, response):
     response = utils.removelt(response, utils.PUNCTUATION)
 
     response = utils.replacedtck(
@@ -107,7 +107,7 @@ class IPACommands(interactions.Extension):
       }
     ).rstrip()
 
-    await ctx.send("/" + response + "/")
+    await ctx.send(f"/{response}/")
     
   async def ciscun_to_ipa_show_modal (self, ctx: interactions.CommandContext):
     text_input = interactions.TextInput(
@@ -123,7 +123,7 @@ class IPACommands(interactions.Extension):
     ))
 
   @interactions.extension_modal("gedenano_ipa_in")
-  async def gedenano_to_ipa (self, ctx, response):
+  async def gedenano_to_ipa(self, ctx, response):
     response = utils.removelt(response, utils.PUNCTUATION)
     ipa = utils.replacedtck(
       response.lower(),
@@ -150,7 +150,7 @@ class IPACommands(interactions.Extension):
         "b", "p", "d", "t", "z", "s", "m", "n", "r", "g", "i", "o", "u", "j"
       ]
     ).rstrip()
-    await ctx.send("/" + ipa + "/")
+    await ctx.send(f"/{ipa}/")
 
   @interactions.extension_command(
     name="ipa",
