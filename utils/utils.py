@@ -120,6 +120,52 @@ def replacedt (string: str, replacements: dict, multis: dict = None) -> str:
     string = string.replace(str(i), replacements[i])
   return string
 
+def replacedtck (string: str, replacements: dict, *, checks: dict = {}, ck_vars: dict = {}, unchanged: list = None, multis: dict = {}) -> str:
+  """Replaces via dictionary, but with checks"""
+
+  out = string
+  
+  #handle unchangeds
+  if unchanged:
+    for i in unchanged:
+      replacements[i] = i
+
+  if multis != {}:
+    for i in multis.keys():
+      out = out.replace(str(i), multis[i])
+
+  out = list(out)
+  next_ = prev = None
+  skip = False
+  for i, j in enumerate(out):
+    print(i, j)
+    if j not in replacements:
+      continue
+    if skip:
+      skip = False
+      continue
+      
+    if i != len(string) - 1:
+      next_ = string[i + 1]
+    else:
+      next_ = None
+  
+    if i > 0:
+      prev = string[i - 1]
+
+    ck_vars = {**ck_vars, **{"next_":next_, "prev":prev, "out":out, "i":i, "skip":skip}}
+
+    if j in checks:
+      if isinstance(checks[j], dict):
+        skip = checks[j]["skip"]
+        out[i] = replacements[j][eval(checks[j]["check"], ck_vars)]
+      else:
+        out[i] = replacements[j][eval(checks[j], ck_vars)]
+    else:
+      out[i] = replacements[j]
+
+  return "".join(out)
+
 def remove (string: str, remove_: str) -> str:
   """Remove a character from a string"""
   return string.replace(remove_, "")
