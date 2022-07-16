@@ -10,6 +10,7 @@ class LanguageCommands (interactions.Extension):
     scope=utils.KOILANG
   )
   async def translate_command(self, ctx: interactions.CommandContext):
+    await ctx.defer(ephemeral=True)
     content = str(ctx.target)
 
     translated_lang = to_name(tr.google(content, is_detail_result=True)[-1])
