@@ -8,7 +8,7 @@ HELP_STRS = {
   "edcypher":"`/edcypher`\n> Encrypt your messages with Ed's Cypher. It has no arguments, as your super secret message is gotten through fancy pop-ups",
   "tsevhu-ipa":"`/tsevhu ipa`\n> Turns your tsevhu text into IPA! It has no arguments because your text is gotten through modals.",
   "wiki-random":"`\wikipedia random [<pages>]`\n> Gets a random page from Wikipedia\n\n`pages` - Optional. The number of random pages to get. Be careful, the command takes longer the bigger this number is. Also, you'll only get a summary of the page if this is set to 1. Defaults to 1.",
-  "wiki-view":"`/wikipedia view <page>`\n> Gives a summary of `page` as a Wikipedia page. Also provides a link to the page.\n\n`page` - The page to get a summary of.":
+  "wiki-view":"`/wikipedia view <page>`\n> Gives a summary of `page` as a Wikipedia page. Also provides a link to the page.\n\n`page` - The page to get a summary of.",
   "translate":"Translate will, using Google Translate, detect the language a message is in and translate it to English. It will also hide the translated version for use in places like apanglogae. To use it, hover over a message and go to the three dots. Click them and go to 'Apps >' and select 'Translate', and your message will be translated. https://images-ext-2.discordapp.net/external/aqyoLdSrzzTllgBO79uYJhXxikSkWSGy9hpgJo0l7UA/https/i.imgur.com/owN45I5.mp4"
 }
 
