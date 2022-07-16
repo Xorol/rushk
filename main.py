@@ -78,9 +78,10 @@ async def on_ready():
 #COMMAND & BOT INITIALIZATION#
 ##############################
 
-# Open extensions file
-with open("extensions.txt", "r") as fexts:
-    exts: list[str] = fexts.read().split("\n")
+exts = []
+for filename in os.listdir(os.path.join(os.path.dirname(os.path.realpath(__file__)), "commands")):
+    if filename.endswith(".py"):
+        exts.append(filename.replace(".py", ""))
 
 for i in exts:
     utils.ts_print(f"[%s] Loaded extension '{i}'")
