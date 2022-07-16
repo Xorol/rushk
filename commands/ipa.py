@@ -1,4 +1,4 @@
-import interactions, utils
+import interactions, utils, translators as tr
 
 class IPACommands(interactions.Extension):
   def __init__(self, client : interactions.Client):
