@@ -1,4 +1,4 @@
-import interactions, utils, translators
+import interactions, utils, translators as tr
 from iso639 import to_name
 
 class LanguageCommands (interactions.Extension):
