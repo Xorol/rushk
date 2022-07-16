@@ -4,3 +4,5 @@ interactions-wait-for>=1.0.5
 interactions-tasks>=1.0.0
 wikipedia>=1.4.0
 loguru>=0.0.0
+iso639>=0.1.4
+translators>=5.3.1
