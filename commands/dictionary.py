@@ -100,7 +100,7 @@ class DictionaryCommands (interactions.Extension):
                 name="dictionary",
                 description="The dictionary to get a random word from",
                 type = interactions.OptionType.STRING,
-                required=True,
+                required=False,
                 choices=dictionary_choices + [interactions.Choice(name="Random dictionary", value="random_dict")],
               )
             ]
@@ -131,6 +131,10 @@ class DictionaryCommands (interactions.Extension):
           
         await self.search(ctx, kwargs)
       case "random":
+        try:
+          _ = kwargs['dictionary']
+        except KeyError:
+          kwargs['dictionary'] = "random_dict"
         await self.random(ctx, kwargs)
       case "info":
         await self.info(ctx, kwargs)
