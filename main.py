@@ -64,13 +64,13 @@ async def on_ready():
     )
 
     # Set an initial status
-    await utils.set_game(
-        "You've seen me within 15 seconds of me starting up! You must be a true fan!",
-        bot
-        )
+    #await utils.set_game(
+    #    "You've seen me within 15 seconds of me starting up! You must be a true fan!",
+    #    bot
+    #    )
 
     # Begin the status revolver
-    switch_statuses.start()
+    #switch_statuses.start()
     utils.ts_print("[%s] Status revolver started!")
 
 
