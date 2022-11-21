@@ -70,5 +70,17 @@
       "name":"hcaelbxorolc",
       "discriminator":"9113"
     }
+  },
+  "illyrian": {
+    "file":"dictionaries/illyriandict.csv",
+    "display":"Illyrian",
+    "name":"illyrian",
+    "description":"",
+    "image":"",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
+    "owner": {
+      "name":"tllsTEXAS",
+      "discriminator":"3313"
+    }
   }
 }
