@@ -11,7 +11,7 @@ class LanguageCommands (interactions.Extension):
   )
   async def translate_command(self, ctx: interactions.CommandContext):
     await ctx.defer(ephemeral=True)
-    content = str(ctx.target)
+    content = ctx.target.content
 
     translated_lang = to_name(tr.google(content, is_detail_result=True)[-1])
     translated = tr.google(content)
