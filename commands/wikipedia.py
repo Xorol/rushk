@@ -4,12 +4,9 @@ class WikipediaCommands (interactions.Extension):
   def __init__(self, client : interactions.Client):
     self.client = client
 
-  def embedify_page (self, page : wikipedia.WikipediaPage):
+  def embedify_page(self, page : wikipedia.WikipediaPage):
     return interactions.Embed(
-      title = page.title,
-      url = page.url,
-      description = page.summary[:550] + "..."
-    )
+        title=page.title, url=page.url, description=f"{page.summary[:550]}...")
 
   async def view (self, ctx, kwargs):
 
@@ -66,7 +63,7 @@ class WikipediaCommands (interactions.Extension):
   @interactions.extension_command(
       name = "wikipedia",
       description = "Secret desc lol",
-      scope = utils.ids.KOILANG,
+      scope = utils.KOILANG,
       options = [
         interactions.Option(
           name = "view",
