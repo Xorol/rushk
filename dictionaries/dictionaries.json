@@ -34,53 +34,5 @@
       "name":"inbread_cat",
       "discriminator":"4089"
     }
-  },
-  "aafokovol": {
-    "file":"dictionaries/aafokovol.csv",
-    "display":"Aafokovol",
-    "name":"aafokovol",
-    "description":"A post-apocalyptic language of two scripts and a culture based on the denial of scientific progress",
-    "image":"https://cdn.discordapp.com/attachments/773676901146296320/988988188716589146/59940300-1F81-4471-AFB2-EDCECBB67301.jpg",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1bivMhmc_CI3rYmDD8IX4CEA7n5x3tJ_FU6DIrx6WEco/edit#gid=974740045",
-    "owner": {
-        "name":"^_^",
-        "discriminator":"8842"
-      }
-  },
-  "hantera": {
-  "file":"dictionaries/hantera.csv",
-  "display":"Hantera",
-  "name":"hantera",
-  "description":"a conpidgin that texas made with some friends",
-  "image":"https://cdn.discordapp.com/attachments/986040640360046652/986041321888301096/unknown.png",
-  "dictionary":"https://docs.google.com/spreadsheets/d/1Tbp42dKbSI37apjB_NOngKqaijJngQX4VP9S-TrWGiQ/edit#gid=0",
-  "owner": {
-    "name":"tllsTEXAS",
-    "discriminator":"3313"
-    }
-  },
-  "gedenano": {
-    "file":"dictionaries/gedenano.csv",
-    "display":"Gedenano",
-    "name":"gedenano",
-    "description":"A minority language spoken by ex-time-travellers on Onope",
-    "image":"",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1wg6OkHMDYVBgsgZMoOr6_Oz9UerSuHFUhrrYS5dP0D4/edit#gid=2100135960",
-    "owner": {
-      "name":"hcaelbxorolc",
-      "discriminator":"9113"
-    }
-  },
-  "illyrian": {
-    "file":"dictionaries/illyriandict.csv",
-    "display":"Illyrian",
-    "name":"illyrian",
-    "description":"The better of the texas conlangs. Spoken in an alternate-universe Dalmatian region.",
-    "image":"",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
-    "owner": {
-      "name":"tllsTEXAS",
-      "discriminator":"3313"
-    }
   }
 }

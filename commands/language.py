@@ -1,35 +1,13 @@
-import interactions, utils, translators as tr
-from iso639 import to_name
+import interactions, utils
 
 class LanguageCommands (interactions.Extension):
   def __init__(self, client : interactions.Client):
     self.client = client
-   
-  @interactions.extension_message_command(
-    name="Translate",
-    scope=utils.KOILANG
-  )
-  async def translate_command(self, ctx: interactions.CommandContext):
-    await ctx.defer(ephemeral=True)
-    content = ctx.target.content
-
-    translated_lang = to_name(tr.google(content, is_detail_result=True)[-1])
-    translated = tr.google(content)
-
-    embedse = interactions.Embed(
-      title="Translation",
-      fields=[
-        interactions.EmbedField(name="Original text", value=content, inline=True),
-        interactions.EmbedField(name="Translated text", value=translated, inline=True),
-        interactions.EmbedField(name="Detected language", value=translated_lang, inline=True)
-      ]
-    )
-    await ctx.send(embeds=embedse, ephemeral=True)
 
   @interactions.extension_command(
     name = "hsilgne",
     description = "Translates your text in or out of hsilgnE!",
-    scope = utils.KOILANG,
+    scope = utils.ids.KOILANG,
     options = [
       interactions.Option(
         name = "language",
@@ -52,7 +30,7 @@ class LanguageCommands (interactions.Extension):
   async def hsilgne (self, ctx : interactions.CommandContext, language : str, text : str):
     dest = "English" if language == "english" else "hsilgnE"
     orig = "hsilgnE" if language == "english" else "English"
-
+    
     embedo = interactions.Embed(
       title = "Translation",
       fields = [
@@ -60,7 +38,7 @@ class LanguageCommands (interactions.Extension):
         interactions.EmbedField(name = dest, value = text[::-1])
       ]
     )
-
+    
     await ctx.send(embeds = embedo)
     
 def setup (client):
