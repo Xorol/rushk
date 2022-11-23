@@ -28,7 +28,7 @@ XOROL = 938379645919834143
 class Dictionary:
   def __init__(self, name : str, dictionaries : dict):
     self.file = dictionaries[name]["file"]
-    
+
     with open(self.file) as f:
       self.raw = f.read()
 
