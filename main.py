@@ -70,7 +70,7 @@ async def on_ready():
     #    )
 
     # Begin the status revolver
-    switch_statuses.start()
+    #switch_statuses.start()
     utils.ts_print("[%s] Status revolver started!")
 
 
