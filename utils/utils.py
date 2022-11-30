@@ -59,6 +59,10 @@ class Dictionary:
     return act_out
 
   def format_word(self, word, oneline : bool = False):
+    for i, j in enumerate(word[:5]):
+      if (j.startswith('"') and j.endswith('"')):
+        word[i] = j[1:-1]
+        
     return f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''} - {word[2]}. {word[3]}" if oneline else f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''}\n*{word[2]}*. {word[3]}{('— ' + word[4]) if len(word) >= 5 else ''}"
 
   def random_word(self, oneline : bool = False):
