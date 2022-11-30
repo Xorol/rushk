@@ -28,7 +28,7 @@ XOROL = 938379645919834143
 class Dictionary:
   def __init__(self, name : str, dictionaries : dict):
     self.file = dictionaries[name]["file"]
-    
+
     with open(self.file) as f:
       self.raw = f.read()
 
@@ -62,8 +62,12 @@ class Dictionary:
     for i, j in enumerate(word[:5]):
       if (j.startswith('"') and j.endswith('"')):
         word[i] = j[1:-1]
-        
-    return f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''} - {word[2]}. {word[3]}" if oneline else f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''}\n*{word[2]}*. {word[3]}{('— ' + word[4]) if len(word) >= 5 else ''}"
+
+    return (
+        f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''} - {word[2]}. {word[3]}"
+        if oneline else
+        f"**{word[0]}** {'/' if word[1] else ''}{word[1]}{'/' if word[1] else ''}\n*{word[2]}*. {word[3]}{f'— {word[4]}' if len(word) >= 5 else ''}"
+    )
 
   def random_word(self, oneline : bool = False):
     return self.format_word(random.choice(self.words), oneline)
