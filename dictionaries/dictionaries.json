@@ -27,7 +27,7 @@
     "file":"dictionaries/osrhean.csv",
     "display":"Osrhean",
     "name":"osrhean",
-    "description":null,
+    "description":"A Romance conlang, heavily inspired by Portuguese.",
     "image":null,
     "dictionary":"https://docs.google.com/spreadsheets/d/1olMXONhafUZL2ZuAsvK1oQ2h9XCG9idj-tv3d5ldhSs/edit#gid=416545861",
     "owner": {
@@ -41,7 +41,7 @@
     "name":"rasna",
     "description":"Rasna (aka. Classic Atlantean) is spoken by the people of Atlantis. It has strong lexical connections with Etruscan and some ancient Indo-European languages.",
     "image":null,
-    "dictionary":null,
+    "dictionary":"https://lexicon.ga/936245299",
     "owner": {
       "name":"inbread_cat",
       "discriminator":"4089"
@@ -76,6 +76,18 @@
     "display":"Illyrian",
     "name":"illyrian",
     "description":"The better of the texas conlangs. Spoken in an alternate-universe Dalmatian region.",
+    "image":null,
+    "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
+    "owner": {
+      "name":"tllsTEXAS",
+      "discriminator":"3313"
+    }
+  },
+  "olamolh": {
+    "file":"dictionaries/olamolh.csv",
+    "display":"Ólamolh",
+    "name":"olamolh",
+    "description":"A language with a Spanish-inspired orthography and complex grammar that makes heavy use of non-concatenative morphology including benfeactive suffixes for verbs and possessive suffixes for nouns spoken traditionally buy a group of hunter-gatherer tribes but has now expanded to an entire country which sits between the United States and Mexico.",
     "image":"",
     "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
     "owner": {
