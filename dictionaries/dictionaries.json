@@ -1,15 +1,15 @@
 {
-  "tsevhu": {
-    "file":"dictionaries/tsevhu.csv",
-    "display":"Tsevhu",
-    "name":"tsevhu",
-    "description":"Tsevhu [tsɛˈβu] n. constructed art-language made by koallary centered around the basis of a free-order volition controlled grammar system and a hidden non-linear writing system created using koi fish and ripples.",
-    "image":"https://images-ext-1.discordapp.net/external/pfO3zveWqrkhb3Yj9E3njEkA3Fsm2iIU4AdYvLoQvu0/%3Fwidth%3D3600%26format%3Dpng%26auto%3Dwebp%26s%3D635087de582bd1765c00161fb111058e81d57e1a/https/preview.redd.it/vgwk8ixaouc61.png?width=665&height=499",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1Z3GgLvUsjAupx9l_Zo0lBfozFwRk_K_gE6kCBJmuU3Y/edit#gid=0",
-    "owner":{
-      "name":"koallary",
-      "discriminator":"0263"
-    }
+  "aafokovol": {
+    "file":"dictionaries/aafokovol.csv",
+    "display":"Aafokovol",
+    "name":"aafokovol",
+    "description":"A post-apocalyptic language of two scripts and a culture based on the denial of scientific progress",
+    "image":"https://cdn.discordapp.com/attachments/773676901146296320/988988188716589146/59940300-1F81-4471-AFB2-EDCECBB67301.jpg",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1bivMhmc_CI3rYmDD8IX4CEA7n5x3tJ_FU6DIrx6WEco/edit#gid=974740045",
+    "owner": {
+        "name":"^_^",
+        "discriminator":"8842"
+      }
   },
   "ciscun": {
     "file":"dictionaries/ciscun.csv",
@@ -23,64 +23,76 @@
       "discriminator":"8842"
     }
   },
-  "osrhean": {
-    "file":"dictionaries/osrhean.csv",
-    "display":"Osrhean",
-    "name":"osrhean",
-    "description":null,
-    "image":null,
-    "dictionary":null,
-    "owner": {
-      "name":"inbread_cat",
-      "discriminator":"4089"
-    }
-  },
-  "aafokovol": {
-    "file":"dictionaries/aafokovol.csv",
-    "display":"Aafokovol",
-    "name":"aafokovol",
-    "description":"A post-apocalyptic language of two scripts and a culture based on the denial of scientific progress",
-    "image":"https://cdn.discordapp.com/attachments/773676901146296320/988988188716589146/59940300-1F81-4471-AFB2-EDCECBB67301.jpg",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1bivMhmc_CI3rYmDD8IX4CEA7n5x3tJ_FU6DIrx6WEco/edit#gid=974740045",
-    "owner": {
-        "name":"^_^",
-        "discriminator":"8842"
-      }
-  },
   "hantera": {
-  "file":"dictionaries/hantera.csv",
-  "display":"Hantera",
-  "name":"hantera",
-  "description":"a conpidgin that texas made with some friends",
-  "image":"https://cdn.discordapp.com/attachments/986040640360046652/986041321888301096/unknown.png",
-  "dictionary":"https://docs.google.com/spreadsheets/d/1Tbp42dKbSI37apjB_NOngKqaijJngQX4VP9S-TrWGiQ/edit#gid=0",
-  "owner": {
-    "name":"tllsTEXAS",
-    "discriminator":"3313"
-    }
-  },
-  "gedenano": {
-    "file":"dictionaries/gedenano.csv",
-    "display":"Gedenano",
-    "name":"gedenano",
-    "description":"A minority language spoken by ex-time-travellers on Onope",
-    "image":"",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1wg6OkHMDYVBgsgZMoOr6_Oz9UerSuHFUhrrYS5dP0D4/edit#gid=2100135960",
+    "file":"dictionaries/hantera.csv",
+    "display":"Hantera",
+    "name":"hantera",
+    "description":"a conpidgin that texas made with some friends",
+    "image":"https://cdn.discordapp.com/attachments/986040640360046652/986041321888301096/unknown.png",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1Tbp42dKbSI37apjB_NOngKqaijJngQX4VP9S-TrWGiQ/edit#gid=0",
     "owner": {
-      "name":"hcaelbxorolc",
-      "discriminator":"9113"
+      "name":"tllsTEXAS",
+      "discriminator":"3313"
     }
   },
   "illyrian": {
-    "file":"dictionaries/illyriandict.csv",
+    "file":"dictionaries/illyrian.csv",
     "display":"Illyrian",
     "name":"illyrian",
     "description":"The better of the texas conlangs. Spoken in an alternate-universe Dalmatian region.",
+    "image":null,
+    "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
+    "owner": {
+      "name":"tllsTEXAS",
+      "discriminator":"3313"
+    }
+  },
+  "olamolh": {
+    "file":"dictionaries/olamolh.csv",
+    "display":"Ólamolh",
+    "name":"olamolh",
+    "description":"A language with a Spanish-inspired orthography and complex grammar that makes heavy use of non-concatenative morphology including benfeactive suffixes for verbs and possessive suffixes for nouns spoken traditionally buy a group of hunter-gatherer tribes but has now expanded to an entire country which sits between the United States and Mexico.",
     "image":"",
     "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
     "owner": {
       "name":"tllsTEXAS",
       "discriminator":"3313"
+    }
+  },
+  "osrhean": {
+    "file":"dictionaries/osrhean.csv",
+    "display":"Osrhean",
+    "name":"osrhean",
+    "description":"A Romance conlang, heavily inspired by Portuguese.",
+    "image":null,
+    "dictionary":"https://docs.google.com/spreadsheets/d/1olMXONhafUZL2ZuAsvK1oQ2h9XCG9idj-tv3d5ldhSs/edit#gid=416545861",
+    "owner": {
+      "name":"inbread_cat",
+      "discriminator":"4089"
+    }
+  },
+  "rasna": {
+    "file":"dictionaries/rasna.csv",
+    "display":"Rasna",
+    "name":"rasna",
+    "description":"Rasna (aka. Classic Atlantean) is spoken by the people of Atlantis. It has strong lexical connections with Etruscan and some ancient Indo-European languages.",
+    "image":null,
+    "dictionary":"https://lexicon.ga/936245299",
+    "owner": {
+      "name":"inbread_cat",
+      "discriminator":"4089"
+    }
+  },
+  "tsevhu": {
+    "file":"dictionaries/tsevhu.csv",
+    "display":"Tsevhu",
+    "name":"tsevhu",
+    "description":"Tsevhu [tsɛˈβu] n. constructed art-language made by koallary centered around the basis of a free-order volition controlled grammar system and a hidden non-linear writing system created using koi fish and ripples.",
+    "image":"https://images-ext-1.discordapp.net/external/pfO3zveWqrkhb3Yj9E3njEkA3Fsm2iIU4AdYvLoQvu0/%3Fwidth%3D3600%26format%3Dpng%26auto%3Dwebp%26s%3D635087de582bd1765c00161fb111058e81d57e1a/https/preview.redd.it/vgwk8ixaouc61.png?width=665&height=499",
+    "dictionary":"https://docs.google.com/spreadsheets/d/1Z3GgLvUsjAupx9l_Zo0lBfozFwRk_K_gE6kCBJmuU3Y/edit#gid=0",
+    "owner":{
+      "name":"koallary",
+      "discriminator":"0263"
     }
   }
 }
