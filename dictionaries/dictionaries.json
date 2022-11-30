@@ -29,6 +29,18 @@
     "name":"osrhean",
     "description":null,
     "image":null,
+    "dictionary":"https://docs.google.com/spreadsheets/d/1olMXONhafUZL2ZuAsvK1oQ2h9XCG9idj-tv3d5ldhSs/edit#gid=416545861",
+    "owner": {
+      "name":"inbread_cat",
+      "discriminator":"4089"
+    }
+  },
+  "rasna": {
+    "file":"dictionaries/rasna.csv",
+    "display":"Rasna",
+    "name":"rasna",
+    "description":"Rasna (aka. Classic Atlantean) is spoken by the people of Atlantis. It has strong lexical connections with Etruscan and some ancient Indo-European languages.",
+    "image":null,
     "dictionary":null,
     "owner": {
       "name":"inbread_cat",
@@ -59,20 +71,8 @@
     "discriminator":"3313"
     }
   },
-  "gedenano": {
-    "file":"dictionaries/gedenano.csv",
-    "display":"Gedenano",
-    "name":"gedenano",
-    "description":"A minority language spoken by ex-time-travellers on Onope",
-    "image":"",
-    "dictionary":"https://docs.google.com/spreadsheets/d/1wg6OkHMDYVBgsgZMoOr6_Oz9UerSuHFUhrrYS5dP0D4/edit#gid=2100135960",
-    "owner": {
-      "name":"hcaelbxorolc",
-      "discriminator":"9113"
-    }
-  },
   "illyrian": {
-    "file":"dictionaries/illyriandict.csv",
+    "file":"dictionaries/illyrian.csv",
     "display":"Illyrian",
     "name":"illyrian",
     "description":"The better of the texas conlangs. Spoken in an alternate-universe Dalmatian region.",
