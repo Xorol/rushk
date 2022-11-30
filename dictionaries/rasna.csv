@@ -1,959 +1,959 @@
-"word","pronunciation","part of speech","definition","explanation","etymology (comma-separated)","related words (comma-separated)","principal parts (comma-separated)"
-"a","ɑ","Preposition","from, coming from, out of","","Oscan: aa ""from""","",""
-"abharë","ɑ.bˠɑ.ʁə","Inanimate Noun","oregano","","Ancient Macedonian: ἀβαρύ ""oregano""","",""
-"abrofi","ɑ.bʁo.ɸi","Animate Noun","boar","","Umbrian: abrof ""wild boars""","",""
-"acali","ɑ.kɑ.li","Animate Noun","June (month)","","Etruscan: acale ""June""","",""
-"acathu","ɑ.kɑ.tˠu","Masculine Noun","lawyer","","Oscan: akkatus ""lawyers""","",""
-"acathun","ɑ.kɑ.tˠun","un-Adjective","masculine, male","","Etruscan: acathur ""boy""","",""
-"acazrë","ɑ.kɑz.ʁə","Inanimate Noun","object, thing","","Etruscan: acazr ""objects offered in the tomb,offers""","",""
-"acilë","ɑ.ki.lə","Inanimate Noun","work, product","","Etruscan: acil ""work,thing made""","",""
-"acilu","ɑ.ki.lu","Masculine Noun","producer, maker","","Etruscan: acil ""producer,potter""","",""
-"acilu","ɑ.ki.lu","Personal Name","Achilles [masc. name]","","Etruscan: Achle,Achile ""Achilles""","",""
-"acnanun","ɑk.nɑ.nun","un-Adjective","boring, bored","","Etruscan: acnanas ""begot,bore""","",""
-"acontiu","ɑ.kon.ti.u","Masculine Noun","spine, backbone","","Ancient Macedonian: ἀκόντιον ""spine,backbone,anything ridged like the backbone""","",""
-"acreine","ɑ.kʁɛi.nɛ","eine-Verb","sharpen","","acri + eine","",""
-"acri","ɑ.kʁi","i-Adjective","sharp, pointy","","Oscan: akrid ""sharply""","",""
-"acrithi","ɑ.kʁi.tˠi","i-Adjective","dull, blunt","","acri + opposite infix","",""
-"adrun","ɑ.dʁun","un-Adjective","black","","Umbrian: adro ""black""","",""
-"aduplië","ɑ.du.pli.ə","Inanimate Noun","dress","","Hittite: adupli- ""garment,dress""","",""
-"aficthun","ɑ.ɸik.tˠun","un-Adjective","impressive","","Umbrian: afiktu ""impressive""","",""
-"aft","ɑɸt","","but, however","","Oscan: avt ""but,however""","",""
-"aga","ɑ.gɑ","Pronoun","him, her, it","third person singular inanimate accusative pronoun","Etruscan: ca ""this,that""","",""
-"agaë","ɑ.gɑ.ə","Pronoun","him, her, it","third person singular inanimate dative pronoun","Etruscan: ca ""this,that""","",""
-"again","ɑ.gɑin","Pronoun","them","third person singular inanimate accusative pronoun","Etruscan: ca ""this,that""","",""
-"agw","ɑ.gø̞","Pronoun","his, her, its","third person singular inanimate genitive pronoun","Etruscan: ca ""this,that""","",""
-"ai","ɑ.ʔi","i-Adjective","warm","","Hittite: ā- ""to be warm""","",""
-"aicdhava","ɑik.dˠɑ.βɑ","va-Verb","decide","","Oscan: aíkdafed ""decided?""","",""
-"aicdhavë","ɑik.dˠɑ.βə","Inanimate Noun","decision","","aicdhava + ë","",""
-"aicdhavëfo","ɑik.dˠɑ.βə.ɸo","Masculine Noun","decider, decision maker","","aicdhavë + actant suffix","",""
-"aië","ɑi.ə","Inanimate Noun","disturbance, agony","","Umbrian: aiu ""disturbances?,agitations""","",""
-"aië","ɑi.ʔə","Inanimate Noun","warmth, heat","","ai + ë","",""
-"aiëfo","ɑi.ə.ɸo","Masculine Noun","disturber","","aië + actant suffix","",""
-"aisë","ɑi.sə","Inanimate Noun","mouth","","Hittite: ais ""mouth""","",""
-"aisi","ɑi.si","i-Adjective","divine, sacred, holy","","Etruscan: aisiu,aisna,eisna ""divine,of the gods""","",""
-"aisithi","ɑi.si.tˠi","i-Adjective","mundane, trite","","aisi + opposite infix","",""
-"aizë","ɑi.zə","Inanimate Noun","annoyance, nuisance","","aië + diminutive","",""
-"aizëfo","ɑi.zə.ɸo","Masculine Noun","annoyer","","aizë + actant suffix","",""
-"aizi","ɑi.zi","i-Adjective","annoying, vexing, aggravating","","aizë + i","",""
-"alaba","ɑ.lɑ.bɑ","Animate Noun","ember, glow, blaze","","Cypriot Greek: ἀλάβη ""charcoal-ember""","",""
-"alabë","ɑ.lɑ.bə","Inanimate Noun","charcoal","","Cypriot Greek: ἀλάβη ""charcoal-ember""","",""
-"alabpanë","ɑ.lɑb.pɑ.nə","Inanimate Noun","fuel","","alabë + encompassing infix","",""
-"alanë","ɑ.lɑ.nə","në-Verb","sweat","","Hittite: allaniya ""to sweat""","",""
-"alanun","ɑ.lɑ.nun","un-Adjective","sweaty","","alanë + un","",""
-"alanza","ɑ.lɑn.zɑ","Animate Noun","alder tree","","Hittite: alanza(n)- ""alder?""","",""
-"alfun","ɑl.ɸun","un-Adjective","white","","Umbrian: alfu ""white""","",""
-"alina","ɑ.li.nɑ","Animate Noun","deer","","Hittite: aliyana- ""roebuck,deer""","",""
-"alpha","ɑl.pˠɑ","Animate Noun","cloud","i-noun","Hittite: alpā- ""cloud""","",""
-"alphun","ɑl.pˠun","un-Adjective","cloudy, overcast","","alpha + un","",""
-"alpnë","ɑlp.nə","Inanimate Noun","happiness, gladness","i-noun","alpnun + ë","",""
-"alpnithun","ɑlp.ni.tˠun","un-Adjective","unhappy, gloomy","","alpnun + opposite infix","",""
-"alpnun","ɑlp.nun","un-Adjective","glad, happy","","Etruscan: aplan,alpnu ""gift,offering; gladly"" (Latin libens,Greek chaire)","",""
-"althai","ɑl.tˠɑi","Personal Name","Althaea [fem. name]","","Etruscan: Althaia ""Althaea""","",""
-"alu","ɑ.lu","Masculine Noun","rest, leftover, other","i-noun","Oscan: allo ""other,the rest""","",""
-"alumnatha","ɑ.lum.nɑ.tˠɑ","Animate Noun","society, following","","Etruscan: alumnathe ""sacred society""","",""
-"alumnathaza","ɑ.lum.nɑ.tˠɑ.zɑ","Animate Noun","clique, group of friends, group of peers","","alumnatha + diminutive","",""
-"am","ɑm","Irregular Verb","be","","Etruscan: am- ""to be""","",""
-"am","ɑm","Preposition","with","","Oscan: am- ""with""","",""
-"amanafedva","ɑ.mɑ.nɑ.ɸɛd.βɑ","va-Verb","command (to do)","","Oscan: aamanaffed ""he commanded,he hired to do it""","",""
-"ami","ɑ.mi","i-Adjective","small, little","shortened form of the original ""amijun""","Hittite: ammiyant- ""small,young""","",""
-"amijun","ɑ.mi.jun","un-Adjective","small, little","","Hittite: ammiyant- ""small,young""","",""
-"amph","ɑmpˠ","Postposition","around, surrounding","","Oscan: ampt ""around""","",""
-"amprufë","ɑm.pʁu.ɸə","Inanimate Noun","dishonesty","","amprufi + ë","",""
-"amprufi","ɑm.pʁu.ɸi","i-Adjective","dishonest","","Oscan: amprufid ""dishonest""","",""
-"amvanudhë","ɑm.βɑ.nu.dˠə","Inanimate Noun","detour, bypass, diversion, deviation","","Oscan: amvíannud ""around,detour""","",""
-"an","ɑn","Pronoun","he, she, it","third person singular masculine nominative pronoun","Etruscan: an ""he,she,it""","",""
-"ana","ɑ.nɑ","Pronoun","him, her, it","third person singular masculine accusative pronoun","Etruscan: an ""he,she,it""","",""
-"anaë","ɑ.nɑ.ə","Pronoun","him, her, it","third person singular masculine dative pronoun","Etruscan: an ""he,she,it""","",""
-"ancadhuc","ɑn.kɑ.dˠuk","uc/up-Verb","destroy, ruin","","ancadhumë + uc","",""
-"ancadhumë","ɑn.kɑ.dˠu.mə","Inanimate Noun","destruction, ruins","","Oscan: antkadum ""possibly a cpd. connected with L. cado,meaning 'destruction,ruin'""","",""
-"ancadhumëfo","ɑn.kɑ.dˠu.mə.ɸo","Masculine Noun","destructor, destroyer","","ancadhumë + actant suffix","",""
-"anci","ɑn.ki","Animate Noun","time","i-noun","Hittite: -anki ""times""","",""
-"aneio","ɑ.nɛi.o","Personal Name","[gender-neutral name]","","Oscan: anei ""probably abbreviation of proper name""","",""
-"anfethafi","ɑn.ɸɛ.tˠɑ.ɸi","i-Adjective","raw, uncooked","","Umbrian: aanfehtaf ""infected,not cooked""","",""
-"anfethafithi","ɑn.ɸɛ.tˠɑ.ɸi.tˠi","i-Adjective","well-done (culinary)","","anfethafi + opposite infix","",""
-"aninimu","ɑ.ni.ni.mu","Masculine Noun","cousin","","Hittite: anniniyami- ""cousin""","",""
-"anphili","ɑn.pˠi.li","Animate Noun","May (month)","","Etruscan: amphiles,ampiles,anpilie ""May""","",""
-"antha","ɑn.tˠɑ","Animate Noun","heat, hotness","","anthi + a","",""
-"antharun","ɑn.tˠɑ.ʁun","un-Adjective","blue","","Hittite: antara- ""blue""","",""
-"anthi","ɑn.tˠi","i-Adjective","hot","","Hittite: ant- ""hot""","",""
-"antunë","ɑn.tu.nə","Inanimate Noun","property, possession","","Hittite: antu- ""property""","",""
-"antunëfo","ɑn.tu.nə.ɸo","Masculine Noun","possessor, owner","","antunë + actant suffix","",""
-"anuhinë","ɑ.nu.hi.nə","në-Verb","wear","","Umbrian: anouhimu ""wearer""","",""
-"anw","ɑ.nø̞","Pronoun","his, her, its","third person singular masculine genitive pronoun","Etruscan: an ""he,she,it""","",""
-"anyaci","ɑ.ɲɑ.ki","Animate Noun","January (month)","","Etruscan: aniach? ""January""","",""
-"anyatë","ɑ.ɲɑ.tə","Inanimate Noun","achievement","","Hittite: aniyatt- ""achievement,work""","",""
-"anyatë","ɑ.ɲɑ.tə","të-Verb","achieve","","anyatë + të","",""
-"anyatëfo","ɑ.ɲɑ.tə.ɸo","Masculine Noun","achiever","","anyatë + actant suffix","",""
-"aŋëthusë","ɑŋ.ə.tˠu.sə","së-Verb","propose","","Oscan: angetuzet ""have proposed""","",""
-"apcarazë","ɑp.kɑ.ʁa.zə","Inanimate Noun","calculator","","apcarë + diminutive","",""
-"apcarë","ɑp.kɑ.ʁə","Inanimate Noun","abacus","","Etruscan: apcar ""abacus""","",""
-"apcup","ɑp.kup","uc/up-Verb","calculate, add up","","Etruscan: apcar ""abacus""","",""
-"aphanun","ɑ.pˠɑ.nun","un-Adjective","paternal","","Etruscan: apana ""related to the father,paternal""","",""
-"aphu","ɑ.pˠu","Masculine Noun","father, dad","i-noun","Etruscan: apa ""father""","",""
-"araca","ɑ.ʁɑ.kɑ","Animate Noun","hawk","","Etruscan: *arac ""hawk""","",""
-"aratha","ɑ.ʁɑ.tˠɑ","Personal Name","Ariadne [fem. name]","","Etruscan: Areatha ""Ariadne""","",""
-"arcanë","ɑʁ.kɑ.nə","në-Verb","sing","","arcanyi + në","",""
-"arcanyazi","ɑʁ.kɑ.ɲɑ.zi","Animate Noun","melody, whistle (a song), tune","","arcanyi + diminutive","",""
-"arcanyeine","ɑʁ.kɑɲ.ɛi.nɛ","eine-Verb","whistle","","arcanyazi + eine","",""
-"arcanyi","ɑʁ.kɑ.ɲi","Animate Noun","song","","Umbrian: ařkani ""song""","",""
-"arcanyifo","ɑʁ.kɑ.ɲi.ɸo","Masculine Noun","singer","","arcanyi + actant suffix","",""
-"arcë","ɑʁ.kə","cë-Verb","breed, grow, stand up, get up","","Etruscan: arce ""breed,grow,stand up,get up""","",""
-"arcë","ɑʁ.kə","cë-Verb","split up, cut up","","Hittite: ark- ""to cut up,split up""","",""
-"arcëu","ɑʁ.kə.u","Masculine Noun","breeder","","arcë + u","",""
-"ardhala","ɑʀ.dˠɑ.lɑ","Animate Noun","saw (tool)","","Hittite: ardāla- ""saw""","",""
-"ardhaleine","ɑʁ.dˠɑ.lɛi.nɛ","eine-Verb","saw, saw in half, cut using a saw","","Hittite: ardāla- ""saw""","",""
-"areine","ɑ.ʁɛi.nɛ","eine-Verb","move","","Etruscan: ar-,er- ""to make,move""","",""
-"arenthicë","ɑ.ʁɛn.tˠi.kə","Inanimate Noun","vengeance, revenge","","arenthici + ë","",""
-"arenthici","ɑ.ʁɛn.tˠi.ki","i-Adjective","vengeful","","Oscan: arentikai,aretikai ""vengeful""","",""
-"arimi","ɑ.ʁi.mi","Animate Noun","monkey","","Etruscan: *arim ""monkey""","",""
-"arimpani","ɑ.ʁim.pɑ.ni","Animate Noun","simian, higher primate","","arimi + encompassing infix","",""
-"armaqhanthun","ɑʁ.mɑ.qˠɑn.tˠun","un-Adjective","pregnant","","Hittite: armawant- ""pregnant""","",""
-"armaqhu","ɑʁ.mɑ.qˠu","Masculine Noun","pregnant woman","","armaqhanthun + u","",""
-"armizazë","ɑʁ.mi.zɑ.zə","Inanimate Noun","small crossing/bridge (a plank or log across a stream)","","armizë + diminutive","",""
-"armizë","ɑʁ.mi.zə","Inanimate Noun","bridge","","Hittite: armizzi- ""bridge""","",""
-"armolë","ɑʁ.mo.lə","Inanimate Noun","spices, food seasoning","","Arcadian Greek: ἄρμωλα ""food seasoning""","",""
-"armolun","ɑʁ.mo.lun","un-Adjective","spicy, hot","","armolë + un","",""
-"arntha","ɑʁn.tˠɑ","Personal Name","[gender-neutral name]","","Etruscan: Arnth ""proper name""","",""
-"arpsë","ɑʁ.psə","Inanimate Noun","fat","i-noun","Umbrian: ařepes ""fats,fatty portions""","",""
-"arpsun","ɑʁ.psun","un-Adjective","fatty, fat","","arpsë + un","",""
-"arputrathi","ɑʁ.pu.tʁɑ.tˠi","i-Adjective","arbitrary","","Umbrian: ařputrati ""arbitrarily""","",""
-"arsanatali","ɑʁ.sɑ.nɑ.tɑ.li","i-Adjective","jealous, envious","","Hittite: arsanatalla- ""envious,jealous""","",""
-"arsanatë","ɑʁ.sɑ.nɑ.tə","Inanimate Noun","jealousy, envy","","Hittite: arsaniya- ""to envy""; arsanatalla- ""envious,jealous""","",""
-"arsë","ɑʁ.sə","së-Verb","push","","Etruscan: ars ""push""","",""
-"arsiva","ɑʁ.si.βɑ","va-Verb","take good care of oneself, eat well","","Hittite: arsiya- ""to eat well,take care of oneself""","",""
-"arsivë","ɑʁ.si.βə","Inanimate Noun","self-care","","arsiva + ë","",""
-"asaicë","ɑ.sɑi.kə","Inanimate Noun","stage","","asaië + augmentative","",""
-"asaicpanë","ɑ.sɑik.pɑ.nə","Inanimate Noun","theatre (discipline)","","asaicë + encompassing infix","",""
-"asaië","ɑ.sɑi.ə","Inanimate Noun","altar, podium","","Oscan: aasaí ""on the altar""","",""
-"asandula","ɑ.sɑn.du.lɑ","Animate Noun","garrison, troop, troupe","","Hittite: asandula- ""garrison""","",""
-"asandulatë","ɑ.sɑn.du.lɑ.tə","të-Verb","crew, staff, garrison","","Hittite: asandulatar ""crew""","",""
-"asanduli","ɑ.sɑn.du.li","Animate Noun","crew, team","","Hittite: asandul- ""crew""","",""
-"asanup","ɑ.sɑ.nup","uc/up-Verb","achieve, finish, accomplish, obtain","","Hittite: assanu- ""to achieve,finish,realise,accomplish,obtain; to prepare; to put in order; to supply,provide""","",""
-"ascë","ɑs.kə","Inanimate Noun","wineskin, waterskin","i-noun","Etruscan: aska ""askos""","",""
-"asiantun","ɑ.si.ɑn.tun","un-Adjective","poor, helpless","","Hittite: asiwant- ""poor""","",""
-"ataju","ɑ.tɑ.ju","Personal Name","Actaeon [masc. name]","","Etruscan: Ataiun ""Actaeon""","",""
-"ateru","ɑ.tɛ.ʁu","Masculine Noun","parent","","Etruscan: ateri ""parents,ancestors""","",""
-"athanun","ɑ.tˠɑ.nun","un-Adjective","maternal","","Etruscan: ati ""mother""","",""
-"athemicu","ɑ.tˠɛ.mi.ku","Masculine Noun","relative","","Etruscan: athemica ""relatives""","",""
-"athemicun","ɑ.tˠɛ.mi.kun","un-Adjective","related","","athemicu + un","",""
-"athu","ɑ.tˠu","Masculine Noun","mother, mom, mum","i-noun","Etruscan: ati ""mother""","",""
-"athumi","ɑ.tˠu.mi","Animate Noun","nobility, noblesse","","Etruscan: athumi ""nobility?""","",""
-"athumu","ɑ.tˠu.mu","Masculine Noun","noble, nobleman, noblewoman","","Etruscan: athumi ""nobility?""","",""
-"athumun","ɑ.tˠu.mun","un-Adjective","noble","","athumi + un / athumu + un","",""
-"atiërsi","ɑ.ti.əʁ.si","i-Adjective","slow","","Umbrian: atiersir ""more slowly""","",""
-"atisazë","ɑ.ti.sɑ.zə","Inanimate Noun","handaxe, hatchet","","atisë + diminutive","",""
-"atisë","ɑ.ti.sə","Inanimate Noun","axe","","Hittite: atis ""axe""","",""
-"atrë","ɑt.ʁə","Inanimate Noun","building, house","i-noun","Etruscan: athre ""building"" (Latin atrium?)","",""
-"atuni","ɑ.tu.ni","Personal Name","Adonis [gender-neutral name]","","Etruscan: Atunis ""Adonis""","",""
-"aturu","ɑ.tu.ʁu","Masculine Noun","ancestor","","Etruscan: aterś,aturs,atrs,atus ""descendant,ancestor""","",""
-"aturun","a.tu.ʁun","un-Adjective","ancestral","","aturu + un","",""
-"auclu","ɑu.klu","Masculine Noun","helper, aide","","Oscan: aukíl ""helper""","",""
-"auclucë","ɑu.klu.kə","cë-Verb","help, aid","","auclu + cë","",""
-"auclun","ɑu.klun","un-Adjective","helpful","","auclu + un","",""
-"aufai","ɑu.ɸɑi","Animate Noun","bird","","Umbrian: auif ""bird""","",""
-"aufazai","ɑu.ɸɑ.zɑi","Animate Noun","songbird, small bird","","aufai + diminutive","",""
-"aufocai","ɑu.ɸo.kɑi","Animate Noun","bird of prey","","aufai + augmentative","",""
-"auiqli","ɑu.iq.li","i-Adjective","auspicious","","Umbrian: auiecla ""auspicious""","",""
-"aulunthi","ɑu.lun.tˠi","Personal Name","[gender-neutral name]","","Etruscan: Aulunthe ""name of a satyr""","",""
-"auth","ɑutˠ","","or","","Oscan: auti ""or""","",""
-"avilë","ɑ.βi.lə","Inanimate Noun","year","","Etruscan: avil ""year""","",""
-"avilocë","ɑ.βi.lo.kə","Inanimate Noun","leap year","","avilë + augmentative","",""
-"avilu","ɑ.βi.lu","Personal Name","Aulus [gender-neutral name]","","Etruscan: Avile,Avle,Aule ""Aulus""","",""
-"avilxun","ɑ.βil.xun","un-Adjective","yearly, annual","","Etruscan: avilxa ""yearly,annual""","",""
-"azancë","ɑ.zɑn.kə","Inanimate Noun","colony, settlement","","azanuc + ë","",""
-"azanuc","ɑ.zɑ.nuk","uc/up-Verb","settle, colonise","","Hittite: asesanu- ""to settle""","",""
-"azicë","ɑ.zi.kə","cë-Verb","adore","","Hittite: azzikk- ""to eat again; to adore""","",""
-"azici","ɑ.zi.ki","Animate Noun","adoration","","azicë + i","",""
-"bansë","bɑn.sə","Inanimate Noun","bow (weapon)","i-noun","Oscan: bansae ""bows""","",""
-"bansëfo","bɑn.sə.ɸo","Masculine Noun","archer","","bansë + actant suffix","",""
-"bansocë","bɑn.so.kə","Inanimate Noun","ballista","","bansë + augmentative","",""
-"bëgo","bə.go","Personal Name","[fem. name]","","Etruscan: Begoë ""	Etruscan nymph believed to have power over lightning""","",""
-"bheri","bˠɛ.ʁi","i-Adjective","early","","Oscan: beriis ""earlier""","",""
-"bherithi","bˠɛ.ʁi.tˠi","i-Adjective","late","","bheri + opposite infix","",""
-"bhervi","bˠɛʁ.βi","i-Adjective","true, truthful","","Umbrian: berva ""true""","",""
-"bhervithi","bˠɛʁ.βi.tˠi","i-Adjective","untrue, untruthful, truthless, made-up","","bhervi + opposite infix","",""
-"brodho","bʁo.dˠo","Masculine Noun","vagina","","Aeolian Greek: βρόδον ""rose,vagina""","",""
-"buma","bu.mɑ","Animate Noun","cow","","Umbrian: bum ""cow""","",""
-"bumpana","bum.pɑ.nɑ","Animate Noun","cattle","","buma + encompassing infix","",""
-"bumpani","bum.pɑ.ni","i-Adjective","bovine","","bumpana + i","",""
-"buseia","bu.sɛi.ɑ","Animate Noun","flower, blossom","","Oscan: blússii(eís) ""bloomed""","",""
-"buseiun","bu.sɛi.un","un-Adjective","flowering, blossoming","","buseia + un","",""
-"ca","kɑ","Pronoun","he, she, it","third person singular inanimate nominative pronoun","Etruscan: ca ""this,that""","",""
-"cabhi","kɑ.bˠi","i-Adjective","young","shortened form of the original ""cabhosi""","Paphian Greek: κάβειος ""young""","",""
-"cabhosi","kɑ.bˠo.si","i-Adjective","young","","Paphian Greek: κάβειος ""young""","",""
-"cacapi","kɑ.kɑ.pi","Animate Noun","partridge","","Hittite: kakkapi- ""partridge""","",""
-"cacureine","kɑ.ku.ʁɛi.nɛ","eine-Verb","harm, maim","","Hittite: kakkur(s?)- ""to cut,maim""","",""
-"cadeisazë","kɑ.dɛi.sɑ.zə","Inanimate Noun","rivalry, friendly rivalry","","cadeisazu + ë","",""
-"cadeisazu","kɑ.dɛi.sɑ.zu","Masculine Noun","rival, friendly rival","","cadeisu + diminutive","",""
-"cadeisocu","kɑ.dɛi.so.ku","Masculine Noun","archenemy, mortal enemy","","cadeisu + augmentative","",""
-"cadeisu","kɑ.dɛi.su","Masculine Noun","enemy, foe","","Oscan: cadeis ""of enmity""","",""
-"cahatë","kɑ.hɑ.tə","të-Verb","begin, start, commence","","Oscan: kahad ""let him take,let it begin""","",""
-"cahë","kɑ.hə","Inanimate Noun","beginning, start, commencement","i-noun","cahatë + ë","",""
-"cahithë","kɑ.hi.tˠə","Inanimate Noun","ending, end","","cahë + opposite infix","",""
-"cai","kɑi","Personal Name","Caius, Gaius [masc. name]","","Etruscan: Cae,Cai ""Caius,Gaius""","",""
-"cain","kɑin","Pronoun","they","third person plural inanimate nominative pronoun","Etruscan: ca ""this,that""","",""
-"cainë","kɑi.nə","Pronoun","them","third person plural inanimate dative pronoun","Etruscan: ca ""this,that""","",""
-"cainw","kɑi.nø̞","Pronoun","their","third person plural inanimate genitive pronoun","Etruscan: ca ""this,that""","",""
-"cajasphatheine","kɑ.jɑs.pˠɑ.tˠɛi.nɛ","eine-Verb","slaughter","","Oscan: kaispatar ""be slaughtered,clods are pounded""","",""
-"calaina","kɑ.lɑi.nɑ","Personal Name","Galene [fem. name]","","Etruscan: Calaina ""Galene""","",""
-"calavi","kɑ.lɑ.βi","i-Adjective","bald","","Oscan: kalaviis ""bald""","",""
-"calc","kɑlk","Cardinal Number","thirty","","Etruscan: calch,cealch,cialch ""thirty""","",""
-"calersun","kɑ.lɛʁ.sun","un-Adjective","clever, smart","","Umbrian: calersu ""clever,hot""","",""
-"calesë","kɑ.lɛ.sə","së-Verb","call, lure","","Hittite: kalles- ""to call,lure""","",""
-"cali","kɑ.li","Animate Noun","dog","i-noun","Etruscan: cal ""dog"" (cf. Umbrian katel- 'dog,puppy')","",""
-"calmi","kɑl.mi","i-Adjective","wooden","","calmië + i","",""
-"calmië","kɑl.mi.ə","Inanimate Noun","log, timber","","Hittite: kalmi-,kalmisana- ""log""","",""
-"caloci","kɑ.lo.ki","Animate Noun","hound, hunting dog","","cali + augmentative","",""
-"calpani","kɑl.pɑ.ni","Animate Noun","canine, canis","","cali + encompassing infix","",""
-"calthë","kɑl.tˠə","Inanimate Noun","place, location","i-noun","Etruscan: calthi,celthi,clthi ""here,in this place (locative)""","",""
-"calucasu","kɑ.lu.kɑ.su","Personal Name","[gender-neutral name]","","Etruscan: Chaluchasu ""Translation of Greek panchalkos,""wholly of bronze"",perhaps the robot of Crete,Talos.""","",""
-"calusun","kɑ.lu.sun","un-Adjective","excellent, best","","Etruscan: calusu ""excellent,best""","",""
-"camthu","kɑm.tˠu","Masculine Noun","judge, magistracy","i-noun","Etruscan: camthi ""name of magistracy""","",""
-"canazë","kɑ.nɑ.zə","Inanimate Noun","appetiser","","canë + diminutive","",""
-"canë","kɑ.nə","Inanimate Noun","gift","i-noun","Etruscan: cana,kana,kanna ""gift (agalma),or image,work of art?""","",""
-"canëfo","kɑ.nə.ɸo","Masculine Noun","gifter","","canë + actant suffix","",""
-"cantcë","kɑnt.kə","cë-Verb","can, be able to","","Etruscan: canth-,canthce ""to be,can?""","",""
-"capha","kɑ.pˠɑ","Animate Noun","falcon","i-noun","Etruscan: *capu ""falcon"" (Greek kapys)","",""
-"caphë","kɑ.pˠə","Inanimate Noun","container, box, crate","i-noun","Etruscan: cape,capi ""vase,container""","",""
-"caphocë","kɑ.pˠo.kə","Inanimate Noun","shipping container","","caphë + augmentative","",""
-"capra","kɑ.pʁɑ","Animate Noun","goat","i-noun","Umbrian: kabru ""goat""","",""
-"caprazë","kɑ.pʁɑ.zə","Inanimate Noun","hood, cowl","","caprë + diminutive","",""
-"caprazu","kɑ.pʁɑ.zu","Masculine Noun","Adam's apple","","capru + diminutive","",""
-"caprë","kɑ.pʁə","Inanimate Noun","cloak","i-noun","Etruscan: caper ""cloak""","",""
-"capri","kɑ.pʁi","Animate Noun","April (month)","i-noun","Etruscan: *capre ""April""","",""
-"capru","kɑ.pʁu","Masculine Noun","throat, neck","i-noun","Hittite: kapru- ""throat""","",""
-"capui","kɑ.pu.i","Animate Noun","eagle","","Etruscan: *capu ""hawk""","",""
-"carantë","kɑ.ʁɑn.tə","të-Verb","eat, consume","","Oscan: karanter ""they eat""","",""
-"carcë","kɑʁ.kə","cë-Verb","make, build, construct","","Etruscan: car-,cer- ""make,build""","",""
-"cardhi","kɑʁ.dˠi","Animate Noun","heart","i-noun","Hittite: kardi-,kard- ""heart""","",""
-"cardhizë","kɑʁ.dˠi.zə","Inanimate Noun","desire, wish","","Hittite: kardiyas ""desire,wish; lit. 'it of the heart'""","",""
-"carë","kɑ.ʁə","Inanimate Noun","urn","i-noun","Etruscan: capra ""urn,container""","",""
-"casilo","kɑ.si.lo","Masculine Noun","cottage, hut","","Umbrian: casilos ""cottages""","",""
-"casilofo","kɑ.si.lo.ɸo","Masculine Noun","cottage dweller, hut dweller, hermit","","casilo + actant suffix","",""
-"caslirë","kɑs.li.ʁə","Inanimate Noun","castle, fortress","","Umbrian: casiler ""the castle""","",""
-"caslirun","kɑs.li.ʁun","un-Adjective","fortified","","caslirë + un","",""
-"castrazi","kɑs.tʁɑ.zi","Animate Noun","glans, bell-end","","castri + diminutive","",""
-"castrazifo","kɑs.tʁɑ.zi.ɸo","Masculine Noun","fucker","crude; insult","castrazi + actant suffix","",""
-"castrazifun","kɑs.tʁɑ.zi.ɸun","un-Adjective","fucked, fucked up","crude; insult","castrazifo + un","",""
-"castri","kɑs.tʁi","Animate Noun","head","i-noun","Oscan: castrid ""head""","",""
-"castritheine","kɑs.tʁi.tˠɛi.nɛ","eine-Verb","behead, decapitate","","castri + opposite infix + eine","",""
-"castru","kɑs.tʁu","Personal Name","Castor [masc. name]","often used for a twin boy","Etruscan: Castur ""Castor""","",""
-"cateli","kɑ.tɛ.li","Animate Noun","pup, puppy, cub, young","the young of an animal, most often a canine","Umbrian: katel- ""dog,puppy""","",""
-"cateloci","kɑ.tɛ.lo.ki","Animate Noun","lap dog, small adult dog","","cateli + augmentative","",""
-"caterithun","kɑ.tɛ.ʁi.tˠun","un-Adjective","superior","","caterun + opposite infix","",""
-"caterun","kɑ.tɛ.ʁun","un-Adjective","inferior","","Hittite: kattera- ""inferior""","",""
-"cebhazë","kɛ.bˠɑ.zə","Inanimate Noun","snack","","cebhë + diminutive","",""
-"cebhë","kɛ.bˠə","Inanimate Noun","food, meal","i-noun","Umbrian: kebu ""food""","",""
-"celazë","kɛ.lɑ.zə","Inanimate Noun","parcel of land, plot of land, allotment, tract of land","","celë + diminutive","",""
-"celë","kɛ.lə","Inanimate Noun","land, dirt, soil","i-noun","Etruscan: cel ""earth,land""","",""
-"celi","kɛ.li","Animate Noun","September (month)","i-noun","Etruscan: celi ""September""","",""
-"celpanë","kɛl.pɑ.nə","Inanimate Noun","Earth (planet)","","celë + encompassing infix","",""
-"celphunu","kɛl.pˠu.nu","Personal Name","[gender-neutral name]","","Etruscan: Chelphun ""An Etruscan satyr""","",""
-"celthi","kɛl.tˠi","Determiner","here","","Etruscan: calthi,celthi,clthi ""here,in this place (locative)""","",""
-"celthinyë","kɛl.tˠi.ɲə","Inanimate Noun","country","","Etruscan: celtinei ""region""","",""
-"celu","kɛ.lu","Masculine Noun","priest","i-noun","Etruscan: celu ""priestly title""","",""
-"celucazë","kɛ.lu.kɑ.zə","Inanimate Noun","being grounded/grounding (a child by their parents)","","celucë + diminutive","",""
-"celucë","kɛ.lu.kə","cë-Verb","intern, imprison","","Etruscan: celuca ""internment""","",""
-"celucë","kɛ.lu.kə","Inanimate Noun","internment, imprisonment","","Etruscan: celuca ""internment""","",""
-"celucëfo","kɛ.lu.kə.ɸo","Masculine Noun","prison guard, imprisoner","","celucë + actant suffix","",""
-"celucocë","kɛ.lu.ko.kə","Inanimate Noun","life imprisonment, life sentence","","celucë + augmentative","",""
-"cenë","kɛ.nə","në-Verb","place, put down","","Etruscan: cen- ""make,place""","",""
-"censaunë","kɛn.sɑu.nə","në-Verb","consider, debate (with oneself)","","Oscan: censaum ""to consider""","",""
-"cera","kɛ.ʁɑ","Animate Noun","countryside, landscape, rural area","i-noun","Hittite: kuera- ""countryside""","",""
-"cerafo","kɛ.ʁɑ.ɸo","Masculine Noun","rural folk, country folk, rural resident","","cera + actant suffix","",""
-"cercai","kɛʁ.kɑi","Personal Name","Circe [fem. name]","","Etruscan: Cerca ""Circe""","",""
-"ceri","kɛ.ʁi","i-Adjective","rural","","Hittite: kuera- ""countryside""","",""
-"cerïnazë","kɛ.ʁɨ.nɑ.zə","Inanimate Noun","shrine","","cerïnë + diminutive","",""
-"cerïnë","kɛ.ʁɨ.nə","Inanimate Noun","temple, church, sacred place","","Etruscan: cerine ""sacred place,building?""","",""
-"cerïnocë","kɛ.ʁɨ.no.kə","Inanimate Noun","cathedral","","cerïnë + augmentative","",""
-"cerithi","kɛ.ʁi.tˠi","i-Adjective","urban","","ceri + opposite infix","",""
-"ces","kɛs","Cardinal Number","eight","","Etruscan: cezp ""eight""","",""
-"cesë","kɛ.sə","së-Verb","place, lie, lie down","","Etruscan: ces- ""to place,be placed,lie""","",""
-"cesphalc","kɛs.pˠɑlk","Cardinal Number","eighty","","Etruscan: cezpalch ""eighty""","",""
-"cesps","kɛsps","Frequency Number","eight times","","Etruscan: cezpz ""eight times""","",""
-"cesșna","kɛs.ʃnɑ","Ordinal Number","eighth","","Etruscan: cezp ""eight""","",""
-"cețancrë","kɛ.tʃɑn.kʁə","Inanimate Noun","title","","Etruscan: cechancri ""title""","",""
-"cețancrëfo","kɛ.tʃɑn.kʁə.ɸo","Masculine Noun","title holder, titular","","cețancrë + actant suffix","",""
-"cețasë","kɛ.tʃɑ.sə","Inanimate Noun","public office, elected office","","Etruscan: cechase ""name of magistracy""","",""
-"cețë","kɛ.tʃə","Inanimate Noun","law, codex","i-noun","Etruscan: cecha ""ceremony (right,law)""","",""
-"cețpanë","kɛtʃ.pɑ.nə","Inanimate Noun","legal system, judiciary","","cețë + encompassing infix","",""
-"cexen","kɛ.xɛn","Determiner","this one","","Etruscan: cehen ""this one here""","",""
-"ci","ki","Cardinal Number","three","","Etruscan: ki,ci ""three""","",""
-"cïbhebhë","kɨ.bˠɛ.bˠə","Inanimate Noun","boot","","Arcadian Greek: κυβήβη ""boot,shoe""","",""
-"cïbhebhpanë","kɨ.bˠɛbˠ.pɑ.nə","Inanimate Noun","footwear","","cïbhebhë + encompassing infix","",""
-"cicsë","kik.sə","Inanimate Noun","mist, haze, vapour","","a priori","",""
-"cilthu","kil.tˠu","Masculine Noun","nation, nationality","","Etruscan: cilth ""people,nation""","",""
-"cinșna","kin.ʃnɑ","Ordinal Number","third","","Etruscan: kisne,ceanu ""third""","",""
-"cizi","ki.zi","Frequency Number","thrice","","Etruscan: ciz,cizi ""thrice""","",""
-"clanazu","klɑ.nɑ.zu","Masculine Noun","infant son","","clanu + diminutive","",""
-"clantazu","klɑn.tɑ.zu","Masculine Noun","adopted infant son, infant stepson","","clantu + diminutive","",""
-"clantu","klɑn.tu","Masculine Noun","adopted son, stepson","i-noun","Etruscan: clanti,clanthi ""adoptive(?) son""","",""
-"clanu","klɑ.nu","Masculine Noun","son","i-noun","Etruscan: clan,clenar ""son""","",""
-"clauneine","klɑu.nɛi.nɛ","eine-Verb","sing (in a choir)","","clauni + eine","",""
-"clauni","klɑu.ni","Animate Noun","choir","","Umbrian: clauerniur ""of the choir""","",""
-"claunpani","klɑun.pɑ.ni","Animate Noun","choir music, choral music","","clauni + encompassing infix","",""
-"clavlëfë","klɑβ.lə.ɸə","Inanimate Noun","hip","","Umbrian: klavlaf ""hips""","",""
-"cletrëmë","klɛ.tʁə.mə","Inanimate Noun","basin, sink","","Etruscan: cletram ""basin,basket,cart for offerings"" (Umbrian kletra)","",""
-"cnevo","knɛ.βo","Personal Name","Cnaeus [masc. name]","","Etruscan: Cneve ""Cnaeus""","",""
-"conëgva","ko.nəg.βɑ","va-Verb","kneel (down)","","Umbrian: conegos ""leaning on the knee""","",""
-"creicai","kʁɛi.kɑi","Animate Noun","Greece","","Etruscan: creice ""Greek""","",""
-"creicocai","kʁɛi.ko.kɑi","Animate Noun","Magna Graecia, southern Italy","","creice + augmentative","",""
-"creicun","kʁɛi.kun","un-Adjective","Greek","","Etruscan: creice ""Greek""","",""
-"cucua","ku.ku.ɑ","Animate Noun","frog","","Hittite: akuwakuwa- ""frog?""","",""
-"cucuca","ku.ku.kɑ","Animate Noun","toad, large frog","","cucua + augmentative","",""
-"cucucë","ku.ku.kə","cë-Verb","croak","","cucua + cë","",""
-"cucupana","ku.ku.pɑ.nɑ","Animate Noun","amphibian","","cucua + encompassing infix","",""
-"cucuza","ku.ku.zɑ","Animate Noun","tadpole, polliwog, pollywog","","cucua + diminutive","",""
-"cugulë","ku.gu.lə","Inanimate Noun","biscuit","","Hittite: kugulla- ""lard biscuit""","",""
-"cuha","ku.hɑ","Animate Noun","fox","","a priori","",""
-"cuhi","ku.hi","i-Adjective","clever, cagey, wily, cunning","","cuha + i","",""
-"culsqwë","kuls.qø̞.ə","Inanimate Noun","door, gate, doorway, gateway","","Etruscan: culscva ""doors,gates""","",""
-"cumbeni","kum.bɛ.ni","Animate Noun","assembly, meeting","","Oscan: kúmbennieís ""meetings""","",""
-"cumbenva","kum.bɛn.βɑ","va-Verb","assemble, meet","","cumbeni + va","",""
-"cuphë","ku.pˠə","Inanimate Noun","cup, glass (for drinking)","","Etruscan: cupe ""cup"" (Greek kúpe?; Latin cupa)","",""
-"curclasi","kuʁ.klɑ.si","Animate Noun","circle","","Umbrian: kurçlasiu ""circle,lastly""","",""
-"curclasi","kuʁ.klɑ.si","Determiner","lastly, finally","","Umbrian: kurçlasiu ""circle,lastly""","",""
-"curclasun","kuʁ.klɑ.sun","un-Adjective","round, circular","","curclasi + un","",""
-"curë","ku.ʁə","Inanimate Noun","arrow (weapon)","","Oscan: kúru ""bullet,missile""","",""
-"cursë","kuʁ.sə","Inanimate Noun","fur, hide","","Hittite: kursa- ""fleece,fur,hide; shield""","",""
-"cusa","ku.sɑ","Animate Noun","salary, wage","","Hittite: kussan- ""salary""","",""
-"cusafo","ku.sɑ.ɸo","Masculine Noun","wageworker","","cusa + actant suffix","",""
-"cusaza","ku.sɑ.zɑ","Animate Noun","allowance, pocket money, spending money","","cusa + diminutive","",""
-"cutha","ku.tˠɑ","Animate Noun","arm (body part)","","Hittite: kuttar ""nape; arm""","",""
-"cuthaza","ku.tˠɑ.zɑ","Animate Noun","finger","","cutha + diminutive","",""
-"cutheva","ku.tˠɛ.βɑ","va-Verb","murmur, mumble, whisper","","Umbrian: kutef ""murmuring,speaking low""","",""
-"cuthevun","ku.tˠɛ.βun","un-Adjective","murmured, mubled, whispered","","cutheva + un","",""
-"cutru","ku.tʁu","Masculine Noun","witness","","Hittite: kutru- ""witness""","",""
-"cuvalë","ku.βɑ.lə","Inanimate Noun","calm, silence, quiet","","cuvali + ë","",""
-"cuvali","ku.βɑ.li","i-Adjective","calm, silent, quiet","","Hittite: kuwāliu- ""calm,silent""","",""
-"cverë","kβɛ.ʁə","Inanimate Noun","gift","i-noun","Etruscan: cver ""gift,offering""","",""
-"cverëfo","kβɛ.ʁə.ɸo","Masculine Noun","gifter","","cverë + actant suffix","",""
-"dadatë","dɑ.dɑ.tə","të-Verb","return something","","Oscan: da[da]d ""to give,to return""","",""
-"d̦ar","ʒɑʁ","Cardinal Number","ten","","Etruscan: śar,sar,zar ""ten""","",""
-"d̦ars","ʒɑʁs","Frequency Number","ten times","","Etruscan: śar,sar,zar ""ten""","",""
-"d̦arșna","ʒɑʁ.ʃnɑ","Ordinal Number","tenth","","Etruscan: śarsnach ""tenth""","",""
-"dasun","dɑ.sun","un-Adjective","heavy","","Hittite: dassu- ""strong; heavy""","",""
-"dersithun","dɛʁ.si.tˠun","un-Adjective","unsuccessful","","dersun + opposite infix","",""
-"dersun","dɛʁ.sun","un-Adjective","successful, prospering","","Umbrian: dersua ""successful""","",""
-"dhanathë","dˠɑ.nɑ.tˠə","Inanimate Noun","desert, deserted place","","Hittite: dannatta- ""empty,desert""","",""
-"dhersecrë","dˠɛʁ.sɛk.ʁə","Inanimate Noun","debt","","Umbrian: dersecor ""debiti""","",""
-"dhersecrëfo","dˠɛʁ.sɛk.ʁə.ɸo","Masculine Noun","debtor, obligor, borrower","","dhersecrë + actant suffix","",""
-"dhetmocë","dˠɛt.mo.kə","Inanimate Noun","capital offence, capital crime","","dhetmoë + augmentative","",""
-"dhetmocëfo","dˠɛt.mo.kə.ɸo","Masculine Noun","felon, hardened criminal, career criminal","","dhetmocë + actant suffix","",""
-"dhetmoë","dˠɛt.mo.ə","Inanimate Noun","crime, offense","","Umbrian: daetom ""offense""","",""
-"dhetmoëfo","dˠɛt.mo.ə.ɸo","Masculine Noun","criminal, offender","","dhetmoë + actant suffix","",""
-"dhetmozë","dˠɛt.mo.zə","Inanimate Noun","peccadillo, trivial offence, petty crime, victimless crime","","dhetmoë + diminutive","",""
-"dhetmozëfo","dˠɛt.mo.zə.ɸo","Masculine Noun","petty criminal, small-time criminal, petty crook","","dhetmozë + actant suffix","",""
-"ecturo","ɛk.tu.ʁo","Personal Name","Hector [gender-neutral name]","","Etruscan: Ectur ""Hector""","",""
-"ecuna","ɛ.ku.nɑ","Animate Noun","cold","","ecuni + a","",""
-"ecuni","ɛ.ku.ni","i-Adjective","cold","","Hittite: ekuna- ""cold"" (Akk. kaṣû)","",""
-"ei","ɛi","","no","empathic","Etruscan: ei ""not""","",""
-"ëi","ə.ʔi","","no","neutral","Etruscan: ei ""not""","",""
-"ëifo","ə.ʔi.ɸo","Masculine Noun","naysayer","in the literal sense of someone who (always) says ""no""","ëi + actant suffix","",""
-"eilina","ɛi.li.nɑ","Personal Name","Helen [fem. name]","","Etruscan: Elinei,Elinai,Elina ""Helen""","",""
-"eilinai","ɛi.li.nɑi","Personal Name","Helen [fem. name]","","Etruscan: Elinei,Elinai,Elina ""Helen""","",""
-"ein","ɛin","Pronoun","they","third person plural masculine or animate nominative pronoun","Etruscan: ein ""they""","",""
-"eina","ɛi.nɑ","Pronoun","them","third person plural masculine or animate accusative pronoun","Etruscan: ein ""they""","",""
-"einë","ɛi.nə","Pronoun","them","third person plural masculine or animate dative pronoun","Etruscan: ein ""they""","",""
-"einw","ɛi.nø̞","Pronoun","their","third person plural masculine or animate genitive pronoun","Etruscan: ein ""they""","",""
-"eitë","ɛi.tə","të-Verb","pay (for)","","eithi + të","",""
-"eitë","ɛi.tə","Animate Noun","payment","","eitë + ë","",""
-"eithazi","ɛi.tˠɑ.zi","Animate Noun","coin","","eithi + diminutive","",""
-"eithi","ɛi.tˠi","Animate Noun","money, currency","","Oscan: eítiuvam ""money""","",""
-"eithuc","ɛi.tˠuk","uc/up-Verb","go (to)","","Oscan: eítuns ""going?""","",""
-"ejai","ɛ.jɑi","Animate Noun","exemption, exception","i-noun","Hittite: eya(n)- ""a tree; symbol of duty exemption)","",""
-"eleivanë","ɛ.lɛi.βɑ.nə","Inanimate Noun","olive oil","","Etruscan: eleivana ""of oil"" (Greek elaion)","",""
-"eleivë","ɛ.lɛi.βə","Inanimate Noun","oil","","Etruscan: eleiva ""oil""","",""
-"eleivi","ɛ.lɛi.βi","i-Adjective","oily","","eleivë + i","",""
-"elphosë","ɛl.pˠo.sə","Inanimate Noun","butter","","Cypriot Greek: ἔλφος ""butter""","",""
-"em","ɛm","Preposition","without, sans","","Etruscan: -em ""minus""","",""
-"ena","ɛ.nɑ","Determiner","now, today","","Etruscan: ena ""today,now?""","",""
-"enac","ɛ.nɑk","Determiner","then, next, afterwards","","Etruscan: enac,enach ""then,afterwards""","",""
-"eplë","ɛ.plə","Preposition","in, inside","","Etruscan: epl,pi,pul ""in,to,up to,until""","",""
-"erithi","ɛ.ʁi.tˠi","Animate Noun","ram (animal)","","Umbrian: erietu ""ram""","",""
-"ermuzi","ɛʁ.mu.zi","Animate Noun","August (month)","","Etruscan: ermius ""August""","",""
-"eșarë","ɛ.ʃɑ.ʁə","Inanimate Noun","murder","","Hittite: eshar ""blood; murder""","",""
-"esari","ɛ.sɑ.ʁi","Animate Noun","blood","","Hittite: essar,eshar ""blood""","",""
-"esarsë","ɛ.sɑʁ.sə","së-Verb","bleed","","esari + së","",""
-"eșascun","ɛ.ʃɑs.kun","un-Adjective","bloody","","Hittite: eshaskant- ""bloody""","",""
-"eșvitha","ɛʃ.βi.tˠɑ","Determiner","tomorrow","","Etruscan: eshvita ""following,later day""","",""
-"eteru","ɛ.tɛ.ʁu","Masculine Noun","customer, client, patron","","Etruscan: etera,eteri ""foreigner; client""","",""
-"eth","ɛtˠ","Determiner","thus, therefore","","Etruscan: eth,et ""thus,in this way (adverb)""","",""
-"etnam","ɛt.nɑm","","and","used only in a sentence-initial position or to introduce a subclause","Etruscan: etnam ""and""","",""
-"etulu","ɛ.tu.lu","Personal Name","Aitolos [gender-neutral name]","","Etruscan: Etule ""Aitolos""","",""
-"evana","ɛ.βɑ.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Evan ""an attendant of Turan,sometimes male,sometimes female""","",""
-"evna","ɛβ.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Evan ""an attendant of Turan,sometimes male,sometimes female""","",""
-"ezl","ɛzl","Frequency Number","twice","","Etruscan: eslz ""twice""","",""
-"falathë","ɸɑ.lɑ.tˠə","Inanimate Noun","sky, heaven","","Etruscan: *falatu ""sky""","",""
-"fanë","ɸɑ.nə","në-Verb","consecrate, sanctify","","Etruscan: fan- ""to consecrate`""","",""
-"farthanë","ɸɑʁ.tˠɑ.nə","në-Verb","generate","","Etruscan: farthan,farthn ""generate""","",""
-"fașë","ɸɑ.ʃə","Inanimate Noun","bread","i-noun","Etruscan: faśe,faśei ""bread?"" (Umbrian farsiu?)","",""
-"fasë","ɸɑ.sə","Inanimate Noun","party, festival","i-noun","Etruscan: fase ""libation,drinking spree""","",""
-"faunu","ɸɑu.nu","Personal Name","Phaon [gender-neutral name]","","Etruscan: Phaun,Faun,Phamu ""Phaon""","",""
-"favë","ɸɑ.βə","Inanimate Noun","cellar, basement","i-noun","Etymology: favi ""grave,temple vault"" (Latin fauissa?)","",""
-"feihë","ɸɛi.hə","Inanimate Noun","wall","","Oscan: feíhúss ""the walls""","",""
-"felsvai","ɸɛl.sβɑi","Animate Noun","vegetable","i-noun","Umbrian: felsva ""vegetables?""","",""
-"felsvi","ɸɛl.sβi","i-Adjective","vegetarian","","felsvai + i","",""
-"fersë","ɸɛʁ.sə","së-Verb","burn, light","","fersi + së","",""
-"fersi","ɸɛʁ.si","Animate Noun","fire","i-noun","Etruscan: vers ""fire""","",""
-"fersoci","ɸɛʁ.so.ki","Animate Noun","inferno, hell","","fersi + augmentative","",""
-"fertalë","ɸɛʁ.tɑ.lə","Inanimate Noun","cake, pastry","","Oscan: fertalis ""ceremonies celebrated with sacrificial cakes""","",""
-"fila","ɸi.lɑ","Animate Noun","oak tree","","Elean Greek: φίλαξ ""young oak""","",""
-"flercvë","ɸlɛʁ.kβə","Inanimate Noun","ceremony, sacrifice","i-noun","Etruscan: flerchva ""ceremony,sacrifice""","",""
-"flerë","ɸlɛ.ʁə","Inanimate Noun","sacrifice","i-noun","Etruscan: fler ""offering,sacrifice""","",""
-"fleritho","ɸlɛ.ʁi.tˠo","Masculine Noun","mortal, human","","flero + opposite infix","",""
-"flero","ɸlɛ.ʁo","Masculine Noun","God, god, deity","i-noun","Etruscan: flere ""divinity,god""","",""
-"flerșazi","ɸlɛʁ.ʃɑ.zi","Animate Noun","statuette, miniature","","flerși + diminutive","",""
-"flerși","ɸlɛʁ.ʃi","Animate Noun","body, statue","i-noun","Etruscan: flereś ""statue""","",""
-"flertë","ɸlɛʁ.tə","të-Verb","offer, sacrifice, satisfy","","Etruscan: fler-,flerthrce ""to offer,sacrifice,satisfy""","",""
-"flisa","ɸli.sɑ","Animate Noun","cat, feline","","a priori; but compare Latin: felis,feles ""cat""","",""
-"fondlirë","ɸon.dli.ʁə","Inanimate Noun","spring (water), fountain","","Umbrian: fondlir-e ""sources,at the springs""","",""
-"frontcazë","ɸʁont.kɑ.zə","Inanimate Noun","electricity","","frontcë + diminutives","",""
-"frontcë","ɸʁont.kə","Inanimate Noun","lightning bolt, lightning","","Etruscan: frontac ""interpreter of lightning"" (Greek bronte?)","",""
-"fruntë","ɸʁun.tə","të-Verb","clean","","Umbrian: furfant ""they clean?""","",""
-"fulum","ɸu.lum","Postposition","full of, filled with","","Etruscan: *fulum ""?"",fulumchva ""full of,provided with fulum""","",""
-"fuvë","ɸu.βə","Inanimate Noun","confidence, certainty","","fuvi + ë","",""
-"fuvi","ɸu.βi","i-Adjective","confident, certain","","Oscan: fuvfdis ""more confident""","",""
-"fuvithë","ɸu.βi.tˠə","Inanimate Noun","uncertainty","","fuvithi + ë","",""
-"fuvithi","ɸu.βi.tˠi","i-Adjective","insecure, unsure, uncertain","","fuvi + opposite infix","",""
-"gaurë","gɑu.ʁə","Inanimate Noun","garden, orchard","","Hittite: gauri- ""a kind of forest""","",""
-"gauri","gɑu.ʁi","i-Adjective","peaceful, serene","","gaurë + i","",""
-"genzun","gɛn.zun","un-Adjective","friendly, kind, nice","","Hittite: genzuwala- ""friendly,kind""","",""
-"getho","gɛ.tˠo","Masculine Noun","cedar tree","i-noun","Cretan Greek: ἄργετος ""juniper,cedar""","",""
-"gimantë","gi.mɑn.tə","të-Verb","hibernate","","Hittite: gimmantariya- ""to hibernate""","",""
-"gimantë","gi.mɑn.tə","Inanimate Noun","winter","","Hittite: gimmant- ""winter""","",""
-"gimantëfo","gi.mɑn.tə.ɸo","Masculine Noun","hibernator","","gimantë + actant suffix","",""
-"gurzai","guʁ.zɑi","Animate Noun","island, isle","","Hittite: gursawar ""island""","",""
-"habnai","hɑb.nɑi","Animate Noun","lamb","i-noun","Umbrian: habina ""lamb?""","",""
-"hala","hɑ.lɑ","Animate Noun","shrub, bush","i-noun","Hittite: hahhal ""shrub,bush?""","",""
-"halci","hɑl.ki","Animate Noun","grain, cereal","i-noun","Hittite: halki- ""grain,cereal; field of cereal""","",""
-"halhaltumarë","hɑl.hɑl.tu.mɑ.ʁə","Inanimate Noun","border, boundary","","Hittite: halhaltumari- ""boundary stone""","",""
-"halisancë","hɑ.li.sɑn.kə","Inanimate Noun","equipment","","halisanuc + ë","",""
-"halisanuc","hɑ.li.sɑ.nuk","uc/up-Verb","equip","","Hittite: halissiyanu- ""to mount,set frame,plate; to equip""","",""
-"halithun","hɑ.li.tˠun","un-Adjective","shallow","","halun + opposite infix","",""
-"halun","hɑ.lun","un-Adjective","deep, hollow","","Hittite: hallu- ""deep""","",""
-"hamesa","hɑ.mɛ.sɑ","Animate Noun","spring (season)","","Hittite: hameshant- ""spring""","",""
-"hamfi","hɑm.ɸi","i-Adjective","right (direction)","","Etruscan: hamφa ""right""","",""
-"handandathë","hɑn.dɑn.dɑ.tˠə","Irregular Verb","miracle","","Hittite: handandatar ""miracle""","",""
-"handhë","hɑn.dˠə","Inanimate Noun","sincerety, honesty","","handhi + ë","",""
-"handhi","hɑn.dˠi","i-Adjective","sincere, honest","","Hittite: hand- ""sincere,honest""","",""
-"handhithi","hɑn.dˠi.tˠi","i-Adjective","insincere, dishonest","","handhi + opposite infix","",""
-"haniphalu","hɑ.ni.pˠɑ.lu","Personal Name","Hannibal [masc. name]","","Etruscan: hanipaluscle ""for (or against?) Hannibal""","",""
-"haniphalusclu","hɑ.ni.pˠɑ.lus.klu","Masculine Noun","supporter, follower","","Etruscan: hanipaluscle ""for (or against?) Hannibal""","",""
-"hanthë","hɑn.tˠə","Inanimate Noun","forehead","i-noun","Hittite: hant- ""forehead""","",""
-"hanthithë","hɑn.tˠi.tˠə","Inanimate Noun","back of the head","","hanthë + opposite infix","",""
-"hapinun","hɑ.pi.nun","un-Adjective","rich","","Hittite: happinant- ""rich""","",""
-"harci","hɑʁ.ki","i-Adjective","clear, see-through, transparent, clean","","Hittite: harki- ""white,clear""","",""
-"harië","hɑ.ʁi.ə","Inanimate Noun","valley, vale","","Hittite: hāri- ""valley""","",""
-"harizë","hɑ.ʁi.zə","Inanimate Noun","indentation, furrow, groove, depression","","harië + diminutive","",""
-"harnama","hɑʁ.nɑ.mɑ","Animate Noun","yeast","","Hittite: harnamma(r) ""yeast; fermentation; turmoil,rebellion""","",""
-"harphun","hɑʁ.pˠun","un-Adjective","hostile, unfriendly","","Hittite: harpu- ""hostile""","",""
-"harsë","hɑʁ.sə","së-Verb","laugh, smile","","Hittite: hahhars- ""to laugh""","",""
-"hasnu","hɑs.nu","Personal Name","Jason [masc. name]","","Etruscan: Easun,Heasun,Heiasun ""Jason""","",""
-"hasti","hɑs.ti","i-Adjective","strong, powerful","","Hittite: hastāi- ""bone; strength,power""","",""
-"hatë","hɑ.tə","të-Verb","be favourable","","Etruscan: hath ""to be favourable""","",""
-"hatë","hɑ.tə","të-Verb","dry","","Hittite: hat- ""to dry""","",""
-"hathalantë","hɑ.tˠɑ.lɑn.tə","Inanimate Noun","bolt, door latch, deadbolt","","Hittite: hattalwant- ""bolt""","",""
-"hathucesë","hɑ.tˠu.kɛ.sə","së-Verb","worsen","","Hittite: hatukes- ""to worsen""","",""
-"hathuci","hɑ.tˠu.ki","i-Adjective","bad","","Hittite: hatuki- ""bad,dreadful""","",""
-"hatna","hɑt.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Hathna ""Etruscan satyr""","",""
-"hecë","hɛ.kə","cë-Verb","put, place, add","","Etruscan: hec-,hech- ""put,place,add""","",""
-"heisnu","hɛis.nu","Personal Name","Jason [masc. name]","","Etruscan: Easun,Heasun,Heiasun ""Jason""","",""
-"helun","hɛ.lun","un-Adjective","right, correct","","Etruscan: hel,hels ""own,proper""","",""
-"hercli","hɛʁ.kli","Personal Name","Herakles, Hercules [masc. name]","","Etruscan: Hercle ""Herakles,Hercules""","",""
-"hereis","hɛ.ʁɛis","Determiner","yesterday","","Oscan: hereiis ""yesterday""","",""
-"hermu","hɛʁ.mu","Personal Name","Hermes [masc. name]","","Etruscan: hermu ""Hermes?""","",""
-"hesnu","hɛs.nu","Personal Name","Jason [masc. name]","","Etruscan: Easun,Heasun,Heiasun ""Jason""","",""
-"heva","hɛ.βɑ","Determiner","all (of)","","Etruscan: heva ""all""","",""
-"hexë","hɛ.xə","Inanimate Noun","hearth, stove, cooker","i-noun","a priori; but compare Greek: Ἑστία ""Hestia,hearth,fireside""","",""
-"hilaië","hi.lɑi.ə","Inanimate Noun","courtyard, open space","","Hittite: hīla- ""courtyard""","",""
-"hinthai","hin.tˠɑi","Animate Noun","soul, spirit, ghost","","Etruscan: hinthial ""soul,ghost,of the Underworld""","",""
-"hinthalë","hin.tˠɑ.lə","Inanimate Noun","shadow, shade","","Etruscan: hinθial ""the dead,shadow""","",""
-"hinthalëfo","hin.tˠɑ.lə.ɸo","Masculine Noun","parasol, sunshade","","hinthalë + actant suffix","",""
-"hinthi","hin.tˠi","Preposition","below, under","","Etruscan: hinth,hinthi,hinthia ""below""","",""
-"hisnu","his.nu","Personal Name","Jason [masc. name]","","Etruscan: Easun,Heasun,Heiasun ""Jason""","",""
-"hosfri","hos.ɸʁi","Animate Noun","October (month)","","Etruscan: *Chosfer ""October""","",""
-"hostatazë","hos.tɑ.tɑ.zə","Inanimate Noun","needle","","hostatë + diminutive","",""
-"hostatë","hos.tɑ.tə","Inanimate Noun","spear","","Umbrian: hostatu ""speared""","",""
-"hostatëfo","hos.tɑ.tə.ɸo","Masculine Noun","spearman","","hostatë + actant suffix","",""
-"huda","hu.dɑ","Animate Noun","noise","","Hittite: hūda- ""noise?""","",""
-"hudafo","hu.dɑ.ɸo","Masculine Noun","noise maker","","huda + actant suffix","",""
-"hulgani","hul.gɑ.ni","Animate Noun","chariot, wagon","","Hittite: huluganni- ""chariot""","",""
-"hulganifo","hul.gɑ.ni.ɸo","Masculine Noun","charioteer, waggoner, wagoner","","hulgani + actant suffix","",""
-"hulphi","hul.pˠi","i-Adjective","green","","Hittite: huelpi- ""fresh,young,green; young animal""","",""
-"hulsi","hul.si","Animate Noun","owl","","Etruscan: hiuls ""owl""","",""
-"hupla","hu.plɑ","Animate Noun","drum","","Hittite: huhupāl- ""tambourine""","",""
-"huplafo","hu.plɑ.ɸo","Masculine Noun","drummer","","hupla + actant suffix","",""
-"hursnanazu","huʁ.snɑ.nɑ.zu","Masculine Noun","child","rare; poetic","hursnanu + diminutive","",""
-"hursnanu","huʁ.snɑ.nu","Masculine Noun","youth, teen","","Etruscan: husrnana ""epithet of Maris,'The Youthful,Young'""","",""
-"hurtsu","huʁt.su","Masculine Noun","gardener, planter, farmer","","Oscan: húrtiis ""gardener""","",""
-"hurzë","huʁ.zə","Inanimate Noun","forest, grove","","Oscan: húrz ""the garden,the forest""","",""
-"hurzëfo","huʁ.zə.ɸo","Masculine Noun","forester","","hurzë + actant suffix","",""
-"husazu","hu.sɑ.zu","Masculine Noun","toddler, infant","","husu + diminutive","",""
-"huspanu","hus.pɑ.nu","Masculine Noun","offspring, descendant","","husu + encompassing infix","",""
-"husu","hu.su","Masculine Noun","child, kid","","Etruscan: hus-,husiur,husur ""children"" (Latin liberi)","",""
-"hut","hut","Cardinal Number","four","","Etruscan: huth,hut? ""four""","",""
-"huthalc","hu.tˠɑlk","Cardinal Number","fourty","","Etruscan: huthalch? ""fourty""","",""
-"huts","huts","Frequency Number","four times","","Etruscan: huthz? ""four times""","",""
-"hutșna","hut.ʃnɑ","Ordinal Number","fourth","","Etruscan: huth,hut? ""four""","",""
-"hutulë","hu.tu.lə","Inanimate Noun","wool","","Hittite: hutulli- ""wool""","",""
-"huzrnatrë","huzʁ.nɑ.tʁə","Inanimate Noun","school","","Etruscan: huzrnatre,*husurnatra ""college of youths"" (Latin iuuentus)","",""
-"ic","ik","","and","gets turned into a suffix ""-c"" following words ending on a vowel. May not be used before words beginning on a nasal.","Etruscan: ic,-c ""and"" (Latin -que)","",""
-"ica","i.kɑ","Determiner","that","","Etruscan: ica ""this""","",""
-"igitë","i.gi.tə","të-Verb","practice, repeat (in order to practice)","","a priori","",""
-"ihalë","i.hɑ.lə","Inanimate Noun","bandage, band-aid","","Hittite: ishial- ""bandage""","",""
-"ilucuë","i.lu.ku.ə","Inanimate Noun","week","","Etruscan: ilucu ""a period,part of a month""","",""
-"ilucui","i.lu.ku.i","i-Adjective","weekly","","ilucuë + i","",""
-"imanazë","i.mɑ.nɑ.zə","Inanimate Noun","thread, strand","","imanë + diminutive","",""
-"imanë","i.mɑ.nə","Inanimate Noun","rope","","Hittite: ishimana- ""rope""","",""
-"imeuntazu","i.mɛun.tɑ.zu","Masculine Noun","rapscallion, (snotty-nosed) brat, trickster","generally only used to describe kids or teens","imeuntu + diminutive","",""
-"imeuntu","i.mɛun.tu","Masculine Noun","troublemaker, mischief-maker","","Hittite: ishaltuhmeyant- ""troublemaker""","",""
-"imi","i.mi","Pronoun","me","first person singular accusative pronoun","Etruscan: mi ""I""","",""
-"imië","i.mi.ə","Pronoun","me","first person singular dative pronoun","Etruscan: mi ""I""","",""
-"iŋac","iŋ.ɑk","Postposition","as, like","","Etruscan: ic,ich,ichnac ""as""","",""
-"iqha","i.qˠɑ","Pronoun","he, she, it","third person singular animate nominative pronoun","Etruscan: an ""he,she,it""; Etruscan: ca ""this,that""","",""
-"iqhaë","i.qˠɑ.ə","Pronoun","him, her, it","third person singular animate dative pronoun","Etruscan: an ""he,she,it""; Etruscan: ca ""this,that""","",""
-"iqhai","i.qˠɑi","Pronoun","him, her, it","third person singular animate accusative pronoun","Etruscan: an ""he,she,it""; Etruscan: ca ""this,that""","",""
-"iqhw","i.qˠø̞","Pronoun","his, her, its","third person singular animate genitive pronoun","Etruscan: an ""he,she,it""; Etruscan: ca ""this,that""","",""
-"ișeni","i.ʃɛ.ni","Animate Noun","hair","","Hittite: isheni- ""hair""","",""
-"istacazë","i.stɑ.kɑ.zə","Inanimate Noun","sickle","","istacë + diminutive","",""
-"istacë","i.stɑ.kə","Inanimate Noun","scythe, sickle","","Boeotian Greek: ἰστάκη ""scythe""","",""
-"istacocë","i.stɑ.ko.kə","Inanimate Noun","scythe","","istacë + augmentative","",""
-"ïstru","ɨs.tʁu","Masculine Noun","actor (someone who acts, does something)","","Etruscan: *ister ""actor"" (Latin histrio)","",""
-"ithun","i.tˠun","Determiner","this","empathic","Etruscan: itun (empathic) ""this""","",""
-"ithup","i.tˠup","uc/up-Verb","divide","","Etruscan: *itu- ""to divide?""","",""
-"iznircë","iz.niʁ.kə","cë-Verb","have to, must, be required to","","a priori","",""
-"lacarna","lɑ.kɑʁ.nɑ","Animate Noun","plant","","Hittite: lakkarwan ""a garden plant""","",""
-"lacarnaza","lɑ.kɑʁ.nɑ.zɑ","Animate Noun","sapling, graft, scion, offshoot","","lacarna + diminutive","",""
-"lahazu","lɑ.hɑ.zu","Masculine Noun","recruit, conscript","","lahu + diminutive","",""
-"lahithu","lɑ.hi.tˠu","Masculine Noun","pacifist","","lahu + opposite infix","",""
-"lahocu","lɑ.ho.ku","Masculine Noun","veteran, war returnee","","lahu + augmentative","",""
-"lahu","lɑ.hu","Masculine Noun","soldier, warrior","i-noun","Hittite: lahhiyala- ""man of war,soldier""","",""
-"laivi","lɑi.βi","i-Adjective","left (direction)","","Etruscan: laive ""left""","",""
-"lamanazë","lɑ.mɑ.nɑ.zə","Inanimate Noun","nickname, cognomen, pet name","","lamanë + diminutive","",""
-"lamancë","lɑ.mɑn.kə","cë-Verb","name, call (by name), call for","","Hittite: lamniya- ""to name; to call; to order; to assign,appoint""","",""
-"lamanë","lɑ.mɑ.nə","Inanimate Noun","name","","Hittite: lāman- ""name""","",""
-"lamanëfo","lɑ.mɑ.nə.ɸo","Masculine Noun","name giver, someone who names something","","lamanë + actant suffix","",""
-"lamanpanë","lɑ.mɑn.pɑ.nə","Inanimate Noun","last name, family name","","lamanë + encompassing infix","",""
-"lamari","lɑ.mɑ.ʁi","Animate Noun","hour","","Hittite: lammar ""hour,moment""","",""
-"lantneteru","lɑnt.nɛ.tɛ.ʁu","Masculine Noun","freedman, freedwoman, freedperson","","Etruscan: lantneteri ""freedman,client""","",""
-"larci","lɑʁ.ki","Personal Name","[masc. name]","","Etruscan: Larce ""proper name (masc.)""","",""
-"larisu","lɑ.ʁi.su","Personal Name","Lars [masc. name]","","Etruscan: L(a)ris,Larth ""Lars,proper name (masc.)""","",""
-"larthi","lɑʁ.tˠi","Personal Name","[fem. name]","","Etruscan: Larthi,Larthia ""proper name (feminine)""","",""
-"lartho","lɑʁ.tˠo","Personal Name","Lars [masc. name]","","Etruscan: L(a)ris,Larth ""Lars,proper name (masc.)""","",""
-"lasu","lɑ.su","Masculine Noun","bride","i-noun","Etruscan: lasa ""bride,nymph""","",""
-"laucumnun","lɑu.kum.nun","un-Adjective","royal, courtly","","Etruscan: lauchumna ""'belonging to a lucumo',of a palace""","",""
-"lauthuna","lau.tˠu.na","Animate Noun","family","","Etruscan: lautun,lautn ""family,gens""","",""
-"lautnu","lɑut.nu","Masculine Noun","citizen, inhabitant","","Etruscan: lautni ""'of the family',freedman""","",""
-"laxpanu","lɑx.pɑ.nu","Masculine Noun","army","the /h/ from ""lahu"" is irregularly turned into an /x/ here for ease of pronunciation","lahu + encompassing infix","",""
-"leinai","lɛi.nɑi","Animate Noun","death","","leine + ai","",""
-"leine","lɛi.nɛ","eine-Verb","die","","Etruscan: lein- ""to die?""","",""
-"leinpanai","lɛin.pɑ.nɑi","Animate Noun","apocalypse","","leinai + encompassing infix","",""
-"leinu","lɛi.nu","Masculine Noun","elder, old person","","Etruscan: leinθ ""elderly woman""","",""
-"leinun","lɛi.nun","un-Adjective","elderly, aged, retired","","leinu + un","",""
-"lenai","lɛ.nɑi","Personal Name","[gender-neutral name]","","Arcadian Greek: Λῆναι ""Bacchae""","",""
-"leprina","lɛ.pʁi.nɑ","Personal Name","[fem. name]","","Etruscan: Lepr(i)na ""epithet of Culsu""","",""
-"licitë","li.ki.tə","të-Verb","allow, permit","","Oscan: licitud ""I am allowed""","",""
-"licitë","li.ki.tə","Inanimate Noun","permit, permission","","licitë + ë","",""
-"limazë","li.mɑ.zə","Inanimate Noun","craving","","limë + diminutive","",""
-"limë","li.mə","Inanimate Noun","hunger","","limun + ë","",""
-"limun","li.mun","un-Adjective","hungry","","Oscan: limu ""hunger""","",""
-"lisi","li.si","Animate Noun","liver","","Hittite: lissi- ""liver""","",""
-"lothazë","lo.tˠɑ.zə","Inanimate Noun","pebble","","lothë + diminutive","",""
-"lothë","lo.tˠə","Inanimate Noun","stone","","Etruscan: luth ""stone? temple?""","",""
-"lothocë","lo.tˠo.kə","Inanimate Noun","boulder, rock","","lothë + augmentative","",""
-"luc","luk","uc/up-Verb","act, rule","","Etruscan: lucair ""to act as lauchum,lucumo,to rule""","",""
-"lucë","lu.kə","cë-Verb","be in charge, rule","","Etruscan: lauch-,luc- ""to rule,be in charge""","",""
-"lup","lup","uc/up-Verb","die","","Etruscan: lup-,lupu ""to die""","",""
-"luthai","lu.tˠɑi","Animate Noun","window, opening in the wall","","Hittite: luttāi- ""window,shutter""; luttant- ""window""","",""
-"luzarië","lu.zɑ.ʁi.ə","Inanimate Noun","game","","Oscan: luisarifs ""games?""","",""
-"luzariëfo","lu.zɑ.ʁi.ə.ɸo","Masculine Noun","player, game participant","","luzarië + actant suffix","",""
-"lwai","lø̞.ɑi","Animate Noun","lion","","Etruscan: leu ""lion""","",""
-"lwcmo","lø̞k.mo","Masculine Noun","king","","Etruscan: lauchum(e) ""king"" (Latin lucumo)","",""
-"maclanti","mɑ.klɑn.ti","i-Adjective","thin, lean","","Hittite: maklant- ""lean,thin,meager""","",""
-"malanë","mɑ.lɑ.nə","Inanimate Noun","mirror","","Etruscan: malena,malana,malstria ""mirror""","",""
-"malanëfo","mɑ.lɑ.nə.ɸo","Masculine Noun","mirror image","","malanë + actant suffix","",""
-"maleine","mɑ.lɛi.nɛ","eine-Verb","look, watch","","Etruscan: mal- ""to look,watch,guard,oversee""","",""
-"maliscun","mɑ.lis.kun","un-Adjective","weak","","Hittite: malisku- ""weak""","",""
-"mamarca","mɑ.mɑʁ.kɑ","Animate Noun","Mars (planet)","","Etruscan: Mamarce,Mamerce ""'Mars'""","",""
-"mamarci","mɑ.mɑʁ.ki","i-Adjective","warlike, martial, bellicose","","mamarca + i","",""
-"mamarcithi","mɑ.mɑʁ.ki.tˠi","i-Adjective","peaceful, pacifist","","mamarci + opposite infix","",""
-"mamarcu","mɑ.mɑʁ.ku","Personal Name","Mamercus [gender-neutral name]","","Etruscan: Mamarce,Mamerce ""Mamercus"" (cf. Oscan Mamers,'Mars')","",""
-"mamercu","mɑ.mɛʁ.ku","Personal Name","Mamercus [gender-neutral name]","","Etruscan: Mamarce,Mamerce ""Mamercus"" (cf. Oscan Mamers,'Mars')","",""
-"manë","mɑ.nə","Inanimate Noun","childhood, youth","i-noun","Etruscan: mean ""childhood,youth""","",""
-"manë","mɑ.nə","Inanimate Noun","hand","","Umbrian: mani ""by hand""","",""
-"manë","mɑ.nə","Inanimate Noun","tombstone","i-noun","Etruscan: man ""tombstone""","",""
-"manfup","mɑn.ɸup","uc/up-Verb","send (out)","","Oscan: manafum ""I sent""","",""
-"mani","mɑ.ni","Animate Noun","corpse, dead person, deceased person","i-noun","Etruscan: man,mani ""the dead"" (Latin Manes)","",""
-"manitalu","mɑ.ni.tɑ.lu","Masculine Noun","treasurer, bursar","","Hittite: maniyahhatalla- ""bursar""","",""
-"marcu","mɑʁ.ku","Personal Name","Marcus [masc. name]","","Etruscan: Marce ""Marcus""","",""
-"marișu","mɑ.ʁi.ʃu","Masculine Noun","bridegroom, groom","","Etruscan: marish ""(male) boy,baby,youth,bridegroom,servant,slave""","",""
-"masni","mɑs.ni","Animate Noun","December (month)","i-noun","Etruscan: masan,masn ""December""","",""
-"mathan","mɑ.tˠɑn","Preposition","above, before","","Etruscan: matam,matan ""above,before""","",""
-"mathë","mɑ.tˠə","Inanimate Noun","honey","i-noun","Etruscan: math ""honey,honeyed wine"" (Greek methu,English mead)","",""
-"mathun","mɑ.tˠun","un-Adjective","sweet","","mathë + un","",""
-"max","mɑx","Cardinal Number","five","","Etruscan: mach,mac ""five""","",""
-"maxs","mɑxs","Frequency Number","five times","","Etruscan: mach,mac ""five""","",""
-"maxșna","mɑx.ʃnɑ","Ordinal Number","fifth","","Etruscan: mach,mac ""five""","",""
-"melicratțë","mɛ.li.kʁɑt.tʃə","Inanimate Noun","mulled wine","","Etruscan: melicraticce ""honey and wine""","",""
-"memnu","mɛm.nu","Personal Name","Memnon [gender-neutral name]","","Etruscan: Memnum,Memrum ""Memnon""","",""
-"memru","mɛm.ʁu","Personal Name","Memnon [gender-neutral name]","","Etruscan: Memnum,Memrum ""Memnon""","",""
-"menë","mɛ.nə","në-Verb","give, hand over, offer","","Etruscan: men- ""mak,offer""","",""
-"menlu","mɛn.lu","Personal Name","Menelaus [masc. name]","","Etruscan: Menle ""Menelaus""","",""
-"menznë","mɛn.znə","Inanimate Noun","month","i-noun","Umbrian: menzne ""a month""","",""
-"methusu","mɛ.tˠu.su","Personal Name","[fem. name]","","Etruscan: Metus ""the Gorgon Medusa""","",""
-"mexu","mɛ.xu","Masculine Noun","queen","i-noun","Etruscan: mex ""people,league,nation,lady,queen""","",""
-"mi","mi","Pronoun","I","first person singular nominative pronoun","Etruscan: mi ""I""","",""
-"minasë","mi.nɑ.sə","së-Verb","threaten","","Oscan: minatus ""threatened""","",""
-"minimir","mi.ni.miʁ","Pronoun","us","first person plural accusative pronoun","Etruscan: mini ""I,me""; Etruscan: mir ""we""","",""
-"minir","mi.niʁ","Pronoun","we","first person plural nominative pronoun","Etruscan: mini ""I,me""; Etruscan: mir ""we""","",""
-"minirë","mi.ni.ʁə","Pronoun","us","first person plural dative pronoun","Etruscan: mini ""I,me""; Etruscan: mir ""we""","",""
-"minw","mi.nø̞","Pronoun","our","first person plural genitive pronoun","Etruscan: mini ""I,me""; Etruscan: mir ""we""","",""
-"mithi","mi.tˠi","i-Adjective","copper-red","","Hittite: mīti- ""red""","",""
-"mlacun","mlɑ.kun","un-Adjective","good, right","","Etruscan: mlaca ""good""","",""
-"mulxi","mul.xi","i-Adjective","beautiful, nice","","Etruscan: mulx ""beautiful,nice""","",""
-"munë","mu.nə","Inanimate Noun","tomb, grave","","Etruscan: mun-,muni ""underground place,tomb""","",""
-"murcë","muʁ.kə","cë-Verb","stay, reside","","Etruscan: mur- ""stay,reside""","",""
-"mutuqë","mu.tu.qə","Inanimate Noun","thyme","","Etruscan: *mutuka ""thyme""","",""
-"muvalc","mu.βɑlk","Cardinal Number","fifty","","Etruscan: muvalch,machalch ""fifty""","",""
-"mw","mø̞","Pronoun","my, mine","first person singular genitive pronoun","Etruscan: mi ""I""","",""
-"nac","nɑk","Determiner","because (of)","","Etruscan: nac ""how,as,because,since""","",""
-"nafreine","nɑ.ɸʁɛi.nɛ","eine-Verb","rain","","Oscan: anafríss ""rains""","",""
-"nafrizazi","nɑ.ɸʁi.zɑ.zi","Animate Noun","drizzle, light rain","","nafrizi + diminutive","",""
-"nafrizi","nɑ.ɸʁi.zi","Animate Noun","rain, rainfall","","Oscan: anafríss ""rains""","",""
-"nafrizoci","nɑ.ɸʁi.zo.ki","Animate Noun","heavy rainfall, downpour","","nafrizi + augmentative","",""
-"nafrizpani","nɑ.ɸʁiz.pɑ.ni","Animate Noun","precipitation","","nafrizi + encompassing infix","",""
-"nathi","nɑ.tˠi","Animate Noun","reed, reeds","i-noun","Hittite: natī- ""reed; arrow""","",""
-"necuti","nɛ.ku.ti","Animate Noun","evening, sunset","","Hittite: nekut- ""evening""","",""
-"nefțazo","nɛɸ.tʃɑ.zo","Masculine Noun","great-grandson","","nefțo + diminutive","",""
-"nefțo","nɛɸ.tʃo","Masculine Noun","nephew, grandson","i-noun","Etruscan: neftś,nefś,nefiś ""nephew,grandson"" (Latin nepos)","",""
-"negu","nɛ.gu","Masculine Noun","sister","i-noun","Hittite: nega- ""sister""","",""
-"neri","nɛ.ʁi","Animate Noun","water, liquid","i-noun","Etruscan: neri ""water""","",""
-"nerithi","nɛ.ʁi.tˠi","Animate Noun","solid, solid matter","","neri + opposite infix","",""
-"nerun","nɛ.ʁun","un-Adjective","wet","","neri + un","",""
-"nestru","nɛs.tʁu","Personal Name","Nestor [masc. name]","","Etruscan: Nestur ""Nestor""","",""
-"ninctë","nink.tə","Inanimate Noun","snow","","Umbrian: ninctu ""with snow""","",""
-"niri","ni.ʁi","i-Adjective","tall","","Oscan: niir ""man,prince,tall""","",""
-"niru","ni.ʁu","Masculine Noun","prince, princess, heir","","Oscan: niir ""man,prince,tall""","",""
-"niruë","ni.ʁu.ə","Inanimate Noun","herb","","Umbrian: niru [meaning uncertain,but probably some sort of herb]","",""
-"nuntë","nun.tə","të-Verb","bring, involve","","Etymology: nun-,nunth ""bring,involve""","",""
-"nurf","nuʁɸ","Cardinal Number","nine","","Etruscan: nurph ""nine""","",""
-"nurfsi","nuʁɸ.si","Frequency Number","nine times","","Etruscan: nurphzi ""nine times""","",""
-"nurfșna","nuʁɸ.ʃnɑ","Ordinal Number","ninth","","Etruscan: nurph ""nine""","",""
-"nurphalc","nuʁ.pˠɑlk","Cardinal Number","ninety","","Etruscan: nurphalch ""ninety""","",""
-"nurpnë","nuʁp.nə","Inanimate Noun","weight","","Umbrian: nuřpener ""weights""","",""
-"nutharun","nu.tˠɑ.ʁun","un-Adjective","fast, quick","","Hittite: nuttariya- ""fast,quick,hurriedly""","",""
-"ocarë","o.kɑ.ʁə","Inanimate Noun","mountain, mount","","Umbrian: ocar ""focus,mountain,the Sacred Mount of Iguvium""","",""
-"ocarëfo","o.kɑ.ʁə.ɸo","Masculine Noun","mountaineer, mountain climber, alpinist","","ocarë + actant suffix","",""
-"olimbai","o.lim.bɑi","Animate Noun","pantheon, specified group or set of deities","","Greek: Ólimbos ""Mount Olympus""","",""
-"onsë","on.sə","Inanimate Noun","shoulder","","Umbrian: onse ""on the shoulder""","",""
-"orostho","o.ʁos.tˠo","Personal Name","Orestes [gender-neutral name]","","Etruscan: Urusthe ""Orestes""","",""
-"oui","ou.i","Animate Noun","sheep","","Umbrian: oui ""sheep""","",""
-"pacsti","pɑk.sti","Personal Name","Pegasus [gender-neutral name]","","Etruscan: Pakste ""Pegasus,Trojan horse""","",""
-"palmithu","pɑl.mi.tˠu","Personal Name","Palamedes [gender-neutral name]","","Etruscan: Palmithe ""Palamedes""","",""
-"pana","pɑ.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Puanea ""name of a satyr""","",""
-"parsnai","pɑʁ.snɑi","Animate Noun","cheek","i-noun","Hittite: parsina- ""cheek""","",""
-"pastë","pɑs.tə","Inanimate Noun","width","","pasti + ë","",""
-"pasti","pɑs.ti","i-Adjective","wide, broad","","Hittite: palhasti- ""width""","",""
-"patruclo","pɑ.tʁu.klo","Personal Name","Patroclus [masc. name]","","Etruscan: Patrucle ""Patroclus""","",""
-"pavazu","pɑ.βɑ.zu","Masculine Noun","toddler boy","","pavu + diminutive","",""
-"pavu","pɑ.βu","Masculine Noun","boy","i-noun","Etruscan: pava ""boy,youth""","",""
-"pecsi","pɛ.ksi","Personal Name","Pegasus [gender-neutral name]","","Etruscan: Pecse ""Pegasus,Trojan horse""","",""
-"pelmtë","pɛlm.tə","Inanimate Noun","soup","i-noun","Umbrian: pelmner ""soup,pulping,meat""","",""
-"penthasila","pɛn.tˠɑ.si.lɑ","Personal Name","Penthesilea [fem. name]","","Etruscan: Pantasila,Pentasila ""Penthesilea,queen of the Amazons""","",""
-"perë","pɛ.ʁə","Inanimate Noun","house, home","i-noun","Etrusan: pera ""house""","",""
-"pernai","pɛʁ.nɑi","Animate Noun","ham","i-noun","Oscan: pernaí ""ham,completely""","",""
-"perseë","pɛʁ.sɛ.ə","Inanimate Noun","floor","","Umbrian: persaeo ""layer on the ground,prone?""","",""
-"persi","pɛʁ.si","Personal Name","Perseus [masc. name]","","Etruscan: Perse ""Perseus""","",""
-"persoë","pɛʁ.so.ə","Inanimate Noun","trench","","Umbrian: perso ""only,trench,trench for the libations""","",""
-"pesazë","pɛ.sɑ.zə","Inanimate Noun","peninsula","","pesë + diminutive","",""
-"pesë","pɛ.sə","Inanimate Noun","landmass, continent","i-noun","Etruscan: pes ""land?""","",""
-"pesetë","pɛ.sɛ.tə","të-Verb","cook","","Arcadian Greek: πέσσεται ""it is cooked,roasted""","",""
-"pesetu","pɛ.sɛ.tu","Masculine Noun","cook, chef","","pesetë + u","",""
-"phacathu","pˠɑ.kɑ.tˠu","Personal Name","[gender-neutral name]","","Etruscan: pachathur ""Bacchante,maenad (Pacha)""","",""
-"phaphacazu","pˠɑ.pˠɑ.kɑ.zu","Masculine Noun","great-grandson","","phaphacu + diminutive","",""
-"phaphacu","pˠɑ.pˠɑ.ku","Masculine Noun","grandson","","Etruscan: papals,papacs ""of the grandfather; grandson""","",""
-"phaphu","pˠɑ.pˠu","Masculine Noun","grandfather","i-noun","Etruscan: papa ""grandfather""","",""
-"phaunu","pˠɑu.nu","Personal Name","Phaon [gender-neutral name]","","Etruscan: Phaun,Faun,Phamu ""Phaon""","",""
-"pheica","pˠɛi.kɑ","Animate Noun","fish, aquatic animal","","a priori","",""
-"pheicitha","pˠɛi.ki.tˠɑ","Animate Noun","land animal","","pheica + opposite infix","",""
-"pheicun","pˠɛi.kun","un-Adjective","fresh, unspoiled","","pheica + un","",""
-"phercë","pˠɛʁ.kə","Inanimate Noun","staff (object)","i-noun","Umbrian: percam ""staff""","",""
-"pherphercup","pˠɛʁ.pˠɛʁ.kup","uc/up-Verb","cover, blanket, shroud","","a priori","",""
-"phersazë","pˠɛʁ.sɑ.zə","Inanimate Noun","toe","","phersë + diminutive","",""
-"phersë","pˠɛʁ.sə","Inanimate Noun","foot","i-noun","Umbrian: persi ""on foot""","",""
-"pherzocu","pˠɛʁ.zo.ku","Masculine Noun","personality, individuality","","pherzu + augmentative","",""
-"pherzu","pˠɛʁ.zu","Masculine Noun","person, a given individual","i-noun","Etruscan: phersu ""mask,masked person,actor"" (Latin persona)","",""
-"pherzun","pˠɛʁ.zun","un-Adjective","personal, individual","","pherzu + un","",""
-"phethenathë","pˠɛ.tˠɛ.nɑ.tˠə","Inanimate Noun","comb","","Umbrian: petenata ""scalloped,comb-shaped""","",""
-"phi","pˠi","Postposition","for","","Etruscan: pi ""for (enclitic)""","",""
-"phitharphalhi","pˠi.tˠɑʁ.pˠɑl.hi","Animate Noun","chicken","","Hittite: pittarpalhi ""a bird""","",""
-"phosthi","pˠos.tˠi","Determiner","according to","","Umbrian: posti ""for,in,according to""","",""
-"phuju","pˠu.ju","Masculine Noun","wife","","Etruscan: puia ""wife""","",""
-"phultcu","pˠult.ku","Personal Name","Pollux [masc. name]","often used for a twin boy","Etruscan: Pultuce,Pulutuce,Pulutuke,Pultuke ""Pollux""","",""
-"pi","pi","Preposition","to, towards, up to","","Etruscan: epl,pi,pul ""in,to,up to,until""","",""
-"pintzë","pint.zə","Inanimate Noun","oar","","Hittite: pintanza ""oar?""","",""
-"pintzëfo","pint.zə.ɸo","Masculine Noun","oarsman, sculler, rower","","pintzë + actant suffix","",""
-"ponisitë","po.ni.si.tə","të-Verb","hunt","","ponisithu + të","",""
-"ponisithu","po.ni.si.tˠu","Masculine Noun","hunter","","Umbrian: ponisiater ""hunter?""","",""
-"practhai","pʁɑk.tˠɑi","Animate Noun","thistle, spike","i-noun","a priori","",""
-"practhë","pʁɑk.tˠə","i-Adjective","spiked, spiky","","practhai + ë","",""
-"prati","pʁɑ.ti","i-Adjective","thankful, grateful","","pratis + i","",""
-"pratis","pʁɑ.tis","","thanks!, thank you!","","Oscan: brateis ""thanks""","",""
-"pratup","pʁɑ.tup","uc/up-Verb","thank","","pratis + up","",""
-"prucë","pʁu.kə","Inanimate Noun","jug, carafe, decanter","","Etruscan: pruch,pruchum ""jug"" (Greek prochous)","",""
-"prumthu","pʁum.tˠu","Masculine Noun","great-grandson","","Etruscan: prumathś,prumts ""great-grandson""","",""
-"psistë","psis.tə","Inanimate Noun","pistachio","","Umbrian: pistu ""pistachio""","",""
-"psli","psli","i-Adjective","important, main, focussed on","","Etruscan: psl ""?""","",""
-"psliqa","psli.qɑ","Animate Noun","importance, centrepiece","","psli + a","",""
-"pslithi","psli.tˠi","i-Adjective","unimportant, not focussed on","","psli + opposite infix","",""
-"pslitqa","pslit.qɑ","Animate Noun","unimportance","","pslithi + a","",""
-"pugë","pu.gə","Inanimate Noun","stink, bad smell","","pugun + ë","",""
-"pugun","pu.gun","un-Adjective","repulsive, stinking, smelly","","Hittite: puggant- ""odious,repulsive""","",""
-"pul","pul","Preposition","until","","Etruscan: epl,pi,pul ""in,to,up to,until""","",""
-"pulena","pu.lɛ.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Pulena ""proper name""","",""
-"pulo","pu.lo","Personal Name","[masc. name]","","Etruscan: Pule,Pules ""proper name (masculine)""","",""
-"pululë","pu.lu.lə","Inanimate Noun","hook, fishing hook","","Oscan: ampu[l]ulum ""hook,minister?""","",""
-"pululeine","pu.lu.lɛi.nɛ","eine-Verb","fish, hook","","pululë + eine","",""
-"pulumai","pu.lu.mɑi","Animate Noun","star","","Etruscan: pulum ""star""","",""
-"pulumpanai","pu.lum.pɑ.nɑi","Animate Noun","galaxy","","pulumai + encompassing infix","",""
-"pumuna","pu.mu.na","Animate Noun","apple","","Umbrian: puemune ""apple"" or ""of the apple""","",""
-"puna","pu.nɑ","Personal Name","[gender-neutral name]","","Etruscan: Puanea ""name of a satyr""","",""
-"putë","pu.tə","Inanimate Noun","well (water source)","","Etruscan: put-,puth- ""vase,pot,vessel,well?"" (Greek potos,Latin puteus,puteal?)","",""
-"pviri","pβi.ʁi","i-Adjective","female, feminine","","pviro + i","",""
-"pviro","pβi.ʁo","Masculine Noun","woman","","Etruscan: pvia ""woman""","",""
-"qanë","qɑ.nə","Inanimate Noun","meat, flesh","i-noun","Umbrian: karne ""meat,flesh""","",""
-"qelë","qɛ.lə","Inanimate Noun","room, enclosed space","i-noun","Etruscan: cela ""room"" (Latin cella)","",""
-"qw","qø̞","Determiner","if, in case that","","a priori","",""
-"racë","ʁɑ.kə","cë-Verb","prepare","","Etruscan: rach- ""prepare""","",""
-"ragethë","ʁɑ.gɛ.tˠə","Inanimate Noun","silver","","Oscan: aragetud ""with silver""","",""
-"ragethi","ʁɑ.gɛ.tˠi","i-Adjective","silver, silvery","","ragethë + i","",""
-"ramtha","ʁɑm.tˠɑ","Personal Name","[fem. name]","","Etruscan: Ramutha,Ramtha ""proper name (feminine)""","",""
-"ramutha","ʁɑ.mu.tˠɑ","Personal Name","[fem. name]","","Etruscan: Ramutha,Ramtha ""proper name (feminine)""","",""
-"rasenithu","ʁɑ.sɛ.ni.tˠu","Masculine Noun","barbarian, foreigner","""barbarian"" in the original Greek sense of the word, in this case, someone who does not speak Atlantean","rasenu + opposite infix","",""
-"rasenithun","ʁɑ.sɛ.ni.tˠun","un-Adjective","barbaric, foregin","""barbaric"" in the original Greek sense of the word, in this case, someone who does not speak Atlantean","rasenun + opposite infix; rasenithu + un","",""
-"rasenu","ʁɑ.sɛ.nu","Masculine Noun","Atlantis, Atlantean people","endonym","Etruscan: Rasenna,Rasna ""Etruscans?""","",""
-"rasenun","ʁɑ.sɛ.nun","un-Adjective","Atlantean","","rasenu + un","",""
-"rasna","ʁɑs.nɑ","Animate Noun","Classical Atlantean language","i-noun; endonym of this language","Etruscan: Rasenna,Rasna ""Etruscans?""","",""
-"rasnaza","ʁɑs.nɑ.zɑ","Animate Noun","dialect","specifically dialects of the Classical Atlantean language (Rasna)","rasna + diminutive","",""
-"rasnazun","ʁɑs.nɑ.zun","un-Adjective","dialectal","specifically dialects of the Classical Atlantean language (Rasna)","rasnaza + un","",""
-"rasni","ʁɑs.ni","i-Adjective","able to speak, well-spoken","","","",""
-"rephintë","ʁɛ.pˠin.tˠə","Inanimate Noun","bend, curve","","rephintheine + ë","",""
-"rephintheine","ʁɛ.pˠin.tˠɛi.nɛ","eine-Verb","bend","","Etruscan: repinthi ""bend,incline?""","",""
-"rephinti","ʁɛ.pˠin.tˠi","i-Adjective","bent","","rephintheine + i","",""
-"rmitho","ʁmi.tˠo","Masculine Noun","freshwater, potable water","","rmo + opposite infix","",""
-"rmithun","ʁmi.tˠun","un-Adjective","potable, safe to drink","","rmitho + un","",""
-"rmo","ʁmo","Masculine Noun","sea, ocean, saltwater","","a priori","",""
-"rufri","ʁu.ɸʁi","i-Adjective","red","","Oscan: rufriis ""red""","",""
-"ruvazu","ʁu.βɑ.zu","Masculine Noun","little brother","","ruvu + diminutive","",""
-"ruvu","ʁu.βu","Masculine Noun","brother","","Etruscan: ruva ""brother""","",""
-"șa","ʃɑ","Cardinal Number","six","","Etruscan: śa,sa? ""six""","",""
-"șalc","ʃɑlk","Cardinal Number","sixty","","Etruscan: sealch? ""sixty""","",""
-"salïë","sɑ.lɨ.ə","Inanimate Noun","salt","","Umbrian: salu ""salt""","",""
-"salïi","sɑ.lɨ.i","i-Adjective","salty","","salïë + i","",""
-"saluc","sɑ.luk","uc/up-Verb","carry out, do","","Etruscan: sal- ""make,carry out""","",""
-"sanisvë","sɑ.nis.βə","Inanimate Noun","bone","","Etruscan: sanisva ""bones?""","",""
-"sanisvpanë","sɑ.nis.βpɑ.nə","Inanimate Noun","skeleton","","sanisvë + encompassing infix","",""
-"sanisvpanun","sɑ.nis.βpɑ.nun","un-Adjective","skeletal, skeletonised, skeletonized","","sanisvpanë + un","",""
-"șanșna","ʃɑn.ʃnɑ","Ordinal Number","sixth","","Etruscan: śa,sa? ""six""","",""
-"satë","sɑ.tə","të-Verb","establish, place down","","Etruscan: sath-,śat- ""put,establish,be put?""","",""
-"sciphë","ski.pˠə","Inanimate Noun","sword","","Aeolian Greek: σκίφος ""sword""","",""
-"sciphëfo","ski.pˠə.ɸo","Masculine Noun","swordsman","","sciphë + actant suffix","",""
-"scunë","sku.nə","në-Verb","leave, dismiss","","Etruscan: sc-,scu-,scune ""give,place,offer; or leave,dismiss""","",""
-"semf","sɛmɸ","Cardinal Number","seven","","Etruscan: semph ""seven""","",""
-"semfsi","sɛmɸ.si","Frequency Number","seven times","","Etruscan: semph ""seven""","",""
-"semfșna","sɛmɸ.ʃnɑ","Ordinal Number","seventh","","Etruscan: semph ""seven""","",""
-"semithu","sɛ.mi.tˠu","Masculine Noun","outskirts, extreme","","semu + opposite infix","",""
-"semla","sɛm.lɑ","Personal Name","Semele [fem. name]","","Etruscan: Semla ""Semele""","",""
-"semphalc","sɛm.pˠɑlk","Cardinal Number","seventy","","Etruscan: semphalch ""seventy""","",""
-"semu","sɛ.mu","Masculine Noun","middle, centre","i-noun","Umbrian: semu ""in the middle""","",""
-"semui","sɛ.mu.i","i-Adjective","central, in the middle, middle","","semu + i","",""
-"șerfë","ʃɛʁ.ɸə","Inanimate Noun","wax","i-noun","Umbrian: śerfer ""wax,genius""","",""
-"sexazu","sɛ.xɑ.zu","Masculine Noun","infant daughter","","sexu + diminutive","",""
-"sexu","sɛ.xu","Masculine Noun","daughter","i-noun","Etruscan: sec,sech ""daughter""","",""
-"sima","si.mɑ","Animate Noun","pig, swine","","Umbrian: sim ""pig""","",""
-"slabhi","slɑ.bˠi","Animate Noun","lip, lips","i-noun","Oscan: slabiis ""lips""","",""
-"smintë","smin.tə","Inanimate Noun","stupidity","","sminti + ë","",""
-"sminti","smin.ti","i-Adjective","stupid","","Oscan: smintiis ""stupider""","",""
-"snathun","snɑ.tˠun","un-Adjective","dry","","Umbrian: asnata ""not wet""","",""
-"snenathithu","snɛ.nɑ.tˠi.tˠu","Masculine Noun","platonic friend","","snenathu + opposite infix","",""
-"snenathu","snɛ.nɑ.tˠu","Masculine Noun","romantic partner, girlfriend, boyfriend","","Etruscan: snenath ""maid,companion,ancilla (feminine)""","",""
-"somë","so.mə","Inanimate Noun","height","","somi + ë","",""
-"somi","so.mi","i-Adjective","high","","Umbrian: somo ""the highest""","",""
-"spanta","spɑn.tɑ","Animate Noun","night","i-noun","Hittite: ispanti- ""night""","",""
-"spantaza","spɑn.tɑ.zɑ","Animate Noun","solar eclipse","","spanta + diminutive","",""
-"spanti","spɑn.ti","i-Adjective","nocturnal, at night","","Hittite: ispanti- ""nocturnal?""","",""
-"spasalazu","spɑ.sɑ.lɑ.zu","Masculine Noun","eavesdropper","","spasalu + diminutive","",""
-"spasalu","spɑ.sɑ.lu","Masculine Noun","spy","","Hittite: sapasalli- ""scout,spy""","",""
-"sphanthië","spˠɑn.tˠi.ə","Inanimate Noun","field, farmland","","Etruscan: span-,spanti- ""dish; plain,fields""","",""
-"sphetë","spˠɛ.tə","të-Verb","drink","","Etruscan: spet ""to drink""","",""
-"spinazë","spi.nɑ.zə","Inanimate Noun","fence, fencing, railings","","Oscan: saipinaz ""the fences""","",""
-"spinazun","spi.nɑ.zun","un-Adjective","fenced in","","spinazë + un","",""
-"spura","spu.ʁɑ","Animate Noun","town, city","","Etruscan: spur- ""city""","",""
-"spuri","spu.ʁi","i-Adjective","public","","Etruscan: spuriaze ""public""","",""
-"spuriu","spu.ʁi.u","Personal Name","Spuria, Spurius [gender-neutral name]","","Etruscan: Spuria ""Spuria,proper name (feminine)""; Spurie ""Spurius,proper name (masculine)""","",""
-"sranë","sʁɑ.nə","Inanimate Noun","desk, table","i-noun","Etruscan: sran ""surface measure,two naper""","",""
-"srencva","sʁɛn.kβɑ","Animate Noun","colour","","srencvi + a","",""
-"srencvë","sʁɛn.kβə","Inanimate Noun","decoration","","srencvi + ë","",""
-"srencvi","sʁɛn.kβi","i-Adjective","decorated, colourful","","Etruscan: srencve ""decorated with figures?""","",""
-"srenë","sʁɛ.nə","Inanimate Noun","image, picture","i-noun","Etruscan: sren ""ornament,figure,image""","",""
-"strușë","stʁu.ʃə","Inanimate Noun","pile","","Umbrian: struśia ""a pile,pile""","",""
-"strușocë","stʁu.ʃo.kə","Inanimate Noun","chaos, mess","","strușë + augmentative","",""
-"strușocëfo","stʁu.ʃo.kə.ɸo","Masculine Noun","slob, chaotic person","","strușocë + actant suffix","",""
-"suhë","su.hə","Inanimate Noun","roof, ceiling","","Hittite: suhha- ""roof""","",""
-"sulë","su.lə","Inanimate Noun","beer","","Etruscan: sul ""liquid used in sacrifices""","",""
-"supluë","su.plu.ə","Inanimate Noun","flute","","Etruscan: *suplu ""flutist"" (Latin subulo)","",""
-"supluëfo","su.plu.ə.ɸo","Masculine Noun","flutist, flautist, flute player","","supluë + actant suffix","",""
-"șutë","ʃu.tə","të-Verb","sit, sit down","","Etruscan: śuth-,sut- ""to stay,place?""","",""
-"șuthë","ʃu.tˠə","Inanimate Noun","chair, stool","","Etruscan: śuthi ""seat,tomb""","",""
-"suthisvë","su.tˠis.βə","Inanimate Noun","home, place of residence","","Etruscan: suthiusve ""property?""","",""
-"suthisvëfo","su.tˠis.βə.ɸo","Masculine Noun","resident, denizen, dweller","","suthisvë + actant suffix","",""
-"sva","sβɑ","va-Verb","live, be alive, be living","","Etruscan: sval- ""alive; to live""","",""
-"svali","sβɑ.li","i-Adjective","alive, living","","Etruscan: sval- ""alive; to live""","",""
-"svelri","sβɛl.ʁi","Animate Noun","animal","i-noun","Etruscan: sveleri ""living creature?""","",""
-"talmithu","tɑl.mi.tˠu","Personal Name","Palamedes [gender-neutral name]","","Etruscan: Talmithe ""Palamedes""","",""
-"taŋinë","tɑŋ.i.nə","Inanimate Noun","opinion","","Oscan: tanginom ""opinion""","",""
-"tapsa","tɑ.psɑ","Animate Noun","fever","i-noun","Hittite: tapassa- ""fever""","",""
-"tapsafo","tɑ.psɑ.ɸo","Masculine Noun","someone having a fever","","tapsa + fo","",""
-"tapsasë","tɑ.psɑ.sə","së-Verb","blush","","tapsaza + së","",""
-"tapsaza","tɑ.psɑ.zɑ","Animate Noun","blush","","tapsa + diminutive","",""
-"tecë","tɛ.kə","cë-Verb","place, put","","Etruscan: te- (tece) ""to place,put""","",""
-"tecrsu","tɛkʁ.su","Personal Name","Teucer [gender-neutral name]","","Etruscan: Techrs ""Teucer""","",""
-"tentë","tɛn.tə","të-Verb","preside over, oversee","","Etruscan: ten-,tn-,-ta ""to act as magistrate""","",""
-"tesë","tɛ.sə","së-Verb","care for, care","","Etruscan: tes-,tesam- ""to care for""","",""
-"teva","tɛ.βɑ","va-Verb","show","","Etruscan: tev-,tv-,tva ""to show,see?""","",""
-"tezanë","tɛ.zɑ.nə","Inanimate Noun","road, street","","Etruscan: tezan ""way,road""","",""
-"tha","tˠɑ","Determiner","this","neutral","Etruscan: ta ""this""","",""
-"thagai","tˠɑ.gɑi","Animate Noun","breast, chest","i-noun","Hittite: taggani- ? ""breast""","",""
-"thalthu","tˠɑl.tˠu","Masculine Noun","girl","i-noun","Etruscan: talitha ""girl""","",""
-"thamnai","tˠɑm.nɑi","Animate Noun","horse","i-noun","Etruscan: thamna ""horse""","",""
-"thamnaifo","tˠɑm.nɑi.ɸo","Masculine Noun","horse rider","","thamnai + actant suffix","",""
-"thamnë","tˠɑm.nə","në-Verb","find","","Etruscan: tham-,them- ""to build,found""","",""
-"thanacvilu","tˠɑ.nɑ.kβi.lu","Personal Name","[gender-neutral name]","","Etruscan: Thana-cvil ""gift of Thana""","",""
-"thar","tˠɑʁ","Determiner","there","","Etruscan: thar ""there""","",""
-"tharco","tˠɑʁ.ko","Personal Name","[gender-neutral name]","","Etruscan: Tarchon ""an Etruscan culture hero""","",""
-"thațanë","tˠɑ.tʃɑ.nə","në-Verb","leave alone, stay away from","","a priori","",""
-"thaurțë","tˠɑuʁ.tʃə","Inanimate Noun","funeral, burial","","Etruscan: thaurch ""funerary""","",""
-"thefarici","tˠɛ.ɸɑ.ʁi.ki","Personal Name","Tiberius [gender-neutral name]","","Etruscan: Thefarie ""Tiberius""","",""
-"therasazo","tˠɛ.ʁɑ.sɑ.zo","Masculine Noun","kindergartner, kindergartener, preschooler","","theraso + diminutive","",""
-"theraso","tˠɛ.ʁɑ.so","Masculine Noun","student, pupil","","Etruscan: teras ""prodigy?"" (Greek teras?)","",""
-"thesai","tˠɛ.sɑi","Animate Noun","dawn, morning sun","i-noun","Etruscan: θesan ""dawn""","",""
-"thethu","tˠɛ.tˠu","Masculine Noun","grandmother","i-noun","Etruscan: teta ""grandmother""","",""
-"thevra","tˠɛ.βʁɑ","Animate Noun","bull","i-noun","Etruscan: θevru ""bull""","",""
-"thevrë","tˠɛ.βʁə","Inanimate Noun","testicle","","thevra + ë","",""
-"thëzanë","tˠə.zɑ.nə","Inanimate Noun","morning","","Etruscan: thesan ""morning,dawn""","",""
-"thezinthu","tˠɛ.zin.tˠu","Masculine Noun","teacher","","Etruscan: tesinth ""caretaker""","",""
-"thirsazë","tˠiʁ.sɑ.zə","Inanimate Noun","heat wave","only if the heat wave occurs outside of summer","thirsë + diminutive","",""
-"thirsë","tˠiʁ.sə","Inanimate Noun","summer","","Cretan Greek: τίρος ""summer""","",""
-"thirsocë","tˠiʁ.so.kə","Inanimate Noun","heat wave","only if the heat wave occurs during summer","thirsë + augmentative","",""
-"tho","tˠo","Cardinal Number","one","","Etruscan: thu(n),tu(n) ""one""","",""
-"thonșna","tˠon.ʃnɑ","Ordinal Number","first","","Etruscan: thunśna,thunina ""first""","",""
-"thu","tˠu","Determiner","now","","Etruscan: thui ""here,now""","",""
-"thucthi","tˠuk.tˠi","Animate Noun","November (month)","","Etruscan: thucte (theorised to be the name of a month,but it is unclear which)","",""
-"thuns","tˠuns","Frequency Number","once","","Etruscan: thunz ""once""","",""
-"thur","tˠuʁ","Cardinal Number","thousand, one thousand","","Etruscan: thu(n),tu(n) ""one""","",""
-"thureine","tˠu.ʁɛi.nɛ","eine-Verb","give, gift","","Etruscan: tur- ""to give""","",""
-"thuri","tˠu.ʁi","Irregular Verb","belong to, be owned by","","Etruscan: -thur ""to belong to the group""","",""
-"țimië","tʃi.mi.ə","Inanimate Noun","pronoun","","Etruscan: chim,chia ""pronoun""","",""
-"tina","ti.nɑ","Animate Noun","daylight","","Etruscan: Tina,Tin,Tinia ""Jupiter,Zeus,god of daylight""","",""
-"tinë","ti.nə","Inanimate Noun","day","","Etruscan: tin- ""day""","",""
-"tirxenu","tiʁ.xɛ.nu","Personal Name","[gender-neutral name]","","Etruscan: Tyrrhenus ""an Etruscan culture hero""","",""
-"tișazë","ti.ʃɑ.zə","Inanimate Noun","pond, waterhole","","tișë + diminutive","",""
-"tișë","ti.ʃə","Inanimate Noun","lake","","Etruscan: tisś ""lake""","",""
-"tiurë","ti.u.ʁə","Inanimate Noun","tower, tall building, tall structure","","Oscan: tiurrí ""the tower""","",""
-"tnamva","tnɑm.βɑ","va-Verb","see, view, watch","","Etruscan: tnam ""see""","",""
-"trahë","tʁɑ.hə","Inanimate Noun","milk","i-noun","Etruscan: thra ""milk?"" (or thras ""drank?"")","",""
-"tranuzi","tʁɑ.nu.zi","Animate Noun","July (month)","","Etruscan: *traneus ""month,July""","",""
-"trephu","tʁɛ.pˠu","Masculine Noun","worker, employee","i-noun","Etruscan: trepu ""workman,carpenter""","",""
-"trinë","tʁi.nə","në-Verb","ask, plead","","Etruscan: trin- ""to plead,supplicate""","",""
-"triumphë","tʁi.um.pˠə","Inanimate Noun","victory","","Etruscan: *triumpe ""triumph"" (Greek thriambos)","",""
-"triumphithë","tʁi.um.pˠi.tˠə","Inanimate Noun","defeat, loss","","triumphë + opposite infix","",""
-"triumphun","tʁi.um.pˠun","un-Adjective","victorious","","triumphë + un","",""
-"trizimun","tʁi.zi.mun","un-Adjective","enviable","","a priori","",""
-"truja","tʁu.jɑ","Personal Name","[gender-neutral name]","","Etruscan: Truia ""Troy?""","",""
-"trunya","tʁu.ɲɑ","Animate Noun","power, might","","Etruscan: truna ""power,rule""","",""
-"trutë","tʁu.tə","të-Verb","throw, cast","","Etruscan: trvθ ""to throw,to cast""","",""
-"trwna","tʁø̞.nɑ","Animate Noun","bee","","Laconian Greek: θρῶναξ ""drone""","",""
-"trwnpana","tʁø̞n.pɑ.nɑ","Animate Noun","insect","","trwna + encompassing infix","",""
-"tuhui","tu.hu.i","Animate Noun","smoke","","Hittite: tuhhui- ""thick smoke""","",""
-"tuli","tu.li","Animate Noun","court of law","","Hittite: tuli- ""justice assembly""","",""
-"țulicnyë","tʃu.lik.ɲə","Inanimate Noun","vase","","Etruscan: culichna,chulichna ""vase,'little kylix'"" (Greek kylix)","",""
-"tunacesrë","tu.nɑ.kɛs.ʁə","Inanimate Noun","bedroom","","Hittite: tunnakessar ""inner chamber""","",""
-"tuplacë","tu.plɑ.kə","Inanimate Noun","plough/plow","","Umbrian: tuplak ""fork?""","",""
-"tuplacë","tu.plɑ.kə","cë-Verb","plough/plow","","tuplacë + cë","",""
-"tuplacëfo","tu.plɑ.kə.ɸo","Masculine Noun","plougher/plower","","tuplacë + actant suffix","",""
-"turë","tu.ʁə","Inanimate Noun","incense","","Etruscan: tura ""incense""","",""
-"tusë","tu.sə","Inanimate Noun","bed","","Etruscan: tus ""kline""","",""
-"tusni","tus.ni","Animate Noun","swan","","Etruscan: tusna ""swan""","",""
-"tuthi","tu.tˠi","Animate Noun","municipality","","Etruscan: tuthi,tuti- ""community,state"" (Umbrian tota?)","",""
-"tuthithi","tu.tˠi.tˠi","Animate Noun","unincorporated territory","","tuthi + opposite infix","",""
-"tuzurthu","tu.zuʁ.tˠu","Masculine Noun","married couple","","Etruscan: tusurthir ""married couples ('in the double urn'?)""","",""
-"tvi","tβi","i-Adjective","inside, interior, inner","","Etruscan: thva ""interior,inner""","",""
-"u","u","Preposition","oh, ô","vocative-like preposition, used generally only in literary contexts","a priori; but compare many IE-languages,e.g. French ""ô"",English and German ""oh"",etc.","",""
-"ulphaië","ul.pˠɑi.ə","Inanimate Noun","wine, alcoholic beverage","","Etruscan: ulpaia ""vase for wine"" (Greek olpe)","",""
-"ulphaizë","ul.pˠɑi.zə","Inanimate Noun","cocktail, alcoholic beverage","","ulphaië + diminutive","",""
-"ulphi","ul.pˠi","i-Adjective","alcoholic","","ulphaië + i","",""
-"um","um","","and","Used solely before words beginning on a nasal. Gets turned into a suffix ""-m"" following words ending on a vowel","Etruscan: -m,um ""and""","",""
-"umtazë","um.tɑ.zə","Inanimate Noun","nail clippings","","umtë + diminutive","",""
-"umtë","um.tə","Inanimate Noun","nail (finger, toe)","","Umbrian: umtu ""fingernail""","",""
-"un","un","Pronoun","you","second person singular nominative pronoun","Etruscan: vn ""you""","",""
-"unai","u.nɑi","Animate Noun","stream, brook, creek, flow of water","","Etruscan: una ""flowing stream""","",""
-"unatalu","u.nɑ.tɑ.lu","Masculine Noun","trader, merchant","","Hittite: unatalla- ""trader""","",""
-"unu","u.nu","Pronoun","you","second person singular accusative pronoun","Etruscan: vn ""you""","",""
-"unuë","u.nu.ə","Pronoun","you","second person singular dative pronoun","Etruscan: vn ""you""","",""
-"unw","u.nø̞","Pronoun","your","second person singular genitive pronoun","Etruscan: vn ""you""","",""
-"uo","uo","Pronoun","you","second person plural nominative pronoun","Etruscan: vn ""you""","",""
-"uonë","uo.nə","Pronoun","you","second person plural dative pronoun","Etruscan: vn ""you""","",""
-"uono","uo.no","Pronoun","you","second person plural accusative pronoun","Etruscan: vn ""you""","",""
-"uonw","uo.nø̞","Pronoun","your","second person plural genitive pronoun","Etruscan: vn ""you""","",""
-"urethu","u.ʁɛ.tˠu","Masculine Noun","adult","","Umbrian: uřetu ""grown up""","",""
-"urtha","uʁ.tˠɑ","Animate Noun","cause, reason","","urthanë + a","",""
-"urthanë","uʁ.tˠɑ.nə","në-Verb","cause","","Etruscan: urthan,urthanike ""to make,cause to be""","",""
-"urustho","u.ʁus.tˠo","Personal Name","Orestes [gender-neutral name]","","Etruscan: Urusthe ""Orestes""","",""
-"urusthu","u.ʁus.tˠu","Personal Name","Orestes [gender-neutral name]","","Etruscan: Urusthe ""Orestes""","",""
-"uși","u.ʃi","Animate Noun","sun","","Etruscan: usil,uśil ""sun"" (Sabine ausel)","",""
-"uslanë","us.lɑ.nə","Inanimate Noun","noon, midday","","Etruscan: uslane ""at noon""","",""
-"usti","us.ti","Animate Noun","storm","","Umbrian: ustite ""by the storm?""","",""
-"usursa","u.suʁ.sɑ","Animate Noun","hate","","usursë + a","",""
-"usursë","u.suʁ.sə","së-Verb","hate, despise","","Oscan: usurs ""haters""","",""
-"utrë","u.tʁə","Inanimate Noun","word","","Hittite: uttar ""word,speech; chattering; business; story; reason,motive; legal matter""","",""
-"utuse","u.tu.sɛ","Irregular Verb","carry out, perform, do","","Etruscan: ut- (utuse) ""carry out,perform,give""","",""
-"uxtrëtheine","ux.tʁə.tˠɛi.nɛ","eine-Verb","increase, make bigger","","Umbrian: uhtretie ""increase""","",""
-"uzëtë","u.zə.tə","të-Verb","draw (water), scoop, spoon","","Etruscan: us-,useti ""scoop,ladle,draw (water)""","",""
-"vëgo","βə.go","Personal Name","[fem. name]","","Etruscan: Vegoia "" Etruscan nymph believed to have power over lightning""","",""
-"velcitna","βɛl.kit.nɑ","Animate Noun","March (month)","","Etruscan: *velcitna ""March""","",""
-"velcitnaza","βɛl.kit.nɑ.zɑ","Animate Noun","February (month)","","velcitna + diminutive","",""
-"velparu","βɛl.pɑ.ʁu","Personal Name","Elpenor [masc. name]","","Etruscan: Velparun ""Elpenor""","",""
-"velthuru","βɛl.tˠu.ʁu","Personal Name","[masc. name]","","Etruscan: Velthur ""proper name (masculine)""","",""
-"velu","βɛ.lu","Personal Name","[masc. name]","","Etruscan: Vel ""proper name (masculine)""","",""
-"vestaru","βɛs.tɑ.ʁu","Masculine Noun","shepherd, herder, herdsman","","Hittite: westara- ""shepherd""","",""
-"vestava","βɛs.tɑ.βɑ","va-Verb","herd","","vestaru + va","",""
-"vezci","βɛz.ki","i-Adjective","ancient","","Oscan: vezkeí ""the ancients?""","",""
-"vinyë","βi.ɲə","Inanimate Noun","vineyard","","Etruscan: vina ""vineyard""","",""
-"wth","ø̞tˠ","Determiner","also, again","","Etruscan: eth,et ""thus,in this way (adverb)""","",""
-"wtna","ø̞t.nɑ","Animate Noun","wolf","","Hittite: wetn- (wetna-?) ""wolf?""","",""
-"ximba","xim.bɑ","Animate Noun","pomegranate","","Aeolian Greek: ξίμβα ""pomegranate-tree""","",""
-"xureine","xu.ʁɛi.nɛ","eine-Verb","howl (at)","","xuri + eine","",""
-"xuri","xu.ʁi","Animate Noun","moon","","Etruscan: tiu,tivr,tiur ""moon,month""","",""
-"zal","zɑl","Cardinal Number","two","","Etruscan: zal,sal,esal ""two""","",""
-"zalșna","zɑl.ʃnɑ","Ordinal Number","second","","Etruscan: zal,sal,esal ""two""","",""
-"zamathi","zɑ.mɑ.tˠi","i-Adjective","golden","","Etruscan: zamathi,zamth ""gold?""","",""
-"zamathië","zɑ.mɑ.tˠi.ə","Inanimate Noun","gold","","Etruscan: zamathi,zamth ""gold?""","",""
-"zas","zɑs","Frequency Number","six times","","Etruscan: śas? ""six (gen.)""","",""
-"zathum","zɑ.tˠum","Cardinal Number","twenty","","Etruscan: zathrum ""twenty""","",""
-"zatlathazu","zɑ.tlɑ.tˠɑ.zu","Masculine Noun","childhood friend, old friend","","zatlathu + diminutive","",""
-"zatlathocu","zɑ.tlɑ.tˠo.ku","Masculine Noun","best friend","","zatlathu + augmentative","",""
-"zatlathu","zɑ.tlɑ.tˠu","Masculine Noun","friend, companion","","Etruscan: zatlath ""companion""","",""
-"zerë","zɛ.ʁə","Inanimate Noun","serenity, accessibility","","zeri + ë","",""
-"zeri","zɛ.ʁi","i-Adjective","serene, unclouded, accessible","","Etruscan: zeri ""serene,unclouded,free (person),accessible (water)""","",""
-"zicë","zi.kə","cë-Verb","write, write down","","Etruscan: zic-,zich- ""to write,incise""","",""
-"zid̦ë","zi.ʒə","Inanimate Noun","book","","Etruscan: zic,zich ""book,writing,document,inscription""","",""
-"zid̦panë","ziʒ.pɑ.nə","Inanimate Noun","literature","","zid̦ë + encompassing infix","",""
-"zid̦panun","ziʒ.pɑ.nun","un-Adjective","literary, literally","","zid̦panë + un","",""
-"zid̦u","zi.ʒu","Masculine Noun","writer, author, scribe, secretary","","Etruscan: zichu ""writer,scribe""","",""
-"zifi","zi.ɸi","i-Adjective","dead, deceased","","Etruscan: ziva ""the dead,deceased""","",""
-"zran","zʁɑn","Cardinal Number","hundred, one hundred","","Etruscan: śran ""one hundred""","",""
-"zupari","zu.pɑ.ʁi","Animate Noun","torch, lamp","","Hittite: zuppari- ""torch""","",""
-"zusli","zus.li","Animate Noun","domesticated animal, pet","","Etruscan: zvsle ""animal""","",""
-"zuslithi","zus.li.tˠi","Animate Noun","wild animal, undomesticated animal","","zusli + opposite infix","",""
-"zuslithpani","zus.litˠ.pɑ.ni","Animate Noun","wildlife","","zuslithi + encompassing infix","",""
+"word,""pronunciation"",""part of speech"",""definition"",""explanation"",""etymology (comma-separated)"",""related words (comma-separated)"",""principal parts (comma-separated)""";;;;;
+"a,""ɑ"",""Preposition"",""from, coming from, out of"",""Oscan: aa """"from"""""",""""";;;;;
+"abharë,""ɑ.bˠɑ.ʁə"",""Inanimate Noun"",""oregano"",""Ancient Macedonian: ἀβαρύ """"oregano"""""",""""";;;;;
+"abrofi,""ɑ.bʁo.ɸi"",""Animate Noun"",""boar"",""Umbrian: abrof """"wild boars"""""",""""";;;;;
+"acali,""ɑ.kɑ.li"",""Animate Noun"",""June (month)"",""Etruscan: acale """"June"""""",""""";;;;;
+"acathu,""ɑ.kɑ.tˠu"",""Masculine Noun"",""lawyer"",""Oscan: akkatus """"lawyers"""""",""""";;;;;
+"acathun,""ɑ.kɑ.tˠun"",""un-Adjective"",""masculine, male"",""Etruscan: acathur """"boy"""""",""""";;;;;
+"acazrë,""ɑ.kɑz.ʁə"",""Inanimate Noun"",""object, thing"",""Etruscan: acazr """"objects offered in the tomb,offers"""""",""""";;;;;
+"acilë,""ɑ.ki.lə"",""Inanimate Noun"",""work, product"",""Etruscan: acil """"work,thing made"""""",""""";;;;;
+"acilu,""ɑ.ki.lu"",""Masculine Noun"",""producer, maker"",""Etruscan: acil """"producer,potter"""""",""""";;;;;
+"acilu,""ɑ.ki.lu"",""Personal Name"",""Achilles [masc. name]"",""Etruscan: Achle,Achile """"Achilles"""""",""""";;;;;
+"acnanun,""ɑk.nɑ.nun"",""un-Adjective"",""boring, bored"",""Etruscan: acnanas """"begot,bore"""""",""""";;;;;
+"acontiu,""ɑ.kon.ti.u"",""Masculine Noun"",""spine, backbone"",""Ancient Macedonian: ἀκόντιον """"spine,backbone,anything ridged like the backbone"""""",""""";;;;;
+"acreine,""ɑ.kʁɛi.nɛ"",""eine-Verb"",""sharpen"",""acri + eine"",""""";;;;;
+"acri,""ɑ.kʁi"",""i-Adjective"",""sharp, pointy"",""Oscan: akrid """"sharply"""""",""""";;;;;
+"acrithi,""ɑ.kʁi.tˠi"",""i-Adjective"",""dull, blunt"",""acri + opposite infix"",""""";;;;;
+"adrun,""ɑ.dʁun"",""un-Adjective"",""black"",""Umbrian: adro """"black"""""",""""";;;;;
+"aduplië,""ɑ.du.pli.ə"",""Inanimate Noun"",""dress"",""Hittite: adupli- """"garment,dress"""""",""""";;;;;
+"aficthun,""ɑ.ɸik.tˠun"",""un-Adjective"",""impressive"",""Umbrian: afiktu """"impressive"""""",""""";;;;;
+"aft,""ɑɸt"",""but, however"",""Oscan: avt """"but,however"""""",""""";;;;;
+"aga,""ɑ.gɑ"",""Pronoun"",""him, her, it"",""third person singular inanimate accusative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"agaë,""ɑ.gɑ.ə"",""Pronoun"",""him, her, it"",""third person singular inanimate dative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"again,""ɑ.gɑin"",""Pronoun"",""them"",""third person singular inanimate accusative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"agw,""ɑ.gø̞"",""Pronoun"",""his, her, its"",""third person singular inanimate genitive pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"ai,""ɑ.ʔi"",""i-Adjective"",""warm"",""Hittite: ā- """"to be warm"""""",""""";;;;;
+"aicdhava,""ɑik.dˠɑ.βɑ"",""va-Verb"",""decide"",""Oscan: aíkdafed """"decided?"""""",""""";;;;;
+"aicdhavë,""ɑik.dˠɑ.βə"",""Inanimate Noun"",""decision"",""aicdhava + ë"",""""";;;;;
+"aicdhavëfo,""ɑik.dˠɑ.βə.ɸo"",""Masculine Noun"",""decider, decision maker"",""aicdhavë + actant suffix"",""""";;;;;
+"aië,""ɑi.ə"",""Inanimate Noun"",""disturbance, agony"",""Umbrian: aiu """"disturbances?,agitations"""""",""""";;;;;
+"aië,""ɑi.ʔə"",""Inanimate Noun"",""warmth, heat"",""ai + ë"",""""";;;;;
+"aiëfo,""ɑi.ə.ɸo"",""Masculine Noun"",""disturber"",""aië + actant suffix"",""""";;;;;
+"aisë,""ɑi.sə"",""Inanimate Noun"",""mouth"",""Hittite: ais """"mouth"""""",""""";;;;;
+"aisi,""ɑi.si"",""i-Adjective"",""divine, sacred, holy"",""Etruscan: aisiu,aisna,eisna """"divine,of the gods"""""",""""";;;;;
+"aisithi,""ɑi.si.tˠi"",""i-Adjective"",""mundane, trite"",""aisi + opposite infix"",""""";;;;;
+"aizë,""ɑi.zə"",""Inanimate Noun"",""annoyance, nuisance"",""aië + diminutive"",""""";;;;;
+"aizëfo,""ɑi.zə.ɸo"",""Masculine Noun"",""annoyer"",""aizë + actant suffix"",""""";;;;;
+"aizi,""ɑi.zi"",""i-Adjective"",""annoying, vexing, aggravating"",""aizë + i"",""""";;;;;
+"alaba,""ɑ.lɑ.bɑ"",""Animate Noun"",""ember, glow, blaze"",""Cypriot Greek: ἀλάβη """"charcoal-ember"""""",""""";;;;;
+"alabë,""ɑ.lɑ.bə"",""Inanimate Noun"",""charcoal"",""Cypriot Greek: ἀλάβη """"charcoal-ember"""""",""""";;;;;
+"alabpanë,""ɑ.lɑb.pɑ.nə"",""Inanimate Noun"",""fuel"",""alabë + encompassing infix"",""""";;;;;
+"alanë,""ɑ.lɑ.nə"",""në-Verb"",""sweat"",""Hittite: allaniya """"to sweat"""""",""""";;;;;
+"alanun,""ɑ.lɑ.nun"",""un-Adjective"",""sweaty"",""alanë + un"",""""";;;;;
+"alanza,""ɑ.lɑn.zɑ"",""Animate Noun"",""alder tree"",""Hittite: alanza(n)- """"alder?"""""",""""";;;;;
+"alfun,""ɑl.ɸun"",""un-Adjective"",""white"",""Umbrian: alfu """"white"""""",""""";;;;;
+"alina,""ɑ.li.nɑ"",""Animate Noun"",""deer"",""Hittite: aliyana- """"roebuck,deer"""""",""""";;;;;
+"alpha,""ɑl.pˠɑ"",""Animate Noun"",""cloud"",""i-noun"",""Hittite: alpā- """"cloud"""""",""""";;;;;
+"alphun,""ɑl.pˠun"",""un-Adjective"",""cloudy, overcast"",""alpha + un"",""""";;;;;
+"alpnë,""ɑlp.nə"",""Inanimate Noun"",""happiness, gladness"",""i-noun"",""alpnun + ë"",""""";;;;;
+"alpnithun,""ɑlp.ni.tˠun"",""un-Adjective"",""unhappy, gloomy"",""alpnun + opposite infix"",""""";;;;;
+"alpnun,""ɑlp.nun"",""un-Adjective"",""glad, happy"",""Etruscan: aplan,alpnu """"gift,offering";" gladly"""" (Latin libens,Greek chaire)"",""""";;;;
+"althai,""ɑl.tˠɑi"",""Personal Name"",""Althaea [fem. name]"",""Etruscan: Althaia """"Althaea"""""",""""";;;;;
+"alu,""ɑ.lu"",""Masculine Noun"",""rest, leftover, other"",""i-noun"",""Oscan: allo """"other,the rest"""""",""""";;;;;
+"alumnatha,""ɑ.lum.nɑ.tˠɑ"",""Animate Noun"",""society, following"",""Etruscan: alumnathe """"sacred society"""""",""""";;;;;
+"alumnathaza,""ɑ.lum.nɑ.tˠɑ.zɑ"",""Animate Noun"",""clique, group of friends, group of peers"",""alumnatha + diminutive"",""""";;;;;
+"am,""ɑm"",""Irregular Verb"",""be"",""Etruscan: am- """"to be"""""",""""";;;;;
+"am,""ɑm"",""Preposition"",""with"",""Oscan: am- """"with"""""",""""";;;;;
+"amanafedva,""ɑ.mɑ.nɑ.ɸɛd.βɑ"",""va-Verb"",""command (to do)"",""Oscan: aamanaffed """"he commanded,he hired to do it"""""",""""";;;;;
+"ami,""ɑ.mi"",""i-Adjective"",""small, little"",""shortened form of the original """"amijun"""""",""Hittite: ammiyant- """"small,young"""""",""""";;;;;
+"amijun,""ɑ.mi.jun"",""un-Adjective"",""small, little"",""Hittite: ammiyant- """"small,young"""""",""""";;;;;
+"amph,""ɑmpˠ"",""Postposition"",""around, surrounding"",""Oscan: ampt """"around"""""",""""";;;;;
+"amprufë,""ɑm.pʁu.ɸə"",""Inanimate Noun"",""dishonesty"",""amprufi + ë"",""""";;;;;
+"amprufi,""ɑm.pʁu.ɸi"",""i-Adjective"",""dishonest"",""Oscan: amprufid """"dishonest"""""",""""";;;;;
+"amvanudhë,""ɑm.βɑ.nu.dˠə"",""Inanimate Noun"",""detour, bypass, diversion, deviation"",""Oscan: amvíannud """"around,detour"""""",""""";;;;;
+"an,""ɑn"",""Pronoun"",""he, she, it"",""third person singular masculine nominative pronoun"",""Etruscan: an """"he,she,it"""""",""""";;;;;
+"ana,""ɑ.nɑ"",""Pronoun"",""him, her, it"",""third person singular masculine accusative pronoun"",""Etruscan: an """"he,she,it"""""",""""";;;;;
+"anaë,""ɑ.nɑ.ə"",""Pronoun"",""him, her, it"",""third person singular masculine dative pronoun"",""Etruscan: an """"he,she,it"""""",""""";;;;;
+"ancadhuc,""ɑn.kɑ.dˠuk"",""uc/up-Verb"",""destroy, ruin"",""ancadhumë + uc"",""""";;;;;
+"ancadhumë,""ɑn.kɑ.dˠu.mə"",""Inanimate Noun"",""destruction, ruins"",""Oscan: antkadum """"possibly a cpd. connected with L. cado,meaning 'destruction,ruin'"""""",""""";;;;;
+"ancadhumëfo,""ɑn.kɑ.dˠu.mə.ɸo"",""Masculine Noun"",""destructor, destroyer"",""ancadhumë + actant suffix"",""""";;;;;
+"anci,""ɑn.ki"",""Animate Noun"",""time"",""i-noun"",""Hittite: -anki """"times"""""",""""";;;;;
+"aneio,""ɑ.nɛi.o"",""Personal Name"",""[gender-neutral name]"",""Oscan: anei """"probably abbreviation of proper name"""""",""""";;;;;
+"anfethafi,""ɑn.ɸɛ.tˠɑ.ɸi"",""i-Adjective"",""raw, uncooked"",""Umbrian: aanfehtaf """"infected,not cooked"""""",""""";;;;;
+"anfethafithi,""ɑn.ɸɛ.tˠɑ.ɸi.tˠi"",""i-Adjective"",""well-done (culinary)"",""anfethafi + opposite infix"",""""";;;;;
+"aninimu,""ɑ.ni.ni.mu"",""Masculine Noun"",""cousin"",""Hittite: anniniyami- """"cousin"""""",""""";;;;;
+"anphili,""ɑn.pˠi.li"",""Animate Noun"",""May (month)"",""Etruscan: amphiles,ampiles,anpilie """"May"""""",""""";;;;;
+"antha,""ɑn.tˠɑ"",""Animate Noun"",""heat, hotness"",""anthi + a"",""""";;;;;
+"antharun,""ɑn.tˠɑ.ʁun"",""un-Adjective"",""blue"",""Hittite: antara- """"blue"""""",""""";;;;;
+"anthi,""ɑn.tˠi"",""i-Adjective"",""hot"",""Hittite: ant- """"hot"""""",""""";;;;;
+"antunë,""ɑn.tu.nə"",""Inanimate Noun"",""property, possession"",""Hittite: antu- """"property"""""",""""";;;;;
+"antunëfo,""ɑn.tu.nə.ɸo"",""Masculine Noun"",""possessor, owner"",""antunë + actant suffix"",""""";;;;;
+"anuhinë,""ɑ.nu.hi.nə"",""në-Verb"",""wear"",""Umbrian: anouhimu """"wearer"""""",""""";;;;;
+"anw,""ɑ.nø̞"",""Pronoun"",""his, her, its"",""third person singular masculine genitive pronoun"",""Etruscan: an """"he,she,it"""""",""""";;;;;
+"anyaci,""ɑ.ɲɑ.ki"",""Animate Noun"",""January (month)"",""Etruscan: aniach? """"January"""""",""""";;;;;
+"anyatë,""ɑ.ɲɑ.tə"",""Inanimate Noun"",""achievement"",""Hittite: aniyatt- """"achievement,work"""""",""""";;;;;
+"anyatë,""ɑ.ɲɑ.tə"",""të-Verb"",""achieve"",""anyatë + të"",""""";;;;;
+"anyatëfo,""ɑ.ɲɑ.tə.ɸo"",""Masculine Noun"",""achiever"",""anyatë + actant suffix"",""""";;;;;
+"aŋëthusë,""ɑŋ.ə.tˠu.sə"",""së-Verb"",""propose"",""Oscan: angetuzet """"have proposed"""""",""""";;;;;
+"apcarazë,""ɑp.kɑ.ʁa.zə"",""Inanimate Noun"",""calculator"",""apcarë + diminutive"",""""";;;;;
+"apcarë,""ɑp.kɑ.ʁə"",""Inanimate Noun"",""abacus"",""Etruscan: apcar """"abacus"""""",""""";;;;;
+"apcup,""ɑp.kup"",""uc/up-Verb"",""calculate, add up"",""Etruscan: apcar """"abacus"""""",""""";;;;;
+"aphanun,""ɑ.pˠɑ.nun"",""un-Adjective"",""paternal"",""Etruscan: apana """"related to the father,paternal"""""",""""";;;;;
+"aphu,""ɑ.pˠu"",""Masculine Noun"",""father, dad"",""i-noun"",""Etruscan: apa """"father"""""",""""";;;;;
+"araca,""ɑ.ʁɑ.kɑ"",""Animate Noun"",""hawk"",""Etruscan: *arac """"hawk"""""",""""";;;;;
+"aratha,""ɑ.ʁɑ.tˠɑ"",""Personal Name"",""Ariadne [fem. name]"",""Etruscan: Areatha """"Ariadne"""""",""""";;;;;
+"arcanë,""ɑʁ.kɑ.nə"",""në-Verb"",""sing"",""arcanyi + në"",""""";;;;;
+"arcanyazi,""ɑʁ.kɑ.ɲɑ.zi"",""Animate Noun"",""melody, whistle (a song), tune"",""arcanyi + diminutive"",""""";;;;;
+"arcanyeine,""ɑʁ.kɑɲ.ɛi.nɛ"",""eine-Verb"",""whistle"",""arcanyazi + eine"",""""";;;;;
+"arcanyi,""ɑʁ.kɑ.ɲi"",""Animate Noun"",""song"",""Umbrian: ařkani """"song"""""",""""";;;;;
+"arcanyifo,""ɑʁ.kɑ.ɲi.ɸo"",""Masculine Noun"",""singer"",""arcanyi + actant suffix"",""""";;;;;
+"arcë,""ɑʁ.kə"",""cë-Verb"",""breed, grow, stand up, get up"",""Etruscan: arce """"breed,grow,stand up,get up"""""",""""";;;;;
+"arcë,""ɑʁ.kə"",""cë-Verb"",""split up, cut up"",""Hittite: ark- """"to cut up,split up"""""",""""";;;;;
+"arcëu,""ɑʁ.kə.u"",""Masculine Noun"",""breeder"",""arcë + u"",""""";;;;;
+"ardhala,""ɑʀ.dˠɑ.lɑ"",""Animate Noun"",""saw (tool)"",""Hittite: ardāla- """"saw"""""",""""";;;;;
+"ardhaleine,""ɑʁ.dˠɑ.lɛi.nɛ"",""eine-Verb"",""saw, saw in half, cut using a saw"",""Hittite: ardāla- """"saw"""""",""""";;;;;
+"areine,""ɑ.ʁɛi.nɛ"",""eine-Verb"",""move"",""Etruscan: ar-,er- """"to make,move"""""",""""";;;;;
+"arenthicë,""ɑ.ʁɛn.tˠi.kə"",""Inanimate Noun"",""vengeance, revenge"",""arenthici + ë"",""""";;;;;
+"arenthici,""ɑ.ʁɛn.tˠi.ki"",""i-Adjective"",""vengeful"",""Oscan: arentikai,aretikai """"vengeful"""""",""""";;;;;
+"arimi,""ɑ.ʁi.mi"",""Animate Noun"",""monkey"",""Etruscan: *arim """"monkey"""""",""""";;;;;
+"arimpani,""ɑ.ʁim.pɑ.ni"",""Animate Noun"",""simian, higher primate"",""arimi + encompassing infix"",""""";;;;;
+"armaqhanthun,""ɑʁ.mɑ.qˠɑn.tˠun"",""un-Adjective"",""pregnant"",""Hittite: armawant- """"pregnant"""""",""""";;;;;
+"armaqhu,""ɑʁ.mɑ.qˠu"",""Masculine Noun"",""pregnant woman"",""armaqhanthun + u"",""""";;;;;
+"armizazë,""ɑʁ.mi.zɑ.zə"",""Inanimate Noun"",""small crossing/bridge (a plank or log across a stream)"",""armizë + diminutive"",""""";;;;;
+"armizë,""ɑʁ.mi.zə"",""Inanimate Noun"",""bridge"",""Hittite: armizzi- """"bridge"""""",""""";;;;;
+"armolë,""ɑʁ.mo.lə"",""Inanimate Noun"",""spices, food seasoning"",""Arcadian Greek: ἄρμωλα """"food seasoning"""""",""""";;;;;
+"armolun,""ɑʁ.mo.lun"",""un-Adjective"",""spicy, hot"",""armolë + un"",""""";;;;;
+"arntha,""ɑʁn.tˠɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Arnth """"proper name"""""",""""";;;;;
+"arpsë,""ɑʁ.psə"",""Inanimate Noun"",""fat"",""i-noun"",""Umbrian: ařepes """"fats,fatty portions"""""",""""";;;;;
+"arpsun,""ɑʁ.psun"",""un-Adjective"",""fatty, fat"",""arpsë + un"",""""";;;;;
+"arputrathi,""ɑʁ.pu.tʁɑ.tˠi"",""i-Adjective"",""arbitrary"",""Umbrian: ařputrati """"arbitrarily"""""",""""";;;;;
+"arsanatali,""ɑʁ.sɑ.nɑ.tɑ.li"",""i-Adjective"",""jealous, envious"",""Hittite: arsanatalla- """"envious,jealous"""""",""""";;;;;
+"arsanatë,""ɑʁ.sɑ.nɑ.tə"",""Inanimate Noun"",""jealousy, envy"",""Hittite: arsaniya- """"to envy""""";" arsanatalla- """"envious,jealous"""""",""""";;;;
+"arsë,""ɑʁ.sə"",""së-Verb"",""push"",""Etruscan: ars """"push"""""",""""";;;;;
+"arsiva,""ɑʁ.si.βɑ"",""va-Verb"",""take good care of oneself, eat well"",""Hittite: arsiya- """"to eat well,take care of oneself"""""",""""";;;;;
+"arsivë,""ɑʁ.si.βə"",""Inanimate Noun"",""self-care"",""arsiva + ë"",""""";;;;;
+"asaicë,""ɑ.sɑi.kə"",""Inanimate Noun"",""stage"",""asaië + augmentative"",""""";;;;;
+"asaicpanë,""ɑ.sɑik.pɑ.nə"",""Inanimate Noun"",""theatre (discipline)"",""asaicë + encompassing infix"",""""";;;;;
+"asaië,""ɑ.sɑi.ə"",""Inanimate Noun"",""altar, podium"",""Oscan: aasaí """"on the altar"""""",""""";;;;;
+"asandula,""ɑ.sɑn.du.lɑ"",""Animate Noun"",""garrison, troop, troupe"",""Hittite: asandula- """"garrison"""""",""""";;;;;
+"asandulatë,""ɑ.sɑn.du.lɑ.tə"",""të-Verb"",""crew, staff, garrison"",""Hittite: asandulatar """"crew"""""",""""";;;;;
+"asanduli,""ɑ.sɑn.du.li"",""Animate Noun"",""crew, team"",""Hittite: asandul- """"crew"""""",""""";;;;;
+"asanup,""ɑ.sɑ.nup"",""uc/up-Verb"",""achieve, finish, accomplish, obtain"",""Hittite: assanu- """"to achieve,finish,realise,accomplish,obtain"; to prepare; to put in order;" to supply,provide"""""",""""";;
+"ascë,""ɑs.kə"",""Inanimate Noun"",""wineskin, waterskin"",""i-noun"",""Etruscan: aska """"askos"""""",""""";;;;;
+"asiantun,""ɑ.si.ɑn.tun"",""un-Adjective"",""poor, helpless"",""Hittite: asiwant- """"poor"""""",""""";;;;;
+"ataju,""ɑ.tɑ.ju"",""Personal Name"",""Actaeon [masc. name]"",""Etruscan: Ataiun """"Actaeon"""""",""""";;;;;
+"ateru,""ɑ.tɛ.ʁu"",""Masculine Noun"",""parent"",""Etruscan: ateri """"parents,ancestors"""""",""""";;;;;
+"athanun,""ɑ.tˠɑ.nun"",""un-Adjective"",""maternal"",""Etruscan: ati """"mother"""""",""""";;;;;
+"athemicu,""ɑ.tˠɛ.mi.ku"",""Masculine Noun"",""relative"",""Etruscan: athemica """"relatives"""""",""""";;;;;
+"athemicun,""ɑ.tˠɛ.mi.kun"",""un-Adjective"",""related"",""athemicu + un"",""""";;;;;
+"athu,""ɑ.tˠu"",""Masculine Noun"",""mother, mom, mum"",""i-noun"",""Etruscan: ati """"mother"""""",""""";;;;;
+"athumi,""ɑ.tˠu.mi"",""Animate Noun"",""nobility, noblesse"",""Etruscan: athumi """"nobility?"""""",""""";;;;;
+"athumu,""ɑ.tˠu.mu"",""Masculine Noun"",""noble, nobleman, noblewoman"",""Etruscan: athumi """"nobility?"""""",""""";;;;;
+"athumun,""ɑ.tˠu.mun"",""un-Adjective"",""noble"",""athumi + un / athumu + un"",""""";;;;;
+"atiërsi,""ɑ.ti.əʁ.si"",""i-Adjective"",""slow"",""Umbrian: atiersir """"more slowly"""""",""""";;;;;
+"atisazë,""ɑ.ti.sɑ.zə"",""Inanimate Noun"",""handaxe, hatchet"",""atisë + diminutive"",""""";;;;;
+"atisë,""ɑ.ti.sə"",""Inanimate Noun"",""axe"",""Hittite: atis """"axe"""""",""""";;;;;
+"atrë,""ɑt.ʁə"",""Inanimate Noun"",""building, house"",""i-noun"",""Etruscan: athre """"building"""" (Latin atrium?)"",""""";;;;;
+"atuni,""ɑ.tu.ni"",""Personal Name"",""Adonis [gender-neutral name]"",""Etruscan: Atunis """"Adonis"""""",""""";;;;;
+"aturu,""ɑ.tu.ʁu"",""Masculine Noun"",""ancestor"",""Etruscan: aterś,aturs,atrs,atus """"descendant,ancestor"""""",""""";;;;;
+"aturun,""a.tu.ʁun"",""un-Adjective"",""ancestral"",""aturu + un"",""""";;;;;
+"auclu,""ɑu.klu"",""Masculine Noun"",""helper, aide"",""Oscan: aukíl """"helper"""""",""""";;;;;
+"auclucë,""ɑu.klu.kə"",""cë-Verb"",""help, aid"",""auclu + cë"",""""";;;;;
+"auclun,""ɑu.klun"",""un-Adjective"",""helpful"",""auclu + un"",""""";;;;;
+"aufai,""ɑu.ɸɑi"",""Animate Noun"",""bird"",""Umbrian: auif """"bird"""""",""""";;;;;
+"aufazai,""ɑu.ɸɑ.zɑi"",""Animate Noun"",""songbird, small bird"",""aufai + diminutive"",""""";;;;;
+"aufocai,""ɑu.ɸo.kɑi"",""Animate Noun"",""bird of prey"",""aufai + augmentative"",""""";;;;;
+"auiqli,""ɑu.iq.li"",""i-Adjective"",""auspicious"",""Umbrian: auiecla """"auspicious"""""",""""";;;;;
+"aulunthi,""ɑu.lun.tˠi"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Aulunthe """"name of a satyr"""""",""""";;;;;
+"auth,""ɑutˠ"",""or"",""Oscan: auti """"or"""""",""""";;;;;
+"avilë,""ɑ.βi.lə"",""Inanimate Noun"",""year"",""Etruscan: avil """"year"""""",""""";;;;;
+"avilocë,""ɑ.βi.lo.kə"",""Inanimate Noun"",""leap year"",""avilë + augmentative"",""""";;;;;
+"avilu,""ɑ.βi.lu"",""Personal Name"",""Aulus [gender-neutral name]"",""Etruscan: Avile,Avle,Aule """"Aulus"""""",""""";;;;;
+"avilxun,""ɑ.βil.xun"",""un-Adjective"",""yearly, annual"",""Etruscan: avilxa """"yearly,annual"""""",""""";;;;;
+"azancë,""ɑ.zɑn.kə"",""Inanimate Noun"",""colony, settlement"",""azanuc + ë"",""""";;;;;
+"azanuc,""ɑ.zɑ.nuk"",""uc/up-Verb"",""settle, colonise"",""Hittite: asesanu- """"to settle"""""",""""";;;;;
+"azicë,""ɑ.zi.kə"",""cë-Verb"",""adore"",""Hittite: azzikk- """"to eat again";" to adore"""""",""""";;;;
+"azici,""ɑ.zi.ki"",""Animate Noun"",""adoration"",""azicë + i"",""""";;;;;
+"bansë,""bɑn.sə"",""Inanimate Noun"",""bow (weapon)"",""i-noun"",""Oscan: bansae """"bows"""""",""""";;;;;
+"bansëfo,""bɑn.sə.ɸo"",""Masculine Noun"",""archer"",""bansë + actant suffix"",""""";;;;;
+"bansocë,""bɑn.so.kə"",""Inanimate Noun"",""ballista"",""bansë + augmentative"",""""";;;;;
+"bëgo,""bə.go"",""Personal Name"",""[fem. name]"",""Etruscan: Begoë """"	Etruscan nymph believed to have power over lightning"""""",""""";;;;;
+"bheri,""bˠɛ.ʁi"",""i-Adjective"",""early"",""Oscan: beriis """"earlier"""""",""""";;;;;
+"bherithi,""bˠɛ.ʁi.tˠi"",""i-Adjective"",""late"",""bheri + opposite infix"",""""";;;;;
+"bhervi,""bˠɛʁ.βi"",""i-Adjective"",""true, truthful"",""Umbrian: berva """"true"""""",""""";;;;;
+"bhervithi,""bˠɛʁ.βi.tˠi"",""i-Adjective"",""untrue, untruthful, truthless, made-up"",""bhervi + opposite infix"",""""";;;;;
+"brodho,""bʁo.dˠo"",""Masculine Noun"",""vagina"",""Aeolian Greek: βρόδον """"rose,vagina"""""",""""";;;;;
+"buma,""bu.mɑ"",""Animate Noun"",""cow"",""Umbrian: bum """"cow"""""",""""";;;;;
+"bumpana,""bum.pɑ.nɑ"",""Animate Noun"",""cattle"",""buma + encompassing infix"",""""";;;;;
+"bumpani,""bum.pɑ.ni"",""i-Adjective"",""bovine"",""bumpana + i"",""""";;;;;
+"buseia,""bu.sɛi.ɑ"",""Animate Noun"",""flower, blossom"",""Oscan: blússii(eís) """"bloomed"""""",""""";;;;;
+"buseiun,""bu.sɛi.un"",""un-Adjective"",""flowering, blossoming"",""buseia + un"",""""";;;;;
+"ca,""kɑ"",""Pronoun"",""he, she, it"",""third person singular inanimate nominative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"cabhi,""kɑ.bˠi"",""i-Adjective"",""young"",""shortened form of the original """"cabhosi"""""",""Paphian Greek: κάβειος """"young"""""",""""";;;;;
+"cabhosi,""kɑ.bˠo.si"",""i-Adjective"",""young"",""Paphian Greek: κάβειος """"young"""""",""""";;;;;
+"cacapi,""kɑ.kɑ.pi"",""Animate Noun"",""partridge"",""Hittite: kakkapi- """"partridge"""""",""""";;;;;
+"cacureine,""kɑ.ku.ʁɛi.nɛ"",""eine-Verb"",""harm, maim"",""Hittite: kakkur(s?)- """"to cut,maim"""""",""""";;;;;
+"cadeisazë,""kɑ.dɛi.sɑ.zə"",""Inanimate Noun"",""rivalry, friendly rivalry"",""cadeisazu + ë"",""""";;;;;
+"cadeisazu,""kɑ.dɛi.sɑ.zu"",""Masculine Noun"",""rival, friendly rival"",""cadeisu + diminutive"",""""";;;;;
+"cadeisocu,""kɑ.dɛi.so.ku"",""Masculine Noun"",""archenemy, mortal enemy"",""cadeisu + augmentative"",""""";;;;;
+"cadeisu,""kɑ.dɛi.su"",""Masculine Noun"",""enemy, foe"",""Oscan: cadeis """"of enmity"""""",""""";;;;;
+"cahatë,""kɑ.hɑ.tə"",""të-Verb"",""begin, start, commence"",""Oscan: kahad """"let him take,let it begin"""""",""""";;;;;
+"cahë,""kɑ.hə"",""Inanimate Noun"",""beginning, start, commencement"",""i-noun"",""cahatë + ë"",""""";;;;;
+"cahithë,""kɑ.hi.tˠə"",""Inanimate Noun"",""ending, end"",""cahë + opposite infix"",""""";;;;;
+"cai,""kɑi"",""Personal Name"",""Caius, Gaius [masc. name]"",""Etruscan: Cae,Cai """"Caius,Gaius"""""",""""";;;;;
+"cain,""kɑin"",""Pronoun"",""they"",""third person plural inanimate nominative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"cainë,""kɑi.nə"",""Pronoun"",""them"",""third person plural inanimate dative pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"cainw,""kɑi.nø̞"",""Pronoun"",""their"",""third person plural inanimate genitive pronoun"",""Etruscan: ca """"this,that"""""",""""";;;;;
+"cajasphatheine,""kɑ.jɑs.pˠɑ.tˠɛi.nɛ"",""eine-Verb"",""slaughter"",""Oscan: kaispatar """"be slaughtered,clods are pounded"""""",""""";;;;;
+"calaina,""kɑ.lɑi.nɑ"",""Personal Name"",""Galene [fem. name]"",""Etruscan: Calaina """"Galene"""""",""""";;;;;
+"calavi,""kɑ.lɑ.βi"",""i-Adjective"",""bald"",""Oscan: kalaviis """"bald"""""",""""";;;;;
+"calc,""kɑlk"",""Cardinal Number"",""thirty"",""Etruscan: calch,cealch,cialch """"thirty"""""",""""";;;;;
+"calersun,""kɑ.lɛʁ.sun"",""un-Adjective"",""clever, smart"",""Umbrian: calersu """"clever,hot"""""",""""";;;;;
+"calesë,""kɑ.lɛ.sə"",""së-Verb"",""call, lure"",""Hittite: kalles- """"to call,lure"""""",""""";;;;;
+"cali,""kɑ.li"",""Animate Noun"",""dog"",""i-noun"",""Etruscan: cal """"dog"""" (cf. Umbrian katel- 'dog,puppy')"",""""";;;;;
+"calmi,""kɑl.mi"",""i-Adjective"",""wooden"",""calmië + i"",""""";;;;;
+"calmië,""kɑl.mi.ə"",""Inanimate Noun"",""log, timber"",""Hittite: kalmi-,kalmisana- """"log"""""",""""";;;;;
+"caloci,""kɑ.lo.ki"",""Animate Noun"",""hound, hunting dog"",""cali + augmentative"",""""";;;;;
+"calpani,""kɑl.pɑ.ni"",""Animate Noun"",""canine, canis"",""cali + encompassing infix"",""""";;;;;
+"calthë,""kɑl.tˠə"",""Inanimate Noun"",""place, location"",""i-noun"",""Etruscan: calthi,celthi,clthi """"here,in this place (locative)"""""",""""";;;;;
+"calucasu,""kɑ.lu.kɑ.su"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Chaluchasu """"Translation of Greek panchalkos,""""wholly of bronze"""",perhaps the robot of Crete,Talos."""""",""""";;;;;
+"calusun,""kɑ.lu.sun"",""un-Adjective"",""excellent, best"",""Etruscan: calusu """"excellent,best"""""",""""";;;;;
+"camthu,""kɑm.tˠu"",""Masculine Noun"",""judge, magistracy"",""i-noun"",""Etruscan: camthi """"name of magistracy"""""",""""";;;;;
+"canazë,""kɑ.nɑ.zə"",""Inanimate Noun"",""appetiser"",""canë + diminutive"",""""";;;;;
+"canë,""kɑ.nə"",""Inanimate Noun"",""gift"",""i-noun"",""Etruscan: cana,kana,kanna """"gift (agalma),or image,work of art?"""""",""""";;;;;
+"canëfo,""kɑ.nə.ɸo"",""Masculine Noun"",""gifter"",""canë + actant suffix"",""""";;;;;
+"cantcë,""kɑnt.kə"",""cë-Verb"",""can, be able to"",""Etruscan: canth-,canthce """"to be,can?"""""",""""";;;;;
+"capha,""kɑ.pˠɑ"",""Animate Noun"",""falcon"",""i-noun"",""Etruscan: *capu """"falcon"""" (Greek kapys)"",""""";;;;;
+"caphë,""kɑ.pˠə"",""Inanimate Noun"",""container, box, crate"",""i-noun"",""Etruscan: cape,capi """"vase,container"""""",""""";;;;;
+"caphocë,""kɑ.pˠo.kə"",""Inanimate Noun"",""shipping container"",""caphë + augmentative"",""""";;;;;
+"capra,""kɑ.pʁɑ"",""Animate Noun"",""goat"",""i-noun"",""Umbrian: kabru """"goat"""""",""""";;;;;
+"caprazë,""kɑ.pʁɑ.zə"",""Inanimate Noun"",""hood, cowl"",""caprë + diminutive"",""""";;;;;
+"caprazu,""kɑ.pʁɑ.zu"",""Masculine Noun"",""Adam's apple"",""capru + diminutive"",""""";;;;;
+"caprë,""kɑ.pʁə"",""Inanimate Noun"",""cloak"",""i-noun"",""Etruscan: caper """"cloak"""""",""""";;;;;
+"capri,""kɑ.pʁi"",""Animate Noun"",""April (month)"",""i-noun"",""Etruscan: *capre """"April"""""",""""";;;;;
+"capru,""kɑ.pʁu"",""Masculine Noun"",""throat, neck"",""i-noun"",""Hittite: kapru- """"throat"""""",""""";;;;;
+"capui,""kɑ.pu.i"",""Animate Noun"",""eagle"",""Etruscan: *capu """"hawk"""""",""""";;;;;
+"carantë,""kɑ.ʁɑn.tə"",""të-Verb"",""eat, consume"",""Oscan: karanter """"they eat"""""",""""";;;;;
+"carcë,""kɑʁ.kə"",""cë-Verb"",""make, build, construct"",""Etruscan: car-,cer- """"make,build"""""",""""";;;;;
+"cardhi,""kɑʁ.dˠi"",""Animate Noun"",""heart"",""i-noun"",""Hittite: kardi-,kard- """"heart"""""",""""";;;;;
+"cardhizë,""kɑʁ.dˠi.zə"",""Inanimate Noun"",""desire, wish"",""Hittite: kardiyas """"desire,wish";" lit. 'it of the heart'"""""",""""";;;;
+"carë,""kɑ.ʁə"",""Inanimate Noun"",""urn"",""i-noun"",""Etruscan: capra """"urn,container"""""",""""";;;;;
+"casilo,""kɑ.si.lo"",""Masculine Noun"",""cottage, hut"",""Umbrian: casilos """"cottages"""""",""""";;;;;
+"casilofo,""kɑ.si.lo.ɸo"",""Masculine Noun"",""cottage dweller, hut dweller, hermit"",""casilo + actant suffix"",""""";;;;;
+"caslirë,""kɑs.li.ʁə"",""Inanimate Noun"",""castle, fortress"",""Umbrian: casiler """"the castle"""""",""""";;;;;
+"caslirun,""kɑs.li.ʁun"",""un-Adjective"",""fortified"",""caslirë + un"",""""";;;;;
+"castrazi,""kɑs.tʁɑ.zi"",""Animate Noun"",""glans, bell-end"",""castri + diminutive"",""""";;;;;
+"castrazifo,""kɑs.tʁɑ.zi.ɸo"",""Masculine Noun"",""fucker"",""crude";" insult"",""castrazi + actant suffix"",""""";;;;
+"castrazifun,""kɑs.tʁɑ.zi.ɸun"",""un-Adjective"",""fucked, fucked up"",""crude";" insult"",""castrazifo + un"",""""";;;;
+"castri,""kɑs.tʁi"",""Animate Noun"",""head"",""i-noun"",""Oscan: castrid """"head"""""",""""";;;;;
+"castritheine,""kɑs.tʁi.tˠɛi.nɛ"",""eine-Verb"",""behead, decapitate"",""castri + opposite infix + eine"",""""";;;;;
+"castru,""kɑs.tʁu"",""Personal Name"",""Castor [masc. name]"",""often used for a twin boy"",""Etruscan: Castur """"Castor"""""",""""";;;;;
+"cateli,""kɑ.tɛ.li"",""Animate Noun"",""pup, puppy, cub, young"",""the young of an animal, most often a canine"",""Umbrian: katel- """"dog,puppy"""""",""""";;;;;
+"cateloci,""kɑ.tɛ.lo.ki"",""Animate Noun"",""lap dog, small adult dog"",""cateli + augmentative"",""""";;;;;
+"caterithun,""kɑ.tɛ.ʁi.tˠun"",""un-Adjective"",""superior"",""caterun + opposite infix"",""""";;;;;
+"caterun,""kɑ.tɛ.ʁun"",""un-Adjective"",""inferior"",""Hittite: kattera- """"inferior"""""",""""";;;;;
+"cebhazë,""kɛ.bˠɑ.zə"",""Inanimate Noun"",""snack"",""cebhë + diminutive"",""""";;;;;
+"cebhë,""kɛ.bˠə"",""Inanimate Noun"",""food, meal"",""i-noun"",""Umbrian: kebu """"food"""""",""""";;;;;
+"celazë,""kɛ.lɑ.zə"",""Inanimate Noun"",""parcel of land, plot of land, allotment, tract of land"",""celë + diminutive"",""""";;;;;
+"celë,""kɛ.lə"",""Inanimate Noun"",""land, dirt, soil"",""i-noun"",""Etruscan: cel """"earth,land"""""",""""";;;;;
+"celi,""kɛ.li"",""Animate Noun"",""September (month)"",""i-noun"",""Etruscan: celi """"September"""""",""""";;;;;
+"celpanë,""kɛl.pɑ.nə"",""Inanimate Noun"",""Earth (planet)"",""celë + encompassing infix"",""""";;;;;
+"celphunu,""kɛl.pˠu.nu"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Chelphun """"An Etruscan satyr"""""",""""";;;;;
+"celthi,""kɛl.tˠi"",""Determiner"",""here"",""Etruscan: calthi,celthi,clthi """"here,in this place (locative)"""""",""""";;;;;
+"celthinyë,""kɛl.tˠi.ɲə"",""Inanimate Noun"",""country"",""Etruscan: celtinei """"region"""""",""""";;;;;
+"celu,""kɛ.lu"",""Masculine Noun"",""priest"",""i-noun"",""Etruscan: celu """"priestly title"""""",""""";;;;;
+"celucazë,""kɛ.lu.kɑ.zə"",""Inanimate Noun"",""being grounded/grounding (a child by their parents)"",""celucë + diminutive"",""""";;;;;
+"celucë,""kɛ.lu.kə"",""cë-Verb"",""intern, imprison"",""Etruscan: celuca """"internment"""""",""""";;;;;
+"celucë,""kɛ.lu.kə"",""Inanimate Noun"",""internment, imprisonment"",""Etruscan: celuca """"internment"""""",""""";;;;;
+"celucëfo,""kɛ.lu.kə.ɸo"",""Masculine Noun"",""prison guard, imprisoner"",""celucë + actant suffix"",""""";;;;;
+"celucocë,""kɛ.lu.ko.kə"",""Inanimate Noun"",""life imprisonment, life sentence"",""celucë + augmentative"",""""";;;;;
+"cenë,""kɛ.nə"",""në-Verb"",""place, put down"",""Etruscan: cen- """"make,place"""""",""""";;;;;
+"censaunë,""kɛn.sɑu.nə"",""në-Verb"",""consider, debate (with oneself)"",""Oscan: censaum """"to consider"""""",""""";;;;;
+"cera,""kɛ.ʁɑ"",""Animate Noun"",""countryside, landscape, rural area"",""i-noun"",""Hittite: kuera- """"countryside"""""",""""";;;;;
+"cerafo,""kɛ.ʁɑ.ɸo"",""Masculine Noun"",""rural folk, country folk, rural resident"",""cera + actant suffix"",""""";;;;;
+"cercai,""kɛʁ.kɑi"",""Personal Name"",""Circe [fem. name]"",""Etruscan: Cerca """"Circe"""""",""""";;;;;
+"ceri,""kɛ.ʁi"",""i-Adjective"",""rural"",""Hittite: kuera- """"countryside"""""",""""";;;;;
+"cerïnazë,""kɛ.ʁɨ.nɑ.zə"",""Inanimate Noun"",""shrine"",""cerïnë + diminutive"",""""";;;;;
+"cerïnë,""kɛ.ʁɨ.nə"",""Inanimate Noun"",""temple, church, sacred place"",""Etruscan: cerine """"sacred place,building?"""""",""""";;;;;
+"cerïnocë,""kɛ.ʁɨ.no.kə"",""Inanimate Noun"",""cathedral"",""cerïnë + augmentative"",""""";;;;;
+"cerithi,""kɛ.ʁi.tˠi"",""i-Adjective"",""urban"",""ceri + opposite infix"",""""";;;;;
+"ces,""kɛs"",""Cardinal Number"",""eight"",""Etruscan: cezp """"eight"""""",""""";;;;;
+"cesë,""kɛ.sə"",""së-Verb"",""place, lie, lie down"",""Etruscan: ces- """"to place,be placed,lie"""""",""""";;;;;
+"cesphalc,""kɛs.pˠɑlk"",""Cardinal Number"",""eighty"",""Etruscan: cezpalch """"eighty"""""",""""";;;;;
+"cesps,""kɛsps"",""Frequency Number"",""eight times"",""Etruscan: cezpz """"eight times"""""",""""";;;;;
+"cesșna,""kɛs.ʃnɑ"",""Ordinal Number"",""eighth"",""Etruscan: cezp """"eight"""""",""""";;;;;
+"cețancrë,""kɛ.tʃɑn.kʁə"",""Inanimate Noun"",""title"",""Etruscan: cechancri """"title"""""",""""";;;;;
+"cețancrëfo,""kɛ.tʃɑn.kʁə.ɸo"",""Masculine Noun"",""title holder, titular"",""cețancrë + actant suffix"",""""";;;;;
+"cețasë,""kɛ.tʃɑ.sə"",""Inanimate Noun"",""public office, elected office"",""Etruscan: cechase """"name of magistracy"""""",""""";;;;;
+"cețë,""kɛ.tʃə"",""Inanimate Noun"",""law, codex"",""i-noun"",""Etruscan: cecha """"ceremony (right,law)"""""",""""";;;;;
+"cețpanë,""kɛtʃ.pɑ.nə"",""Inanimate Noun"",""legal system, judiciary"",""cețë + encompassing infix"",""""";;;;;
+"cexen,""kɛ.xɛn"",""Determiner"",""this one"",""Etruscan: cehen """"this one here"""""",""""";;;;;
+"ci,""ki"",""Cardinal Number"",""three"",""Etruscan: ki,ci """"three"""""",""""";;;;;
+"cïbhebhë,""kɨ.bˠɛ.bˠə"",""Inanimate Noun"",""boot"",""Arcadian Greek: κυβήβη """"boot,shoe"""""",""""";;;;;
+"cïbhebhpanë,""kɨ.bˠɛbˠ.pɑ.nə"",""Inanimate Noun"",""footwear"",""cïbhebhë + encompassing infix"",""""";;;;;
+"cicsë,""kik.sə"",""Inanimate Noun"",""mist, haze, vapour"",""a priori"",""""";;;;;
+"cilthu,""kil.tˠu"",""Masculine Noun"",""nation, nationality"",""Etruscan: cilth """"people,nation"""""",""""";;;;;
+"cinșna,""kin.ʃnɑ"",""Ordinal Number"",""third"",""Etruscan: kisne,ceanu """"third"""""",""""";;;;;
+"cizi,""ki.zi"",""Frequency Number"",""thrice"",""Etruscan: ciz,cizi """"thrice"""""",""""";;;;;
+"clanazu,""klɑ.nɑ.zu"",""Masculine Noun"",""infant son"",""clanu + diminutive"",""""";;;;;
+"clantazu,""klɑn.tɑ.zu"",""Masculine Noun"",""adopted infant son, infant stepson"",""clantu + diminutive"",""""";;;;;
+"clantu,""klɑn.tu"",""Masculine Noun"",""adopted son, stepson"",""i-noun"",""Etruscan: clanti,clanthi """"adoptive(?) son"""""",""""";;;;;
+"clanu,""klɑ.nu"",""Masculine Noun"",""son"",""i-noun"",""Etruscan: clan,clenar """"son"""""",""""";;;;;
+"clauneine,""klɑu.nɛi.nɛ"",""eine-Verb"",""sing (in a choir)"",""clauni + eine"",""""";;;;;
+"clauni,""klɑu.ni"",""Animate Noun"",""choir"",""Umbrian: clauerniur """"of the choir"""""",""""";;;;;
+"claunpani,""klɑun.pɑ.ni"",""Animate Noun"",""choir music, choral music"",""clauni + encompassing infix"",""""";;;;;
+"clavlëfë,""klɑβ.lə.ɸə"",""Inanimate Noun"",""hip"",""Umbrian: klavlaf """"hips"""""",""""";;;;;
+"cletrëmë,""klɛ.tʁə.mə"",""Inanimate Noun"",""basin, sink"",""Etruscan: cletram """"basin,basket,cart for offerings"""" (Umbrian kletra)"",""""";;;;;
+"cnevo,""knɛ.βo"",""Personal Name"",""Cnaeus [masc. name]"",""Etruscan: Cneve """"Cnaeus"""""",""""";;;;;
+"conëgva,""ko.nəg.βɑ"",""va-Verb"",""kneel (down)"",""Umbrian: conegos """"leaning on the knee"""""",""""";;;;;
+"creicai,""kʁɛi.kɑi"",""Animate Noun"",""Greece"",""Etruscan: creice """"Greek"""""",""""";;;;;
+"creicocai,""kʁɛi.ko.kɑi"",""Animate Noun"",""Magna Graecia, southern Italy"",""creice + augmentative"",""""";;;;;
+"creicun,""kʁɛi.kun"",""un-Adjective"",""Greek"",""Etruscan: creice """"Greek"""""",""""";;;;;
+"cucua,""ku.ku.ɑ"",""Animate Noun"",""frog"",""Hittite: akuwakuwa- """"frog?"""""",""""";;;;;
+"cucuca,""ku.ku.kɑ"",""Animate Noun"",""toad, large frog"",""cucua + augmentative"",""""";;;;;
+"cucucë,""ku.ku.kə"",""cë-Verb"",""croak"",""cucua + cë"",""""";;;;;
+"cucupana,""ku.ku.pɑ.nɑ"",""Animate Noun"",""amphibian"",""cucua + encompassing infix"",""""";;;;;
+"cucuza,""ku.ku.zɑ"",""Animate Noun"",""tadpole, polliwog, pollywog"",""cucua + diminutive"",""""";;;;;
+"cugulë,""ku.gu.lə"",""Inanimate Noun"",""biscuit"",""Hittite: kugulla- """"lard biscuit"""""",""""";;;;;
+"cuha,""ku.hɑ"",""Animate Noun"",""fox"",""a priori"",""""";;;;;
+"cuhi,""ku.hi"",""i-Adjective"",""clever, cagey, wily, cunning"",""cuha + i"",""""";;;;;
+"culsqwë,""kuls.qø̞.ə"",""Inanimate Noun"",""door, gate, doorway, gateway"",""Etruscan: culscva """"doors,gates"""""",""""";;;;;
+"cumbeni,""kum.bɛ.ni"",""Animate Noun"",""assembly, meeting"",""Oscan: kúmbennieís """"meetings"""""",""""";;;;;
+"cumbenva,""kum.bɛn.βɑ"",""va-Verb"",""assemble, meet"",""cumbeni + va"",""""";;;;;
+"cuphë,""ku.pˠə"",""Inanimate Noun"",""cup, glass (for drinking)"",""Etruscan: cupe """"cup"""" (Greek kúpe?";" Latin cupa)"",""""";;;;
+"curclasi,""kuʁ.klɑ.si"",""Animate Noun"",""circle"",""Umbrian: kurçlasiu """"circle,lastly"""""",""""";;;;;
+"curclasi,""kuʁ.klɑ.si"",""Determiner"",""lastly, finally"",""Umbrian: kurçlasiu """"circle,lastly"""""",""""";;;;;
+"curclasun,""kuʁ.klɑ.sun"",""un-Adjective"",""round, circular"",""curclasi + un"",""""";;;;;
+"curë,""ku.ʁə"",""Inanimate Noun"",""arrow (weapon)"",""Oscan: kúru """"bullet,missile"""""",""""";;;;;
+"cursë,""kuʁ.sə"",""Inanimate Noun"",""fur, hide"",""Hittite: kursa- """"fleece,fur,hide";" shield"""""",""""";;;;
+"cusa,""ku.sɑ"",""Animate Noun"",""salary, wage"",""Hittite: kussan- """"salary"""""",""""";;;;;
+"cusafo,""ku.sɑ.ɸo"",""Masculine Noun"",""wageworker"",""cusa + actant suffix"",""""";;;;;
+"cusaza,""ku.sɑ.zɑ"",""Animate Noun"",""allowance, pocket money, spending money"",""cusa + diminutive"",""""";;;;;
+"cutha,""ku.tˠɑ"",""Animate Noun"",""arm (body part)"",""Hittite: kuttar """"nape";" arm"""""",""""";;;;
+"cuthaza,""ku.tˠɑ.zɑ"",""Animate Noun"",""finger"",""cutha + diminutive"",""""";;;;;
+"cutheva,""ku.tˠɛ.βɑ"",""va-Verb"",""murmur, mumble, whisper"",""Umbrian: kutef """"murmuring,speaking low"""""",""""";;;;;
+"cuthevun,""ku.tˠɛ.βun"",""un-Adjective"",""murmured, mubled, whispered"",""cutheva + un"",""""";;;;;
+"cutru,""ku.tʁu"",""Masculine Noun"",""witness"",""Hittite: kutru- """"witness"""""",""""";;;;;
+"cuvalë,""ku.βɑ.lə"",""Inanimate Noun"",""calm, silence, quiet"",""cuvali + ë"",""""";;;;;
+"cuvali,""ku.βɑ.li"",""i-Adjective"",""calm, silent, quiet"",""Hittite: kuwāliu- """"calm,silent"""""",""""";;;;;
+"cverë,""kβɛ.ʁə"",""Inanimate Noun"",""gift"",""i-noun"",""Etruscan: cver """"gift,offering"""""",""""";;;;;
+"cverëfo,""kβɛ.ʁə.ɸo"",""Masculine Noun"",""gifter"",""cverë + actant suffix"",""""";;;;;
+"dadatë,""dɑ.dɑ.tə"",""të-Verb"",""return something"",""Oscan: da[da]d """"to give,to return"""""",""""";;;;;
+"d̦ar,""ʒɑʁ"",""Cardinal Number"",""ten"",""Etruscan: śar,sar,zar """"ten"""""",""""";;;;;
+"d̦ars,""ʒɑʁs"",""Frequency Number"",""ten times"",""Etruscan: śar,sar,zar """"ten"""""",""""";;;;;
+"d̦arșna,""ʒɑʁ.ʃnɑ"",""Ordinal Number"",""tenth"",""Etruscan: śarsnach """"tenth"""""",""""";;;;;
+"dasun,""dɑ.sun"",""un-Adjective"",""heavy"",""Hittite: dassu- """"strong";" heavy"""""",""""";;;;
+"dersithun,""dɛʁ.si.tˠun"",""un-Adjective"",""unsuccessful"",""dersun + opposite infix"",""""";;;;;
+"dersun,""dɛʁ.sun"",""un-Adjective"",""successful, prospering"",""Umbrian: dersua """"successful"""""",""""";;;;;
+"dhanathë,""dˠɑ.nɑ.tˠə"",""Inanimate Noun"",""desert, deserted place"",""Hittite: dannatta- """"empty,desert"""""",""""";;;;;
+"dhersecrë,""dˠɛʁ.sɛk.ʁə"",""Inanimate Noun"",""debt"",""Umbrian: dersecor """"debiti"""""",""""";;;;;
+"dhersecrëfo,""dˠɛʁ.sɛk.ʁə.ɸo"",""Masculine Noun"",""debtor, obligor, borrower"",""dhersecrë + actant suffix"",""""";;;;;
+"dhetmocë,""dˠɛt.mo.kə"",""Inanimate Noun"",""capital offence, capital crime"",""dhetmoë + augmentative"",""""";;;;;
+"dhetmocëfo,""dˠɛt.mo.kə.ɸo"",""Masculine Noun"",""felon, hardened criminal, career criminal"",""dhetmocë + actant suffix"",""""";;;;;
+"dhetmoë,""dˠɛt.mo.ə"",""Inanimate Noun"",""crime, offense"",""Umbrian: daetom """"offense"""""",""""";;;;;
+"dhetmoëfo,""dˠɛt.mo.ə.ɸo"",""Masculine Noun"",""criminal, offender"",""dhetmoë + actant suffix"",""""";;;;;
+"dhetmozë,""dˠɛt.mo.zə"",""Inanimate Noun"",""peccadillo, trivial offence, petty crime, victimless crime"",""dhetmoë + diminutive"",""""";;;;;
+"dhetmozëfo,""dˠɛt.mo.zə.ɸo"",""Masculine Noun"",""petty criminal, small-time criminal, petty crook"",""dhetmozë + actant suffix"",""""";;;;;
+"ecturo,""ɛk.tu.ʁo"",""Personal Name"",""Hector [gender-neutral name]"",""Etruscan: Ectur """"Hector"""""",""""";;;;;
+"ecuna,""ɛ.ku.nɑ"",""Animate Noun"",""cold"",""ecuni + a"",""""";;;;;
+"ecuni,""ɛ.ku.ni"",""i-Adjective"",""cold"",""Hittite: ekuna- """"cold"""" (Akk. kaṣû)"",""""";;;;;
+"ei,""ɛi"",""no"",""empathic"",""Etruscan: ei """"not"""""",""""";;;;;
+"ëi,""ə.ʔi"",""no"",""neutral"",""Etruscan: ei """"not"""""",""""";;;;;
+"ëifo,""ə.ʔi.ɸo"",""Masculine Noun"",""naysayer"",""in the literal sense of someone who (always) says """"no"""""",""ëi + actant suffix"",""""";;;;;
+"eilina,""ɛi.li.nɑ"",""Personal Name"",""Helen [fem. name]"",""Etruscan: Elinei,Elinai,Elina """"Helen"""""",""""";;;;;
+"eilinai,""ɛi.li.nɑi"",""Personal Name"",""Helen [fem. name]"",""Etruscan: Elinei,Elinai,Elina """"Helen"""""",""""";;;;;
+"ein,""ɛin"",""Pronoun"",""they"",""third person plural masculine or animate nominative pronoun"",""Etruscan: ein """"they"""""",""""";;;;;
+"eina,""ɛi.nɑ"",""Pronoun"",""them"",""third person plural masculine or animate accusative pronoun"",""Etruscan: ein """"they"""""",""""";;;;;
+"einë,""ɛi.nə"",""Pronoun"",""them"",""third person plural masculine or animate dative pronoun"",""Etruscan: ein """"they"""""",""""";;;;;
+"einw,""ɛi.nø̞"",""Pronoun"",""their"",""third person plural masculine or animate genitive pronoun"",""Etruscan: ein """"they"""""",""""";;;;;
+"eitë,""ɛi.tə"",""të-Verb"",""pay (for)"",""eithi + të"",""""";;;;;
+"eitë,""ɛi.tə"",""Animate Noun"",""payment"",""eitë + ë"",""""";;;;;
+"eithazi,""ɛi.tˠɑ.zi"",""Animate Noun"",""coin"",""eithi + diminutive"",""""";;;;;
+"eithi,""ɛi.tˠi"",""Animate Noun"",""money, currency"",""Oscan: eítiuvam """"money"""""",""""";;;;;
+"eithuc,""ɛi.tˠuk"",""uc/up-Verb"",""go (to)"",""Oscan: eítuns """"going?"""""",""""";;;;;
+"ejai,""ɛ.jɑi"",""Animate Noun"",""exemption, exception"",""i-noun"",""Hittite: eya(n)- """"a tree";" symbol of duty exemption)"",""""";;;;
+"eleivanë,""ɛ.lɛi.βɑ.nə"",""Inanimate Noun"",""olive oil"",""Etruscan: eleivana """"of oil"""" (Greek elaion)"",""""";;;;;
+"eleivë,""ɛ.lɛi.βə"",""Inanimate Noun"",""oil"",""Etruscan: eleiva """"oil"""""",""""";;;;;
+"eleivi,""ɛ.lɛi.βi"",""i-Adjective"",""oily"",""eleivë + i"",""""";;;;;
+"elphosë,""ɛl.pˠo.sə"",""Inanimate Noun"",""butter"",""Cypriot Greek: ἔλφος """"butter"""""",""""";;;;;
+"em,""ɛm"",""Preposition"",""without, sans"",""Etruscan: -em """"minus"""""",""""";;;;;
+"ena,""ɛ.nɑ"",""Determiner"",""now, today"",""Etruscan: ena """"today,now?"""""",""""";;;;;
+"enac,""ɛ.nɑk"",""Determiner"",""then, next, afterwards"",""Etruscan: enac,enach """"then,afterwards"""""",""""";;;;;
+"eplë,""ɛ.plə"",""Preposition"",""in, inside"",""Etruscan: epl,pi,pul """"in,to,up to,until"""""",""""";;;;;
+"erithi,""ɛ.ʁi.tˠi"",""Animate Noun"",""ram (animal)"",""Umbrian: erietu """"ram"""""",""""";;;;;
+"ermuzi,""ɛʁ.mu.zi"",""Animate Noun"",""August (month)"",""Etruscan: ermius """"August"""""",""""";;;;;
+"eșarë,""ɛ.ʃɑ.ʁə"",""Inanimate Noun"",""murder"",""Hittite: eshar """"blood";" murder"""""",""""";;;;
+"esari,""ɛ.sɑ.ʁi"",""Animate Noun"",""blood"",""Hittite: essar,eshar """"blood"""""",""""";;;;;
+"esarsë,""ɛ.sɑʁ.sə"",""së-Verb"",""bleed"",""esari + së"",""""";;;;;
+"eșascun,""ɛ.ʃɑs.kun"",""un-Adjective"",""bloody"",""Hittite: eshaskant- """"bloody"""""",""""";;;;;
+"eșvitha,""ɛʃ.βi.tˠɑ"",""Determiner"",""tomorrow"",""Etruscan: eshvita """"following,later day"""""",""""";;;;;
+"eteru,""ɛ.tɛ.ʁu"",""Masculine Noun"",""customer, client, patron"",""Etruscan: etera,eteri """"foreigner";" client"""""",""""";;;;
+"eth,""ɛtˠ"",""Determiner"",""thus, therefore"",""Etruscan: eth,et """"thus,in this way (adverb)"""""",""""";;;;;
+"etnam,""ɛt.nɑm"",""and"",""used only in a sentence-initial position or to introduce a subclause"",""Etruscan: etnam """"and"""""",""""";;;;;
+"etulu,""ɛ.tu.lu"",""Personal Name"",""Aitolos [gender-neutral name]"",""Etruscan: Etule """"Aitolos"""""",""""";;;;;
+"evana,""ɛ.βɑ.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Evan """"an attendant of Turan,sometimes male,sometimes female"""""",""""";;;;;
+"evna,""ɛβ.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Evan """"an attendant of Turan,sometimes male,sometimes female"""""",""""";;;;;
+"ezl,""ɛzl"",""Frequency Number"",""twice"",""Etruscan: eslz """"twice"""""",""""";;;;;
+"falathë,""ɸɑ.lɑ.tˠə"",""Inanimate Noun"",""sky, heaven"",""Etruscan: *falatu """"sky"""""",""""";;;;;
+"fanë,""ɸɑ.nə"",""në-Verb"",""consecrate, sanctify"",""Etruscan: fan- """"to consecrate'"""""",""""";;;;;
+"farthanë,""ɸɑʁ.tˠɑ.nə"",""në-Verb"",""generate"",""Etruscan: farthan,farthn """"generate"""""",""""";;;;;
+"fașë,""ɸɑ.ʃə"",""Inanimate Noun"",""bread"",""i-noun"",""Etruscan: faśe,faśei """"bread?"""" (Umbrian farsiu?)"",""""";;;;;
+"fasë,""ɸɑ.sə"",""Inanimate Noun"",""party, festival"",""i-noun"",""Etruscan: fase """"libation,drinking spree"""""",""""";;;;;
+"faunu,""ɸɑu.nu"",""Personal Name"",""Phaon [gender-neutral name]"",""Etruscan: Phaun,Faun,Phamu """"Phaon"""""",""""";;;;;
+"favë,""ɸɑ.βə"",""Inanimate Noun"",""cellar, basement"",""i-noun"",""Etymology: favi """"grave,temple vault"""" (Latin fauissa?)"",""""";;;;;
+"feihë,""ɸɛi.hə"",""Inanimate Noun"",""wall"",""Oscan: feíhúss """"the walls"""""",""""";;;;;
+"felsvai,""ɸɛl.sβɑi"",""Animate Noun"",""vegetable"",""i-noun"",""Umbrian: felsva """"vegetables?"""""",""""";;;;;
+"felsvi,""ɸɛl.sβi"",""i-Adjective"",""vegetarian"",""felsvai + i"",""""";;;;;
+"fersë,""ɸɛʁ.sə"",""së-Verb"",""burn, light"",""fersi + së"",""""";;;;;
+"fersi,""ɸɛʁ.si"",""Animate Noun"",""fire"",""i-noun"",""Etruscan: vers """"fire"""""",""""";;;;;
+"fersoci,""ɸɛʁ.so.ki"",""Animate Noun"",""inferno, hell"",""fersi + augmentative"",""""";;;;;
+"fertalë,""ɸɛʁ.tɑ.lə"",""Inanimate Noun"",""cake, pastry"",""Oscan: fertalis """"ceremonies celebrated with sacrificial cakes"""""",""""";;;;;
+"fila,""ɸi.lɑ"",""Animate Noun"",""oak tree"",""Elean Greek: φίλαξ """"young oak"""""",""""";;;;;
+"flercvë,""ɸlɛʁ.kβə"",""Inanimate Noun"",""ceremony, sacrifice"",""i-noun"",""Etruscan: flerchva """"ceremony,sacrifice"""""",""""";;;;;
+"flerë,""ɸlɛ.ʁə"",""Inanimate Noun"",""sacrifice"",""i-noun"",""Etruscan: fler """"offering,sacrifice"""""",""""";;;;;
+"fleritho,""ɸlɛ.ʁi.tˠo"",""Masculine Noun"",""mortal, human"",""flero + opposite infix"",""""";;;;;
+"flero,""ɸlɛ.ʁo"",""Masculine Noun"",""God, god, deity"",""i-noun"",""Etruscan: flere """"divinity,god"""""",""""";;;;;
+"flerșazi,""ɸlɛʁ.ʃɑ.zi"",""Animate Noun"",""statuette, miniature"",""flerși + diminutive"",""""";;;;;
+"flerși,""ɸlɛʁ.ʃi"",""Animate Noun"",""body, statue"",""i-noun"",""Etruscan: flereś """"statue"""""",""""";;;;;
+"flertë,""ɸlɛʁ.tə"",""të-Verb"",""offer, sacrifice, satisfy"",""Etruscan: fler-,flerthrce """"to offer,sacrifice,satisfy"""""",""""";;;;;
+"flisa,""ɸli.sɑ"",""Animate Noun"",""cat, feline"",""a priori";" but compare Latin: felis,feles """"cat"""""",""""";;;;
+"fondlirë,""ɸon.dli.ʁə"",""Inanimate Noun"",""spring (water), fountain"",""Umbrian: fondlir-e """"sources,at the springs"""""",""""";;;;;
+"frontcazë,""ɸʁont.kɑ.zə"",""Inanimate Noun"",""electricity"",""frontcë + diminutives"",""""";;;;;
+"frontcë,""ɸʁont.kə"",""Inanimate Noun"",""lightning bolt, lightning"",""Etruscan: frontac """"interpreter of lightning"""" (Greek bronte?)"",""""";;;;;
+"fruntë,""ɸʁun.tə"",""të-Verb"",""clean"",""Umbrian: furfant """"they clean?"""""",""""";;;;;
+"fulum,""ɸu.lum"",""Postposition"",""full of, filled with"",""Etruscan: *fulum """"?"""",fulumchva """"full of,provided with fulum"""""",""""";;;;;
+"fuvë,""ɸu.βə"",""Inanimate Noun"",""confidence, certainty"",""fuvi + ë"",""""";;;;;
+"fuvi,""ɸu.βi"",""i-Adjective"",""confident, certain"",""Oscan: fuvfdis """"more confident"""""",""""";;;;;
+"fuvithë,""ɸu.βi.tˠə"",""Inanimate Noun"",""uncertainty"",""fuvithi + ë"",""""";;;;;
+"fuvithi,""ɸu.βi.tˠi"",""i-Adjective"",""insecure, unsure, uncertain"",""fuvi + opposite infix"",""""";;;;;
+"gaurë,""gɑu.ʁə"",""Inanimate Noun"",""garden, orchard"",""Hittite: gauri- """"a kind of forest"""""",""""";;;;;
+"gauri,""gɑu.ʁi"",""i-Adjective"",""peaceful, serene"",""gaurë + i"",""""";;;;;
+"genzun,""gɛn.zun"",""un-Adjective"",""friendly, kind, nice"",""Hittite: genzuwala- """"friendly,kind"""""",""""";;;;;
+"getho,""gɛ.tˠo"",""Masculine Noun"",""cedar tree"",""i-noun"",""Cretan Greek: ἄργετος """"juniper,cedar"""""",""""";;;;;
+"gimantë,""gi.mɑn.tə"",""të-Verb"",""hibernate"",""Hittite: gimmantariya- """"to hibernate"""""",""""";;;;;
+"gimantë,""gi.mɑn.tə"",""Inanimate Noun"",""winter"",""Hittite: gimmant- """"winter"""""",""""";;;;;
+"gimantëfo,""gi.mɑn.tə.ɸo"",""Masculine Noun"",""hibernator"",""gimantë + actant suffix"",""""";;;;;
+"gurzai,""guʁ.zɑi"",""Animate Noun"",""island, isle"",""Hittite: gursawar """"island"""""",""""";;;;;
+"habnai,""hɑb.nɑi"",""Animate Noun"",""lamb"",""i-noun"",""Umbrian: habina """"lamb?"""""",""""";;;;;
+"hala,""hɑ.lɑ"",""Animate Noun"",""shrub, bush"",""i-noun"",""Hittite: hahhal """"shrub,bush?"""""",""""";;;;;
+"halci,""hɑl.ki"",""Animate Noun"",""grain, cereal"",""i-noun"",""Hittite: halki- """"grain,cereal";" field of cereal"""""",""""";;;;
+"halhaltumarë,""hɑl.hɑl.tu.mɑ.ʁə"",""Inanimate Noun"",""border, boundary"",""Hittite: halhaltumari- """"boundary stone"""""",""""";;;;;
+"halisancë,""hɑ.li.sɑn.kə"",""Inanimate Noun"",""equipment"",""halisanuc + ë"",""""";;;;;
+"halisanuc,""hɑ.li.sɑ.nuk"",""uc/up-Verb"",""equip"",""Hittite: halissiyanu- """"to mount,set frame,plate";" to equip"""""",""""";;;;
+"halithun,""hɑ.li.tˠun"",""un-Adjective"",""shallow"",""halun + opposite infix"",""""";;;;;
+"halun,""hɑ.lun"",""un-Adjective"",""deep, hollow"",""Hittite: hallu- """"deep"""""",""""";;;;;
+"hamesa,""hɑ.mɛ.sɑ"",""Animate Noun"",""spring (season)"",""Hittite: hameshant- """"spring"""""",""""";;;;;
+"hamfi,""hɑm.ɸi"",""i-Adjective"",""right (direction)"",""Etruscan: hamφa """"right"""""",""""";;;;;
+"handandathë,""hɑn.dɑn.dɑ.tˠə"",""Irregular Verb"",""miracle"",""Hittite: handandatar """"miracle"""""",""""";;;;;
+"handhë,""hɑn.dˠə"",""Inanimate Noun"",""sincerety, honesty"",""handhi + ë"",""""";;;;;
+"handhi,""hɑn.dˠi"",""i-Adjective"",""sincere, honest"",""Hittite: hand- """"sincere,honest"""""",""""";;;;;
+"handhithi,""hɑn.dˠi.tˠi"",""i-Adjective"",""insincere, dishonest"",""handhi + opposite infix"",""""";;;;;
+"haniphalu,""hɑ.ni.pˠɑ.lu"",""Personal Name"",""Hannibal [masc. name]"",""Etruscan: hanipaluscle """"for (or against?) Hannibal"""""",""""";;;;;
+"haniphalusclu,""hɑ.ni.pˠɑ.lus.klu"",""Masculine Noun"",""supporter, follower"",""Etruscan: hanipaluscle """"for (or against?) Hannibal"""""",""""";;;;;
+"hanthë,""hɑn.tˠə"",""Inanimate Noun"",""forehead"",""i-noun"",""Hittite: hant- """"forehead"""""",""""";;;;;
+"hanthithë,""hɑn.tˠi.tˠə"",""Inanimate Noun"",""back of the head"",""hanthë + opposite infix"",""""";;;;;
+"hapinun,""hɑ.pi.nun"",""un-Adjective"",""rich"",""Hittite: happinant- """"rich"""""",""""";;;;;
+"harci,""hɑʁ.ki"",""i-Adjective"",""clear, see-through, transparent, clean"",""Hittite: harki- """"white,clear"""""",""""";;;;;
+"harië,""hɑ.ʁi.ə"",""Inanimate Noun"",""valley, vale"",""Hittite: hāri- """"valley"""""",""""";;;;;
+"harizë,""hɑ.ʁi.zə"",""Inanimate Noun"",""indentation, furrow, groove, depression"",""harië + diminutive"",""""";;;;;
+"harnama,""hɑʁ.nɑ.mɑ"",""Animate Noun"",""yeast"",""Hittite: harnamma(r) """"yeast"; fermentation;" turmoil,rebellion"""""",""""";;;
+"harphun,""hɑʁ.pˠun"",""un-Adjective"",""hostile, unfriendly"",""Hittite: harpu- """"hostile"""""",""""";;;;;
+"harsë,""hɑʁ.sə"",""së-Verb"",""laugh, smile"",""Hittite: hahhars- """"to laugh"""""",""""";;;;;
+"hasnu,""hɑs.nu"",""Personal Name"",""Jason [masc. name]"",""Etruscan: Easun,Heasun,Heiasun """"Jason"""""",""""";;;;;
+"hasti,""hɑs.ti"",""i-Adjective"",""strong, powerful"",""Hittite: hastāi- """"bone";" strength,power"""""",""""";;;;
+"hatë,""hɑ.tə"",""të-Verb"",""be favourable"",""Etruscan: hath """"to be favourable"""""",""""";;;;;
+"hatë,""hɑ.tə"",""të-Verb"",""dry"",""Hittite: hat- """"to dry"""""",""""";;;;;
+"hathalantë,""hɑ.tˠɑ.lɑn.tə"",""Inanimate Noun"",""bolt, door latch, deadbolt"",""Hittite: hattalwant- """"bolt"""""",""""";;;;;
+"hathucesë,""hɑ.tˠu.kɛ.sə"",""së-Verb"",""worsen"",""Hittite: hatukes- """"to worsen"""""",""""";;;;;
+"hathuci,""hɑ.tˠu.ki"",""i-Adjective"",""bad"",""Hittite: hatuki- """"bad,dreadful"""""",""""";;;;;
+"hatna,""hɑt.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Hathna """"Etruscan satyr"""""",""""";;;;;
+"hecë,""hɛ.kə"",""cë-Verb"",""put, place, add"",""Etruscan: hec-,hech- """"put,place,add"""""",""""";;;;;
+"heisnu,""hɛis.nu"",""Personal Name"",""Jason [masc. name]"",""Etruscan: Easun,Heasun,Heiasun """"Jason"""""",""""";;;;;
+"helun,""hɛ.lun"",""un-Adjective"",""right, correct"",""Etruscan: hel,hels """"own,proper"""""",""""";;;;;
+"hercli,""hɛʁ.kli"",""Personal Name"",""Herakles, Hercules [masc. name]"",""Etruscan: Hercle """"Herakles,Hercules"""""",""""";;;;;
+"hereis,""hɛ.ʁɛis"",""Determiner"",""yesterday"",""Oscan: hereiis """"yesterday"""""",""""";;;;;
+"hermu,""hɛʁ.mu"",""Personal Name"",""Hermes [masc. name]"",""Etruscan: hermu """"Hermes?"""""",""""";;;;;
+"hesnu,""hɛs.nu"",""Personal Name"",""Jason [masc. name]"",""Etruscan: Easun,Heasun,Heiasun """"Jason"""""",""""";;;;;
+"heva,""hɛ.βɑ"",""Determiner"",""all (of)"",""Etruscan: heva """"all"""""",""""";;;;;
+"hexë,""hɛ.xə"",""Inanimate Noun"",""hearth, stove, cooker"",""i-noun"",""a priori";" but compare Greek: Ἑστία """"Hestia,hearth,fireside"""""",""""";;;;
+"hilaië,""hi.lɑi.ə"",""Inanimate Noun"",""courtyard, open space"",""Hittite: hīla- """"courtyard"""""",""""";;;;;
+"hinthai,""hin.tˠɑi"",""Animate Noun"",""soul, spirit, ghost"",""Etruscan: hinthial """"soul,ghost,of the Underworld"""""",""""";;;;;
+"hinthalë,""hin.tˠɑ.lə"",""Inanimate Noun"",""shadow, shade"",""Etruscan: hinθial """"the dead,shadow"""""",""""";;;;;
+"hinthalëfo,""hin.tˠɑ.lə.ɸo"",""Masculine Noun"",""parasol, sunshade"",""hinthalë + actant suffix"",""""";;;;;
+"hinthi,""hin.tˠi"",""Preposition"",""below, under"",""Etruscan: hinth,hinthi,hinthia """"below"""""",""""";;;;;
+"hisnu,""his.nu"",""Personal Name"",""Jason [masc. name]"",""Etruscan: Easun,Heasun,Heiasun """"Jason"""""",""""";;;;;
+"hosfri,""hos.ɸʁi"",""Animate Noun"",""October (month)"",""Etruscan: *Chosfer """"October"""""",""""";;;;;
+"hostatazë,""hos.tɑ.tɑ.zə"",""Inanimate Noun"",""needle"",""hostatë + diminutive"",""""";;;;;
+"hostatë,""hos.tɑ.tə"",""Inanimate Noun"",""spear"",""Umbrian: hostatu """"speared"""""",""""";;;;;
+"hostatëfo,""hos.tɑ.tə.ɸo"",""Masculine Noun"",""spearman"",""hostatë + actant suffix"",""""";;;;;
+"huda,""hu.dɑ"",""Animate Noun"",""noise"",""Hittite: hūda- """"noise?"""""",""""";;;;;
+"hudafo,""hu.dɑ.ɸo"",""Masculine Noun"",""noise maker"",""huda + actant suffix"",""""";;;;;
+"hulgani,""hul.gɑ.ni"",""Animate Noun"",""chariot, wagon"",""Hittite: huluganni- """"chariot"""""",""""";;;;;
+"hulganifo,""hul.gɑ.ni.ɸo"",""Masculine Noun"",""charioteer, waggoner, wagoner"",""hulgani + actant suffix"",""""";;;;;
+"hulphi,""hul.pˠi"",""i-Adjective"",""green"",""Hittite: huelpi- """"fresh,young,green";" young animal"""""",""""";;;;
+"hulsi,""hul.si"",""Animate Noun"",""owl"",""Etruscan: hiuls """"owl"""""",""""";;;;;
+"hupla,""hu.plɑ"",""Animate Noun"",""drum"",""Hittite: huhupāl- """"tambourine"""""",""""";;;;;
+"huplafo,""hu.plɑ.ɸo"",""Masculine Noun"",""drummer"",""hupla + actant suffix"",""""";;;;;
+"hursnanazu,""huʁ.snɑ.nɑ.zu"",""Masculine Noun"",""child"",""rare";" poetic"",""hursnanu + diminutive"",""""";;;;
+"hursnanu,""huʁ.snɑ.nu"",""Masculine Noun"",""youth, teen"",""Etruscan: husrnana """"epithet of Maris,'The Youthful,Young'"""""",""""";;;;;
+"hurtsu,""huʁt.su"",""Masculine Noun"",""gardener, planter, farmer"",""Oscan: húrtiis """"gardener"""""",""""";;;;;
+"hurzë,""huʁ.zə"",""Inanimate Noun"",""forest, grove"",""Oscan: húrz """"the garden,the forest"""""",""""";;;;;
+"hurzëfo,""huʁ.zə.ɸo"",""Masculine Noun"",""forester"",""hurzë + actant suffix"",""""";;;;;
+"husazu,""hu.sɑ.zu"",""Masculine Noun"",""toddler, infant"",""husu + diminutive"",""""";;;;;
+"huspanu,""hus.pɑ.nu"",""Masculine Noun"",""offspring, descendant"",""husu + encompassing infix"",""""";;;;;
+"husu,""hu.su"",""Masculine Noun"",""child, kid"",""Etruscan: hus-,husiur,husur """"children"""" (Latin liberi)"",""""";;;;;
+"hut,""hut"",""Cardinal Number"",""four"",""Etruscan: huth,hut? """"four"""""",""""";;;;;
+"huthalc,""hu.tˠɑlk"",""Cardinal Number"",""fourty"",""Etruscan: huthalch? """"fourty"""""",""""";;;;;
+"huts,""huts"",""Frequency Number"",""four times"",""Etruscan: huthz? """"four times"""""",""""";;;;;
+"hutșna,""hut.ʃnɑ"",""Ordinal Number"",""fourth"",""Etruscan: huth,hut? """"four"""""",""""";;;;;
+"hutulë,""hu.tu.lə"",""Inanimate Noun"",""wool"",""Hittite: hutulli- """"wool"""""",""""";;;;;
+"huzrnatrë,""huzʁ.nɑ.tʁə"",""Inanimate Noun"",""school"",""Etruscan: huzrnatre,*husurnatra """"college of youths"""" (Latin iuuentus)"",""""";;;;;
+"ic,""ik"",""and"",""gets turned into a suffix """"-c"""" following words ending on a vowel. May not be used before words beginning on a nasal."",""Etruscan: ic,-c """"and"""" (Latin -que)"",""""";;;;;
+"ica,""i.kɑ"",""Determiner"",""that"",""Etruscan: ica """"this"""""",""""";;;;;
+"igitë,""i.gi.tə"",""të-Verb"",""practice, repeat (in order to practice)"",""a priori"",""""";;;;;
+"ihalë,""i.hɑ.lə"",""Inanimate Noun"",""bandage, band-aid"",""Hittite: ishial- """"bandage"""""",""""";;;;;
+"ilucuë,""i.lu.ku.ə"",""Inanimate Noun"",""week"",""Etruscan: ilucu """"a period,part of a month"""""",""""";;;;;
+"ilucui,""i.lu.ku.i"",""i-Adjective"",""weekly"",""ilucuë + i"",""""";;;;;
+"imanazë,""i.mɑ.nɑ.zə"",""Inanimate Noun"",""thread, strand"",""imanë + diminutive"",""""";;;;;
+"imanë,""i.mɑ.nə"",""Inanimate Noun"",""rope"",""Hittite: ishimana- """"rope"""""",""""";;;;;
+"imeuntazu,""i.mɛun.tɑ.zu"",""Masculine Noun"",""rapscallion, (snotty-nosed) brat, trickster"",""generally only used to describe kids or teens"",""imeuntu + diminutive"",""""";;;;;
+"imeuntu,""i.mɛun.tu"",""Masculine Noun"",""troublemaker, mischief-maker"",""Hittite: ishaltuhmeyant- """"troublemaker"""""",""""";;;;;
+"imi,""i.mi"",""Pronoun"",""me"",""first person singular accusative pronoun"",""Etruscan: mi """"I"""""",""""";;;;;
+"imië,""i.mi.ə"",""Pronoun"",""me"",""first person singular dative pronoun"",""Etruscan: mi """"I"""""",""""";;;;;
+"iŋac,""iŋ.ɑk"",""Postposition"",""as, like"",""Etruscan: ic,ich,ichnac """"as"""""",""""";;;;;
+"iqha,""i.qˠɑ"",""Pronoun"",""he, she, it"",""third person singular animate nominative pronoun"",""Etruscan: an """"he,she,it""""";" Etruscan: ca """"this,that"""""",""""";;;;
+"iqhaë,""i.qˠɑ.ə"",""Pronoun"",""him, her, it"",""third person singular animate dative pronoun"",""Etruscan: an """"he,she,it""""";" Etruscan: ca """"this,that"""""",""""";;;;
+"iqhai,""i.qˠɑi"",""Pronoun"",""him, her, it"",""third person singular animate accusative pronoun"",""Etruscan: an """"he,she,it""""";" Etruscan: ca """"this,that"""""",""""";;;;
+"iqhw,""i.qˠø̞"",""Pronoun"",""his, her, its"",""third person singular animate genitive pronoun"",""Etruscan: an """"he,she,it""""";" Etruscan: ca """"this,that"""""",""""";;;;
+"ișeni,""i.ʃɛ.ni"",""Animate Noun"",""hair"",""Hittite: isheni- """"hair"""""",""""";;;;;
+"istacazë,""i.stɑ.kɑ.zə"",""Inanimate Noun"",""sickle"",""istacë + diminutive"",""""";;;;;
+"istacë,""i.stɑ.kə"",""Inanimate Noun"",""scythe, sickle"",""Boeotian Greek: ἰστάκη """"scythe"""""",""""";;;;;
+"istacocë,""i.stɑ.ko.kə"",""Inanimate Noun"",""scythe"",""istacë + augmentative"",""""";;;;;
+"ïstru,""ɨs.tʁu"",""Masculine Noun"",""actor (someone who acts, does something)"",""Etruscan: *ister """"actor"""" (Latin histrio)"",""""";;;;;
+"ithun,""i.tˠun"",""Determiner"",""this"",""empathic"",""Etruscan: itun (empathic) """"this"""""",""""";;;;;
+"ithup,""i.tˠup"",""uc/up-Verb"",""divide"",""Etruscan: *itu- """"to divide?"""""",""""";;;;;
+"iznircë,""iz.niʁ.kə"",""cë-Verb"",""have to, must, be required to"",""a priori"",""""";;;;;
+"lacarna,""lɑ.kɑʁ.nɑ"",""Animate Noun"",""plant"",""Hittite: lakkarwan """"a garden plant"""""",""""";;;;;
+"lacarnaza,""lɑ.kɑʁ.nɑ.zɑ"",""Animate Noun"",""sapling, graft, scion, offshoot"",""lacarna + diminutive"",""""";;;;;
+"lahazu,""lɑ.hɑ.zu"",""Masculine Noun"",""recruit, conscript"",""lahu + diminutive"",""""";;;;;
+"lahithu,""lɑ.hi.tˠu"",""Masculine Noun"",""pacifist"",""lahu + opposite infix"",""""";;;;;
+"lahocu,""lɑ.ho.ku"",""Masculine Noun"",""veteran, war returnee"",""lahu + augmentative"",""""";;;;;
+"lahu,""lɑ.hu"",""Masculine Noun"",""soldier, warrior"",""i-noun"",""Hittite: lahhiyala- """"man of war,soldier"""""",""""";;;;;
+"laivi,""lɑi.βi"",""i-Adjective"",""left (direction)"",""Etruscan: laive """"left"""""",""""";;;;;
+"lamanazë,""lɑ.mɑ.nɑ.zə"",""Inanimate Noun"",""nickname, cognomen, pet name"",""lamanë + diminutive"",""""";;;;;
+"lamancë,""lɑ.mɑn.kə"",""cë-Verb"",""name, call (by name), call for"",""Hittite: lamniya- """"to name"; to call; to order;" to assign,appoint"""""",""""";;
+"lamanë,""lɑ.mɑ.nə"",""Inanimate Noun"",""name"",""Hittite: lāman- """"name"""""",""""";;;;;
+"lamanëfo,""lɑ.mɑ.nə.ɸo"",""Masculine Noun"",""name giver, someone who names something"",""lamanë + actant suffix"",""""";;;;;
+"lamanpanë,""lɑ.mɑn.pɑ.nə"",""Inanimate Noun"",""last name, family name"",""lamanë + encompassing infix"",""""";;;;;
+"lamari,""lɑ.mɑ.ʁi"",""Animate Noun"",""hour"",""Hittite: lammar """"hour,moment"""""",""""";;;;;
+"lantneteru,""lɑnt.nɛ.tɛ.ʁu"",""Masculine Noun"",""freedman, freedwoman, freedperson"",""Etruscan: lantneteri """"freedman,client"""""",""""";;;;;
+"larci,""lɑʁ.ki"",""Personal Name"",""[masc. name]"",""Etruscan: Larce """"proper name (masc.)"""""",""""";;;;;
+"larisu,""lɑ.ʁi.su"",""Personal Name"",""Lars [masc. name]"",""Etruscan: L(a)ris,Larth """"Lars,proper name (masc.)"""""",""""";;;;;
+"larthi,""lɑʁ.tˠi"",""Personal Name"",""[fem. name]"",""Etruscan: Larthi,Larthia """"proper name (feminine)"""""",""""";;;;;
+"lartho,""lɑʁ.tˠo"",""Personal Name"",""Lars [masc. name]"",""Etruscan: L(a)ris,Larth """"Lars,proper name (masc.)"""""",""""";;;;;
+"lasu,""lɑ.su"",""Masculine Noun"",""bride"",""i-noun"",""Etruscan: lasa """"bride,nymph"""""",""""";;;;;
+"laucumnun,""lɑu.kum.nun"",""un-Adjective"",""royal, courtly"",""Etruscan: lauchumna """"'belonging to a lucumo',of a palace"""""",""""";;;;;
+"lauthuna,""lau.tˠu.na"",""Animate Noun"",""family"",""Etruscan: lautun,lautn """"family,gens"""""",""""";;;;;
+"lautnu,""lɑut.nu"",""Masculine Noun"",""citizen, inhabitant"",""Etruscan: lautni """"'of the family',freedman"""""",""""";;;;;
+"laxpanu,""lɑx.pɑ.nu"",""Masculine Noun"",""army"",""the /h/ from """"lahu"""" is irregularly turned into an /x/ here for ease of pronunciation"",""lahu + encompassing infix"",""""";;;;;
+"leinai,""lɛi.nɑi"",""Animate Noun"",""death"",""leine + ai"",""""";;;;;
+"leine,""lɛi.nɛ"",""eine-Verb"",""die"",""Etruscan: lein- """"to die?"""""",""""";;;;;
+"leinpanai,""lɛin.pɑ.nɑi"",""Animate Noun"",""apocalypse"",""leinai + encompassing infix"",""""";;;;;
+"leinu,""lɛi.nu"",""Masculine Noun"",""elder, old person"",""Etruscan: leinθ """"elderly woman"""""",""""";;;;;
+"leinun,""lɛi.nun"",""un-Adjective"",""elderly, aged, retired"",""leinu + un"",""""";;;;;
+"lenai,""lɛ.nɑi"",""Personal Name"",""[gender-neutral name]"",""Arcadian Greek: Λῆναι """"Bacchae"""""",""""";;;;;
+"leprina,""lɛ.pʁi.nɑ"",""Personal Name"",""[fem. name]"",""Etruscan: Lepr(i)na """"epithet of Culsu"""""",""""";;;;;
+"licitë,""li.ki.tə"",""të-Verb"",""allow, permit"",""Oscan: licitud """"I am allowed"""""",""""";;;;;
+"licitë,""li.ki.tə"",""Inanimate Noun"",""permit, permission"",""licitë + ë"",""""";;;;;
+"limazë,""li.mɑ.zə"",""Inanimate Noun"",""craving"",""limë + diminutive"",""""";;;;;
+"limë,""li.mə"",""Inanimate Noun"",""hunger"",""limun + ë"",""""";;;;;
+"limun,""li.mun"",""un-Adjective"",""hungry"",""Oscan: limu """"hunger"""""",""""";;;;;
+"lisi,""li.si"",""Animate Noun"",""liver"",""Hittite: lissi- """"liver"""""",""""";;;;;
+"lothazë,""lo.tˠɑ.zə"",""Inanimate Noun"",""pebble"",""lothë + diminutive"",""""";;;;;
+"lothë,""lo.tˠə"",""Inanimate Noun"",""stone"",""Etruscan: luth """"stone? temple?"""""",""""";;;;;
+"lothocë,""lo.tˠo.kə"",""Inanimate Noun"",""boulder, rock"",""lothë + augmentative"",""""";;;;;
+"luc,""luk"",""uc/up-Verb"",""act, rule"",""Etruscan: lucair """"to act as lauchum,lucumo,to rule"""""",""""";;;;;
+"lucë,""lu.kə"",""cë-Verb"",""be in charge, rule"",""Etruscan: lauch-,luc- """"to rule,be in charge"""""",""""";;;;;
+"lup,""lup"",""uc/up-Verb"",""die"",""Etruscan: lup-,lupu """"to die"""""",""""";;;;;
+"luthai,""lu.tˠɑi"",""Animate Noun"",""window, opening in the wall"",""Hittite: luttāi- """"window,shutter""""";" luttant- """"window"""""",""""";;;;
+"luzarië,""lu.zɑ.ʁi.ə"",""Inanimate Noun"",""game"",""Oscan: luisarifs """"games?"""""",""""";;;;;
+"luzariëfo,""lu.zɑ.ʁi.ə.ɸo"",""Masculine Noun"",""player, game participant"",""luzarië + actant suffix"",""""";;;;;
+"lwai,""lø̞.ɑi"",""Animate Noun"",""lion"",""Etruscan: leu """"lion"""""",""""";;;;;
+"lwcmo,""lø̞k.mo"",""Masculine Noun"",""king"",""Etruscan: lauchum(e) """"king"""" (Latin lucumo)"",""""";;;;;
+"maclanti,""mɑ.klɑn.ti"",""i-Adjective"",""thin, lean"",""Hittite: maklant- """"lean,thin,meager"""""",""""";;;;;
+"malanë,""mɑ.lɑ.nə"",""Inanimate Noun"",""mirror"",""Etruscan: malena,malana,malstria """"mirror"""""",""""";;;;;
+"malanëfo,""mɑ.lɑ.nə.ɸo"",""Masculine Noun"",""mirror image"",""malanë + actant suffix"",""""";;;;;
+"maleine,""mɑ.lɛi.nɛ"",""eine-Verb"",""look, watch"",""Etruscan: mal- """"to look,watch,guard,oversee"""""",""""";;;;;
+"maliscun,""mɑ.lis.kun"",""un-Adjective"",""weak"",""Hittite: malisku- """"weak"""""",""""";;;;;
+"mamarca,""mɑ.mɑʁ.kɑ"",""Animate Noun"",""Mars (planet)"",""Etruscan: Mamarce,Mamerce """"'Mars'"""""",""""";;;;;
+"mamarci,""mɑ.mɑʁ.ki"",""i-Adjective"",""warlike, martial, bellicose"",""mamarca + i"",""""";;;;;
+"mamarcithi,""mɑ.mɑʁ.ki.tˠi"",""i-Adjective"",""peaceful, pacifist"",""mamarci + opposite infix"",""""";;;;;
+"mamarcu,""mɑ.mɑʁ.ku"",""Personal Name"",""Mamercus [gender-neutral name]"",""Etruscan: Mamarce,Mamerce """"Mamercus"""" (cf. Oscan Mamers,'Mars')"",""""";;;;;
+"mamercu,""mɑ.mɛʁ.ku"",""Personal Name"",""Mamercus [gender-neutral name]"",""Etruscan: Mamarce,Mamerce """"Mamercus"""" (cf. Oscan Mamers,'Mars')"",""""";;;;;
+"manë,""mɑ.nə"",""Inanimate Noun"",""childhood, youth"",""i-noun"",""Etruscan: mean """"childhood,youth"""""",""""";;;;;
+"manë,""mɑ.nə"",""Inanimate Noun"",""hand"",""Umbrian: mani """"by hand"""""",""""";;;;;
+"manë,""mɑ.nə"",""Inanimate Noun"",""tombstone"",""i-noun"",""Etruscan: man """"tombstone"""""",""""";;;;;
+"manfup,""mɑn.ɸup"",""uc/up-Verb"",""send (out)"",""Oscan: manafum """"I sent"""""",""""";;;;;
+"mani,""mɑ.ni"",""Animate Noun"",""corpse, dead person, deceased person"",""i-noun"",""Etruscan: man,mani """"the dead"""" (Latin Manes)"",""""";;;;;
+"manitalu,""mɑ.ni.tɑ.lu"",""Masculine Noun"",""treasurer, bursar"",""Hittite: maniyahhatalla- """"bursar"""""",""""";;;;;
+"marcu,""mɑʁ.ku"",""Personal Name"",""Marcus [masc. name]"",""Etruscan: Marce """"Marcus"""""",""""";;;;;
+"marișu,""mɑ.ʁi.ʃu"",""Masculine Noun"",""bridegroom, groom"",""Etruscan: marish """"(male) boy,baby,youth,bridegroom,servant,slave"""""",""""";;;;;
+"masni,""mɑs.ni"",""Animate Noun"",""December (month)"",""i-noun"",""Etruscan: masan,masn """"December"""""",""""";;;;;
+"mathan,""mɑ.tˠɑn"",""Preposition"",""above, before"",""Etruscan: matam,matan """"above,before"""""",""""";;;;;
+"mathë,""mɑ.tˠə"",""Inanimate Noun"",""honey"",""i-noun"",""Etruscan: math """"honey,honeyed wine"""" (Greek methu,English mead)"",""""";;;;;
+"mathun,""mɑ.tˠun"",""un-Adjective"",""sweet"",""mathë + un"",""""";;;;;
+"max,""mɑx"",""Cardinal Number"",""five"",""Etruscan: mach,mac """"five"""""",""""";;;;;
+"maxs,""mɑxs"",""Frequency Number"",""five times"",""Etruscan: mach,mac """"five"""""",""""";;;;;
+"maxșna,""mɑx.ʃnɑ"",""Ordinal Number"",""fifth"",""Etruscan: mach,mac """"five"""""",""""";;;;;
+"melicratțë,""mɛ.li.kʁɑt.tʃə"",""Inanimate Noun"",""mulled wine"",""Etruscan: melicraticce """"honey and wine"""""",""""";;;;;
+"memnu,""mɛm.nu"",""Personal Name"",""Memnon [gender-neutral name]"",""Etruscan: Memnum,Memrum """"Memnon"""""",""""";;;;;
+"memru,""mɛm.ʁu"",""Personal Name"",""Memnon [gender-neutral name]"",""Etruscan: Memnum,Memrum """"Memnon"""""",""""";;;;;
+"menë,""mɛ.nə"",""në-Verb"",""give, hand over, offer"",""Etruscan: men- """"mak,offer"""""",""""";;;;;
+"menlu,""mɛn.lu"",""Personal Name"",""Menelaus [masc. name]"",""Etruscan: Menle """"Menelaus"""""",""""";;;;;
+"menznë,""mɛn.znə"",""Inanimate Noun"",""month"",""i-noun"",""Umbrian: menzne """"a month"""""",""""";;;;;
+"methusu,""mɛ.tˠu.su"",""Personal Name"",""[fem. name]"",""Etruscan: Metus """"the Gorgon Medusa"""""",""""";;;;;
+"mexu,""mɛ.xu"",""Masculine Noun"",""queen"",""i-noun"",""Etruscan: mex """"people,league,nation,lady,queen"""""",""""";;;;;
+"mi,""mi"",""Pronoun"",""I"",""first person singular nominative pronoun"",""Etruscan: mi """"I"""""",""""";;;;;
+"minasë,""mi.nɑ.sə"",""së-Verb"",""threaten"",""Oscan: minatus """"threatened"""""",""""";;;;;
+"minimir,""mi.ni.miʁ"",""Pronoun"",""us"",""first person plural accusative pronoun"",""Etruscan: mini """"I,me""""";" Etruscan: mir """"we"""""",""""";;;;
+"minir,""mi.niʁ"",""Pronoun"",""we"",""first person plural nominative pronoun"",""Etruscan: mini """"I,me""""";" Etruscan: mir """"we"""""",""""";;;;
+"minirë,""mi.ni.ʁə"",""Pronoun"",""us"",""first person plural dative pronoun"",""Etruscan: mini """"I,me""""";" Etruscan: mir """"we"""""",""""";;;;
+"minw,""mi.nø̞"",""Pronoun"",""our"",""first person plural genitive pronoun"",""Etruscan: mini """"I,me""""";" Etruscan: mir """"we"""""",""""";;;;
+"mithi,""mi.tˠi"",""i-Adjective"",""copper-red"",""Hittite: mīti- """"red"""""",""""";;;;;
+"mlacun,""mlɑ.kun"",""un-Adjective"",""good, right"",""Etruscan: mlaca """"good"""""",""""";;;;;
+"mulxi,""mul.xi"",""i-Adjective"",""beautiful, nice"",""Etruscan: mulx """"beautiful,nice"""""",""""";;;;;
+"munë,""mu.nə"",""Inanimate Noun"",""tomb, grave"",""Etruscan: mun-,muni """"underground place,tomb"""""",""""";;;;;
+"murcë,""muʁ.kə"",""cë-Verb"",""stay, reside"",""Etruscan: mur- """"stay,reside"""""",""""";;;;;
+"mutuqë,""mu.tu.qə"",""Inanimate Noun"",""thyme"",""Etruscan: *mutuka """"thyme"""""",""""";;;;;
+"muvalc,""mu.βɑlk"",""Cardinal Number"",""fifty"",""Etruscan: muvalch,machalch """"fifty"""""",""""";;;;;
+"mw,""mø̞"",""Pronoun"",""my, mine"",""first person singular genitive pronoun"",""Etruscan: mi """"I"""""",""""";;;;;
+"nac,""nɑk"",""Determiner"",""because (of)"",""Etruscan: nac """"how,as,because,since"""""",""""";;;;;
+"nafreine,""nɑ.ɸʁɛi.nɛ"",""eine-Verb"",""rain"",""Oscan: anafríss """"rains"""""",""""";;;;;
+"nafrizazi,""nɑ.ɸʁi.zɑ.zi"",""Animate Noun"",""drizzle, light rain"",""nafrizi + diminutive"",""""";;;;;
+"nafrizi,""nɑ.ɸʁi.zi"",""Animate Noun"",""rain, rainfall"",""Oscan: anafríss """"rains"""""",""""";;;;;
+"nafrizoci,""nɑ.ɸʁi.zo.ki"",""Animate Noun"",""heavy rainfall, downpour"",""nafrizi + augmentative"",""""";;;;;
+"nafrizpani,""nɑ.ɸʁiz.pɑ.ni"",""Animate Noun"",""precipitation"",""nafrizi + encompassing infix"",""""";;;;;
+"nathi,""nɑ.tˠi"",""Animate Noun"",""reed, reeds"",""i-noun"",""Hittite: natī- """"reed";" arrow"""""",""""";;;;
+"necuti,""nɛ.ku.ti"",""Animate Noun"",""evening, sunset"",""Hittite: nekut- """"evening"""""",""""";;;;;
+"nefțazo,""nɛɸ.tʃɑ.zo"",""Masculine Noun"",""great-grandson"",""nefțo + diminutive"",""""";;;;;
+"nefțo,""nɛɸ.tʃo"",""Masculine Noun"",""nephew, grandson"",""i-noun"",""Etruscan: neftś,nefś,nefiś """"nephew,grandson"""" (Latin nepos)"",""""";;;;;
+"negu,""nɛ.gu"",""Masculine Noun"",""sister"",""i-noun"",""Hittite: nega- """"sister"""""",""""";;;;;
+"neri,""nɛ.ʁi"",""Animate Noun"",""water, liquid"",""i-noun"",""Etruscan: neri """"water"""""",""""";;;;;
+"nerithi,""nɛ.ʁi.tˠi"",""Animate Noun"",""solid, solid matter"",""neri + opposite infix"",""""";;;;;
+"nerun,""nɛ.ʁun"",""un-Adjective"",""wet"",""neri + un"",""""";;;;;
+"nestru,""nɛs.tʁu"",""Personal Name"",""Nestor [masc. name]"",""Etruscan: Nestur """"Nestor"""""",""""";;;;;
+"ninctë,""nink.tə"",""Inanimate Noun"",""snow"",""Umbrian: ninctu """"with snow"""""",""""";;;;;
+"niri,""ni.ʁi"",""i-Adjective"",""tall"",""Oscan: niir """"man,prince,tall"""""",""""";;;;;
+"niru,""ni.ʁu"",""Masculine Noun"",""prince, princess, heir"",""Oscan: niir """"man,prince,tall"""""",""""";;;;;
+"niruë,""ni.ʁu.ə"",""Inanimate Noun"",""herb"",""Umbrian: niru [meaning uncertain,but probably some sort of herb]"",""""";;;;;
+"nuntë,""nun.tə"",""të-Verb"",""bring, involve"",""Etymology: nun-,nunth """"bring,involve"""""",""""";;;;;
+"nurf,""nuʁɸ"",""Cardinal Number"",""nine"",""Etruscan: nurph """"nine"""""",""""";;;;;
+"nurfsi,""nuʁɸ.si"",""Frequency Number"",""nine times"",""Etruscan: nurphzi """"nine times"""""",""""";;;;;
+"nurfșna,""nuʁɸ.ʃnɑ"",""Ordinal Number"",""ninth"",""Etruscan: nurph """"nine"""""",""""";;;;;
+"nurphalc,""nuʁ.pˠɑlk"",""Cardinal Number"",""ninety"",""Etruscan: nurphalch """"ninety"""""",""""";;;;;
+"nurpnë,""nuʁp.nə"",""Inanimate Noun"",""weight"",""Umbrian: nuřpener """"weights"""""",""""";;;;;
+"nutharun,""nu.tˠɑ.ʁun"",""un-Adjective"",""fast, quick"",""Hittite: nuttariya- """"fast,quick,hurriedly"""""",""""";;;;;
+"ocarë,""o.kɑ.ʁə"",""Inanimate Noun"",""mountain, mount"",""Umbrian: ocar """"focus,mountain,the Sacred Mount of Iguvium"""""",""""";;;;;
+"ocarëfo,""o.kɑ.ʁə.ɸo"",""Masculine Noun"",""mountaineer, mountain climber, alpinist"",""ocarë + actant suffix"",""""";;;;;
+"olimbai,""o.lim.bɑi"",""Animate Noun"",""pantheon, specified group or set of deities"",""Greek: Ólimbos """"Mount Olympus"""""",""""";;;;;
+"onsë,""on.sə"",""Inanimate Noun"",""shoulder"",""Umbrian: onse """"on the shoulder"""""",""""";;;;;
+"orostho,""o.ʁos.tˠo"",""Personal Name"",""Orestes [gender-neutral name]"",""Etruscan: Urusthe """"Orestes"""""",""""";;;;;
+"oui,""ou.i"",""Animate Noun"",""sheep"",""Umbrian: oui """"sheep"""""",""""";;;;;
+"pacsti,""pɑk.sti"",""Personal Name"",""Pegasus [gender-neutral name]"",""Etruscan: Pakste """"Pegasus,Trojan horse"""""",""""";;;;;
+"palmithu,""pɑl.mi.tˠu"",""Personal Name"",""Palamedes [gender-neutral name]"",""Etruscan: Palmithe """"Palamedes"""""",""""";;;;;
+"pana,""pɑ.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Puanea """"name of a satyr"""""",""""";;;;;
+"parsnai,""pɑʁ.snɑi"",""Animate Noun"",""cheek"",""i-noun"",""Hittite: parsina- """"cheek"""""",""""";;;;;
+"pastë,""pɑs.tə"",""Inanimate Noun"",""width"",""pasti + ë"",""""";;;;;
+"pasti,""pɑs.ti"",""i-Adjective"",""wide, broad"",""Hittite: palhasti- """"width"""""",""""";;;;;
+"patruclo,""pɑ.tʁu.klo"",""Personal Name"",""Patroclus [masc. name]"",""Etruscan: Patrucle """"Patroclus"""""",""""";;;;;
+"pavazu,""pɑ.βɑ.zu"",""Masculine Noun"",""toddler boy"",""pavu + diminutive"",""""";;;;;
+"pavu,""pɑ.βu"",""Masculine Noun"",""boy"",""i-noun"",""Etruscan: pava """"boy,youth"""""",""""";;;;;
+"pecsi,""pɛ.ksi"",""Personal Name"",""Pegasus [gender-neutral name]"",""Etruscan: Pecse """"Pegasus,Trojan horse"""""",""""";;;;;
+"pelmtë,""pɛlm.tə"",""Inanimate Noun"",""soup"",""i-noun"",""Umbrian: pelmner """"soup,pulping,meat"""""",""""";;;;;
+"penthasila,""pɛn.tˠɑ.si.lɑ"",""Personal Name"",""Penthesilea [fem. name]"",""Etruscan: Pantasila,Pentasila """"Penthesilea,queen of the Amazons"""""",""""";;;;;
+"perë,""pɛ.ʁə"",""Inanimate Noun"",""house, home"",""i-noun"",""Etrusan: pera """"house"""""",""""";;;;;
+"pernai,""pɛʁ.nɑi"",""Animate Noun"",""ham"",""i-noun"",""Oscan: pernaí """"ham,completely"""""",""""";;;;;
+"perseë,""pɛʁ.sɛ.ə"",""Inanimate Noun"",""floor"",""Umbrian: persaeo """"layer on the ground,prone?"""""",""""";;;;;
+"persi,""pɛʁ.si"",""Personal Name"",""Perseus [masc. name]"",""Etruscan: Perse """"Perseus"""""",""""";;;;;
+"persoë,""pɛʁ.so.ə"",""Inanimate Noun"",""trench"",""Umbrian: perso """"only,trench,trench for the libations"""""",""""";;;;;
+"pesazë,""pɛ.sɑ.zə"",""Inanimate Noun"",""peninsula"",""pesë + diminutive"",""""";;;;;
+"pesë,""pɛ.sə"",""Inanimate Noun"",""landmass, continent"",""i-noun"",""Etruscan: pes """"land?"""""",""""";;;;;
+"pesetë,""pɛ.sɛ.tə"",""të-Verb"",""cook"",""Arcadian Greek: πέσσεται """"it is cooked,roasted"""""",""""";;;;;
+"pesetu,""pɛ.sɛ.tu"",""Masculine Noun"",""cook, chef"",""pesetë + u"",""""";;;;;
+"phacathu,""pˠɑ.kɑ.tˠu"",""Personal Name"",""[gender-neutral name]"",""Etruscan: pachathur """"Bacchante,maenad (Pacha)"""""",""""";;;;;
+"phaphacazu,""pˠɑ.pˠɑ.kɑ.zu"",""Masculine Noun"",""great-grandson"",""phaphacu + diminutive"",""""";;;;;
+"phaphacu,""pˠɑ.pˠɑ.ku"",""Masculine Noun"",""grandson"",""Etruscan: papals,papacs """"of the grandfather";" grandson"""""",""""";;;;
+"phaphu,""pˠɑ.pˠu"",""Masculine Noun"",""grandfather"",""i-noun"",""Etruscan: papa """"grandfather"""""",""""";;;;;
+"phaunu,""pˠɑu.nu"",""Personal Name"",""Phaon [gender-neutral name]"",""Etruscan: Phaun,Faun,Phamu """"Phaon"""""",""""";;;;;
+"pheica,""pˠɛi.kɑ"",""Animate Noun"",""fish, aquatic animal"",""a priori"",""""";;;;;
+"pheicitha,""pˠɛi.ki.tˠɑ"",""Animate Noun"",""land animal"",""pheica + opposite infix"",""""";;;;;
+"pheicun,""pˠɛi.kun"",""un-Adjective"",""fresh, unspoiled"",""pheica + un"",""""";;;;;
+"phercë,""pˠɛʁ.kə"",""Inanimate Noun"",""staff (object)"",""i-noun"",""Umbrian: percam """"staff"""""",""""";;;;;
+"pherphercup,""pˠɛʁ.pˠɛʁ.kup"",""uc/up-Verb"",""cover, blanket, shroud"",""a priori"",""""";;;;;
+"phersazë,""pˠɛʁ.sɑ.zə"",""Inanimate Noun"",""toe"",""phersë + diminutive"",""""";;;;;
+"phersë,""pˠɛʁ.sə"",""Inanimate Noun"",""foot"",""i-noun"",""Umbrian: persi """"on foot"""""",""""";;;;;
+"pherzocu,""pˠɛʁ.zo.ku"",""Masculine Noun"",""personality, individuality"",""pherzu + augmentative"",""""";;;;;
+"pherzu,""pˠɛʁ.zu"",""Masculine Noun"",""person, a given individual"",""i-noun"",""Etruscan: phersu """"mask,masked person,actor"""" (Latin persona)"",""""";;;;;
+"pherzun,""pˠɛʁ.zun"",""un-Adjective"",""personal, individual"",""pherzu + un"",""""";;;;;
+"phethenathë,""pˠɛ.tˠɛ.nɑ.tˠə"",""Inanimate Noun"",""comb"",""Umbrian: petenata """"scalloped,comb-shaped"""""",""""";;;;;
+"phi,""pˠi"",""Postposition"",""for"",""Etruscan: pi """"for (enclitic)"""""",""""";;;;;
+"phitharphalhi,""pˠi.tˠɑʁ.pˠɑl.hi"",""Animate Noun"",""chicken"",""Hittite: pittarpalhi """"a bird"""""",""""";;;;;
+"phosthi,""pˠos.tˠi"",""Determiner"",""according to"",""Umbrian: posti """"for,in,according to"""""",""""";;;;;
+"phuju,""pˠu.ju"",""Masculine Noun"",""wife"",""Etruscan: puia """"wife"""""",""""";;;;;
+"phultcu,""pˠult.ku"",""Personal Name"",""Pollux [masc. name]"",""often used for a twin boy"",""Etruscan: Pultuce,Pulutuce,Pulutuke,Pultuke """"Pollux"""""",""""";;;;;
+"pi,""pi"",""Preposition"",""to, towards, up to"",""Etruscan: epl,pi,pul """"in,to,up to,until"""""",""""";;;;;
+"pintzë,""pint.zə"",""Inanimate Noun"",""oar"",""Hittite: pintanza """"oar?"""""",""""";;;;;
+"pintzëfo,""pint.zə.ɸo"",""Masculine Noun"",""oarsman, sculler, rower"",""pintzë + actant suffix"",""""";;;;;
+"ponisitë,""po.ni.si.tə"",""të-Verb"",""hunt"",""ponisithu + të"",""""";;;;;
+"ponisithu,""po.ni.si.tˠu"",""Masculine Noun"",""hunter"",""Umbrian: ponisiater """"hunter?"""""",""""";;;;;
+"practhai,""pʁɑk.tˠɑi"",""Animate Noun"",""thistle, spike"",""i-noun"",""a priori"",""""";;;;;
+"practhë,""pʁɑk.tˠə"",""i-Adjective"",""spiked, spiky"",""practhai + ë"",""""";;;;;
+"prati,""pʁɑ.ti"",""i-Adjective"",""thankful, grateful"",""pratis + i"",""""";;;;;
+"pratis,""pʁɑ.tis"",""thanks!, thank you!"",""Oscan: brateis """"thanks"""""",""""";;;;;
+"pratup,""pʁɑ.tup"",""uc/up-Verb"",""thank"",""pratis + up"",""""";;;;;
+"prucë,""pʁu.kə"",""Inanimate Noun"",""jug, carafe, decanter"",""Etruscan: pruch,pruchum """"jug"""" (Greek prochous)"",""""";;;;;
+"prumthu,""pʁum.tˠu"",""Masculine Noun"",""great-grandson"",""Etruscan: prumathś,prumts """"great-grandson"""""",""""";;;;;
+"psistë,""psis.tə"",""Inanimate Noun"",""pistachio"",""Umbrian: pistu """"pistachio"""""",""""";;;;;
+"psli,""psli"",""i-Adjective"",""important, main, focussed on"",""Etruscan: psl """"?"""""",""""";;;;;
+"psliqa,""psli.qɑ"",""Animate Noun"",""importance, centrepiece"",""psli + a"",""""";;;;;
+"pslithi,""psli.tˠi"",""i-Adjective"",""unimportant, not focussed on"",""psli + opposite infix"",""""";;;;;
+"pslitqa,""pslit.qɑ"",""Animate Noun"",""unimportance"",""pslithi + a"",""""";;;;;
+"pugë,""pu.gə"",""Inanimate Noun"",""stink, bad smell"",""pugun + ë"",""""";;;;;
+"pugun,""pu.gun"",""un-Adjective"",""repulsive, stinking, smelly"",""Hittite: puggant- """"odious,repulsive"""""",""""";;;;;
+"pul,""pul"",""Preposition"",""until"",""Etruscan: epl,pi,pul """"in,to,up to,until"""""",""""";;;;;
+"pulena,""pu.lɛ.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Pulena """"proper name"""""",""""";;;;;
+"pulo,""pu.lo"",""Personal Name"",""[masc. name]"",""Etruscan: Pule,Pules """"proper name (masculine)"""""",""""";;;;;
+"pululë,""pu.lu.lə"",""Inanimate Noun"",""hook, fishing hook"",""Oscan: ampu[l]ulum """"hook,minister?"""""",""""";;;;;
+"pululeine,""pu.lu.lɛi.nɛ"",""eine-Verb"",""fish, hook"",""pululë + eine"",""""";;;;;
+"pulumai,""pu.lu.mɑi"",""Animate Noun"",""star"",""Etruscan: pulum """"star"""""",""""";;;;;
+"pulumpanai,""pu.lum.pɑ.nɑi"",""Animate Noun"",""galaxy"",""pulumai + encompassing infix"",""""";;;;;
+"pumuna,""pu.mu.na"",""Animate Noun"",""apple"",""Umbrian: puemune """"apple"""" or """"of the apple"""""",""""";;;;;
+"puna,""pu.nɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Puanea """"name of a satyr"""""",""""";;;;;
+"putë,""pu.tə"",""Inanimate Noun"",""well (water source)"",""Etruscan: put-,puth- """"vase,pot,vessel,well?"""" (Greek potos,Latin puteus,puteal?)"",""""";;;;;
+"pviri,""pβi.ʁi"",""i-Adjective"",""female, feminine"",""pviro + i"",""""";;;;;
+"pviro,""pβi.ʁo"",""Masculine Noun"",""woman"",""Etruscan: pvia """"woman"""""",""""";;;;;
+"qanë,""qɑ.nə"",""Inanimate Noun"",""meat, flesh"",""i-noun"",""Umbrian: karne """"meat,flesh"""""",""""";;;;;
+"qelë,""qɛ.lə"",""Inanimate Noun"",""room, enclosed space"",""i-noun"",""Etruscan: cela """"room"""" (Latin cella)"",""""";;;;;
+"qw,""qø̞"",""Determiner"",""if, in case that"",""a priori"",""""";;;;;
+"racë,""ʁɑ.kə"",""cë-Verb"",""prepare"",""Etruscan: rach- """"prepare"""""",""""";;;;;
+"ragethë,""ʁɑ.gɛ.tˠə"",""Inanimate Noun"",""silver"",""Oscan: aragetud """"with silver"""""",""""";;;;;
+"ragethi,""ʁɑ.gɛ.tˠi"",""i-Adjective"",""silver, silvery"",""ragethë + i"",""""";;;;;
+"ramtha,""ʁɑm.tˠɑ"",""Personal Name"",""[fem. name]"",""Etruscan: Ramutha,Ramtha """"proper name (feminine)"""""",""""";;;;;
+"ramutha,""ʁɑ.mu.tˠɑ"",""Personal Name"",""[fem. name]"",""Etruscan: Ramutha,Ramtha """"proper name (feminine)"""""",""""";;;;;
+"rasenithu,""ʁɑ.sɛ.ni.tˠu"",""Masculine Noun"",""barbarian, foreigner"",""""""barbarian"""" in the original Greek sense of the word, in this case, someone who does not speak Atlantean"",""rasenu + opposite infix"",""""";;;;;
+"rasenithun,""ʁɑ.sɛ.ni.tˠun"",""un-Adjective"",""barbaric, foregin"",""""""barbaric"""" in the original Greek sense of the word, in this case, someone who does not speak Atlantean"",""rasenun + opposite infix";" rasenithu + un"",""""";;;;
+"rasenu,""ʁɑ.sɛ.nu"",""Masculine Noun"",""Atlantis, Atlantean people"",""endonym"",""Etruscan: Rasenna,Rasna """"Etruscans?"""""",""""";;;;;
+"rasenun,""ʁɑ.sɛ.nun"",""un-Adjective"",""Atlantean"",""rasenu + un"",""""";;;;;
+"rasna,""ʁɑs.nɑ"",""Animate Noun"",""Classical Atlantean language"",""i-noun";" endonym of this language"",""Etruscan: Rasenna,Rasna """"Etruscans?"""""",""""";;;;
+"rasnaza,""ʁɑs.nɑ.zɑ"",""Animate Noun"",""dialect"",""specifically dialects of the Classical Atlantean language (Rasna)"",""rasna + diminutive"",""""";;;;;
+"rasnazun,""ʁɑs.nɑ.zun"",""un-Adjective"",""dialectal"",""specifically dialects of the Classical Atlantean language (Rasna)"",""rasnaza + un"",""""";;;;;
+"rasni,""ʁɑs.ni"",""i-Adjective"",""able to speak, well-spoken"","""",""""";;;;;
+"rephintë,""ʁɛ.pˠin.tˠə"",""Inanimate Noun"",""bend, curve"",""rephintheine + ë"",""""";;;;;
+"rephintheine,""ʁɛ.pˠin.tˠɛi.nɛ"",""eine-Verb"",""bend"",""Etruscan: repinthi """"bend,incline?"""""",""""";;;;;
+"rephinti,""ʁɛ.pˠin.tˠi"",""i-Adjective"",""bent"",""rephintheine + i"",""""";;;;;
+"rmitho,""ʁmi.tˠo"",""Masculine Noun"",""freshwater, potable water"",""rmo + opposite infix"",""""";;;;;
+"rmithun,""ʁmi.tˠun"",""un-Adjective"",""potable, safe to drink"",""rmitho + un"",""""";;;;;
+"rmo,""ʁmo"",""Masculine Noun"",""sea, ocean, saltwater"",""a priori"",""""";;;;;
+"rufri,""ʁu.ɸʁi"",""i-Adjective"",""red"",""Oscan: rufriis """"red"""""",""""";;;;;
+"ruvazu,""ʁu.βɑ.zu"",""Masculine Noun"",""little brother"",""ruvu + diminutive"",""""";;;;;
+"ruvu,""ʁu.βu"",""Masculine Noun"",""brother"",""Etruscan: ruva """"brother"""""",""""";;;;;
+"șa,""ʃɑ"",""Cardinal Number"",""six"",""Etruscan: śa,sa? """"six"""""",""""";;;;;
+"șalc,""ʃɑlk"",""Cardinal Number"",""sixty"",""Etruscan: sealch? """"sixty"""""",""""";;;;;
+"salïë,""sɑ.lɨ.ə"",""Inanimate Noun"",""salt"",""Umbrian: salu """"salt"""""",""""";;;;;
+"salïi,""sɑ.lɨ.i"",""i-Adjective"",""salty"",""salïë + i"",""""";;;;;
+"saluc,""sɑ.luk"",""uc/up-Verb"",""carry out, do"",""Etruscan: sal- """"make,carry out"""""",""""";;;;;
+"sanisvë,""sɑ.nis.βə"",""Inanimate Noun"",""bone"",""Etruscan: sanisva """"bones?"""""",""""";;;;;
+"sanisvpanë,""sɑ.nis.βpɑ.nə"",""Inanimate Noun"",""skeleton"",""sanisvë + encompassing infix"",""""";;;;;
+"sanisvpanun,""sɑ.nis.βpɑ.nun"",""un-Adjective"",""skeletal, skeletonised, skeletonized"",""sanisvpanë + un"",""""";;;;;
+"șanșna,""ʃɑn.ʃnɑ"",""Ordinal Number"",""sixth"",""Etruscan: śa,sa? """"six"""""",""""";;;;;
+"satë,""sɑ.tə"",""të-Verb"",""establish, place down"",""Etruscan: sath-,śat- """"put,establish,be put?"""""",""""";;;;;
+"sciphë,""ski.pˠə"",""Inanimate Noun"",""sword"",""Aeolian Greek: σκίφος """"sword"""""",""""";;;;;
+"sciphëfo,""ski.pˠə.ɸo"",""Masculine Noun"",""swordsman"",""sciphë + actant suffix"",""""";;;;;
+"scunë,""sku.nə"",""në-Verb"",""leave, dismiss"",""Etruscan: sc-,scu-,scune """"give,place,offer";" or leave,dismiss"""""",""""";;;;
+"semf,""sɛmɸ"",""Cardinal Number"",""seven"",""Etruscan: semph """"seven"""""",""""";;;;;
+"semfsi,""sɛmɸ.si"",""Frequency Number"",""seven times"",""Etruscan: semph """"seven"""""",""""";;;;;
+"semfșna,""sɛmɸ.ʃnɑ"",""Ordinal Number"",""seventh"",""Etruscan: semph """"seven"""""",""""";;;;;
+"semithu,""sɛ.mi.tˠu"",""Masculine Noun"",""outskirts, extreme"",""semu + opposite infix"",""""";;;;;
+"semla,""sɛm.lɑ"",""Personal Name"",""Semele [fem. name]"",""Etruscan: Semla """"Semele"""""",""""";;;;;
+"semphalc,""sɛm.pˠɑlk"",""Cardinal Number"",""seventy"",""Etruscan: semphalch """"seventy"""""",""""";;;;;
+"semu,""sɛ.mu"",""Masculine Noun"",""middle, centre"",""i-noun"",""Umbrian: semu """"in the middle"""""",""""";;;;;
+"semui,""sɛ.mu.i"",""i-Adjective"",""central, in the middle, middle"",""semu + i"",""""";;;;;
+"șerfë,""ʃɛʁ.ɸə"",""Inanimate Noun"",""wax"",""i-noun"",""Umbrian: śerfer """"wax,genius"""""",""""";;;;;
+"sexazu,""sɛ.xɑ.zu"",""Masculine Noun"",""infant daughter"",""sexu + diminutive"",""""";;;;;
+"sexu,""sɛ.xu"",""Masculine Noun"",""daughter"",""i-noun"",""Etruscan: sec,sech """"daughter"""""",""""";;;;;
+"sima,""si.mɑ"",""Animate Noun"",""pig, swine"",""Umbrian: sim """"pig"""""",""""";;;;;
+"slabhi,""slɑ.bˠi"",""Animate Noun"",""lip, lips"",""i-noun"",""Oscan: slabiis """"lips"""""",""""";;;;;
+"smintë,""smin.tə"",""Inanimate Noun"",""stupidity"",""sminti + ë"",""""";;;;;
+"sminti,""smin.ti"",""i-Adjective"",""stupid"",""Oscan: smintiis """"stupider"""""",""""";;;;;
+"snathun,""snɑ.tˠun"",""un-Adjective"",""dry"",""Umbrian: asnata """"not wet"""""",""""";;;;;
+"snenathithu,""snɛ.nɑ.tˠi.tˠu"",""Masculine Noun"",""platonic friend"",""snenathu + opposite infix"",""""";;;;;
+"snenathu,""snɛ.nɑ.tˠu"",""Masculine Noun"",""romantic partner, girlfriend, boyfriend"",""Etruscan: snenath """"maid,companion,ancilla (feminine)"""""",""""";;;;;
+"somë,""so.mə"",""Inanimate Noun"",""height"",""somi + ë"",""""";;;;;
+"somi,""so.mi"",""i-Adjective"",""high"",""Umbrian: somo """"the highest"""""",""""";;;;;
+"spanta,""spɑn.tɑ"",""Animate Noun"",""night"",""i-noun"",""Hittite: ispanti- """"night"""""",""""";;;;;
+"spantaza,""spɑn.tɑ.zɑ"",""Animate Noun"",""solar eclipse"",""spanta + diminutive"",""""";;;;;
+"spanti,""spɑn.ti"",""i-Adjective"",""nocturnal, at night"",""Hittite: ispanti- """"nocturnal?"""""",""""";;;;;
+"spasalazu,""spɑ.sɑ.lɑ.zu"",""Masculine Noun"",""eavesdropper"",""spasalu + diminutive"",""""";;;;;
+"spasalu,""spɑ.sɑ.lu"",""Masculine Noun"",""spy"",""Hittite: sapasalli- """"scout,spy"""""",""""";;;;;
+"sphanthië,""spˠɑn.tˠi.ə"",""Inanimate Noun"",""field, farmland"",""Etruscan: span-,spanti- """"dish";" plain,fields"""""",""""";;;;
+"sphetë,""spˠɛ.tə"",""të-Verb"",""drink"",""Etruscan: spet """"to drink"""""",""""";;;;;
+"spinazë,""spi.nɑ.zə"",""Inanimate Noun"",""fence, fencing, railings"",""Oscan: saipinaz """"the fences"""""",""""";;;;;
+"spinazun,""spi.nɑ.zun"",""un-Adjective"",""fenced in"",""spinazë + un"",""""";;;;;
+"spura,""spu.ʁɑ"",""Animate Noun"",""town, city"",""Etruscan: spur- """"city"""""",""""";;;;;
+"spuri,""spu.ʁi"",""i-Adjective"",""public"",""Etruscan: spuriaze """"public"""""",""""";;;;;
+"spuriu,""spu.ʁi.u"",""Personal Name"",""Spuria, Spurius [gender-neutral name]"",""Etruscan: Spuria """"Spuria,proper name (feminine)""""";" Spurie """"Spurius,proper name (masculine)"""""",""""";;;;
+"sranë,""sʁɑ.nə"",""Inanimate Noun"",""desk, table"",""i-noun"",""Etruscan: sran """"surface measure,two naper"""""",""""";;;;;
+"srencva,""sʁɛn.kβɑ"",""Animate Noun"",""colour"",""srencvi + a"",""""";;;;;
+"srencvë,""sʁɛn.kβə"",""Inanimate Noun"",""decoration"",""srencvi + ë"",""""";;;;;
+"srencvi,""sʁɛn.kβi"",""i-Adjective"",""decorated, colourful"",""Etruscan: srencve """"decorated with figures?"""""",""""";;;;;
+"srenë,""sʁɛ.nə"",""Inanimate Noun"",""image, picture"",""i-noun"",""Etruscan: sren """"ornament,figure,image"""""",""""";;;;;
+"strușë,""stʁu.ʃə"",""Inanimate Noun"",""pile"",""Umbrian: struśia """"a pile,pile"""""",""""";;;;;
+"strușocë,""stʁu.ʃo.kə"",""Inanimate Noun"",""chaos, mess"",""strușë + augmentative"",""""";;;;;
+"strușocëfo,""stʁu.ʃo.kə.ɸo"",""Masculine Noun"",""slob, chaotic person"",""strușocë + actant suffix"",""""";;;;;
+"suhë,""su.hə"",""Inanimate Noun"",""roof, ceiling"",""Hittite: suhha- """"roof"""""",""""";;;;;
+"sulë,""su.lə"",""Inanimate Noun"",""beer"",""Etruscan: sul """"liquid used in sacrifices"""""",""""";;;;;
+"supluë,""su.plu.ə"",""Inanimate Noun"",""flute"",""Etruscan: *suplu """"flutist"""" (Latin subulo)"",""""";;;;;
+"supluëfo,""su.plu.ə.ɸo"",""Masculine Noun"",""flutist, flautist, flute player"",""supluë + actant suffix"",""""";;;;;
+"șutë,""ʃu.tə"",""të-Verb"",""sit, sit down"",""Etruscan: śuth-,sut- """"to stay,place?"""""",""""";;;;;
+"șuthë,""ʃu.tˠə"",""Inanimate Noun"",""chair, stool"",""Etruscan: śuthi """"seat,tomb"""""",""""";;;;;
+"suthisvë,""su.tˠis.βə"",""Inanimate Noun"",""home, place of residence"",""Etruscan: suthiusve """"property?"""""",""""";;;;;
+"suthisvëfo,""su.tˠis.βə.ɸo"",""Masculine Noun"",""resident, denizen, dweller"",""suthisvë + actant suffix"",""""";;;;;
+"sva,""sβɑ"",""va-Verb"",""live, be alive, be living"",""Etruscan: sval- """"alive";" to live"""""",""""";;;;
+"svali,""sβɑ.li"",""i-Adjective"",""alive, living"",""Etruscan: sval- """"alive";" to live"""""",""""";;;;
+"svelri,""sβɛl.ʁi"",""Animate Noun"",""animal"",""i-noun"",""Etruscan: sveleri """"living creature?"""""",""""";;;;;
+"talmithu,""tɑl.mi.tˠu"",""Personal Name"",""Palamedes [gender-neutral name]"",""Etruscan: Talmithe """"Palamedes"""""",""""";;;;;
+"taŋinë,""tɑŋ.i.nə"",""Inanimate Noun"",""opinion"",""Oscan: tanginom """"opinion"""""",""""";;;;;
+"tapsa,""tɑ.psɑ"",""Animate Noun"",""fever"",""i-noun"",""Hittite: tapassa- """"fever"""""",""""";;;;;
+"tapsafo,""tɑ.psɑ.ɸo"",""Masculine Noun"",""someone having a fever"",""tapsa + fo"",""""";;;;;
+"tapsasë,""tɑ.psɑ.sə"",""së-Verb"",""blush"",""tapsaza + së"",""""";;;;;
+"tapsaza,""tɑ.psɑ.zɑ"",""Animate Noun"",""blush"",""tapsa + diminutive"",""""";;;;;
+"tecë,""tɛ.kə"",""cë-Verb"",""place, put"",""Etruscan: te- (tece) """"to place,put"""""",""""";;;;;
+"tecrsu,""tɛkʁ.su"",""Personal Name"",""Teucer [gender-neutral name]"",""Etruscan: Techrs """"Teucer"""""",""""";;;;;
+"tentë,""tɛn.tə"",""të-Verb"",""preside over, oversee"",""Etruscan: ten-,tn-,-ta """"to act as magistrate"""""",""""";;;;;
+"tesë,""tɛ.sə"",""së-Verb"",""care for, care"",""Etruscan: tes-,tesam- """"to care for"""""",""""";;;;;
+"teva,""tɛ.βɑ"",""va-Verb"",""show"",""Etruscan: tev-,tv-,tva """"to show,see?"""""",""""";;;;;
+"tezanë,""tɛ.zɑ.nə"",""Inanimate Noun"",""road, street"",""Etruscan: tezan """"way,road"""""",""""";;;;;
+"tha,""tˠɑ"",""Determiner"",""this"",""neutral"",""Etruscan: ta """"this"""""",""""";;;;;
+"thagai,""tˠɑ.gɑi"",""Animate Noun"",""breast, chest"",""i-noun"",""Hittite: taggani- ? """"breast"""""",""""";;;;;
+"thalthu,""tˠɑl.tˠu"",""Masculine Noun"",""girl"",""i-noun"",""Etruscan: talitha """"girl"""""",""""";;;;;
+"thamnai,""tˠɑm.nɑi"",""Animate Noun"",""horse"",""i-noun"",""Etruscan: thamna """"horse"""""",""""";;;;;
+"thamnaifo,""tˠɑm.nɑi.ɸo"",""Masculine Noun"",""horse rider"",""thamnai + actant suffix"",""""";;;;;
+"thamnë,""tˠɑm.nə"",""në-Verb"",""find"",""Etruscan: tham-,them- """"to build,found"""""",""""";;;;;
+"thanacvilu,""tˠɑ.nɑ.kβi.lu"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Thana-cvil """"gift of Thana"""""",""""";;;;;
+"thar,""tˠɑʁ"",""Determiner"",""there"",""Etruscan: thar """"there"""""",""""";;;;;
+"tharco,""tˠɑʁ.ko"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Tarchon """"an Etruscan culture hero"""""",""""";;;;;
+"thațanë,""tˠɑ.tʃɑ.nə"",""në-Verb"",""leave alone, stay away from"",""a priori"",""""";;;;;
+"thaurțë,""tˠɑuʁ.tʃə"",""Inanimate Noun"",""funeral, burial"",""Etruscan: thaurch """"funerary"""""",""""";;;;;
+"thefarici,""tˠɛ.ɸɑ.ʁi.ki"",""Personal Name"",""Tiberius [gender-neutral name]"",""Etruscan: Thefarie """"Tiberius"""""",""""";;;;;
+"therasazo,""tˠɛ.ʁɑ.sɑ.zo"",""Masculine Noun"",""kindergartner, kindergartener, preschooler"",""theraso + diminutive"",""""";;;;;
+"theraso,""tˠɛ.ʁɑ.so"",""Masculine Noun"",""student, pupil"",""Etruscan: teras """"prodigy?"""" (Greek teras?)"",""""";;;;;
+"thesai,""tˠɛ.sɑi"",""Animate Noun"",""dawn, morning sun"",""i-noun"",""Etruscan: θesan """"dawn"""""",""""";;;;;
+"thethu,""tˠɛ.tˠu"",""Masculine Noun"",""grandmother"",""i-noun"",""Etruscan: teta """"grandmother"""""",""""";;;;;
+"thevra,""tˠɛ.βʁɑ"",""Animate Noun"",""bull"",""i-noun"",""Etruscan: θevru """"bull"""""",""""";;;;;
+"thevrë,""tˠɛ.βʁə"",""Inanimate Noun"",""testicle"",""thevra + ë"",""""";;;;;
+"thëzanë,""tˠə.zɑ.nə"",""Inanimate Noun"",""morning"",""Etruscan: thesan """"morning,dawn"""""",""""";;;;;
+"thezinthu,""tˠɛ.zin.tˠu"",""Masculine Noun"",""teacher"",""Etruscan: tesinth """"caretaker"""""",""""";;;;;
+"thirsazë,""tˠiʁ.sɑ.zə"",""Inanimate Noun"",""heat wave"",""only if the heat wave occurs outside of summer"",""thirsë + diminutive"",""""";;;;;
+"thirsë,""tˠiʁ.sə"",""Inanimate Noun"",""summer"",""Cretan Greek: τίρος """"summer"""""",""""";;;;;
+"thirsocë,""tˠiʁ.so.kə"",""Inanimate Noun"",""heat wave"",""only if the heat wave occurs during summer"",""thirsë + augmentative"",""""";;;;;
+"tho,""tˠo"",""Cardinal Number"",""one"",""Etruscan: thu(n),tu(n) """"one"""""",""""";;;;;
+"thonșna,""tˠon.ʃnɑ"",""Ordinal Number"",""first"",""Etruscan: thunśna,thunina """"first"""""",""""";;;;;
+"thu,""tˠu"",""Determiner"",""now"",""Etruscan: thui """"here,now"""""",""""";;;;;
+"thucthi,""tˠuk.tˠi"",""Animate Noun"",""November (month)"",""Etruscan: thucte (theorised to be the name of a month,but it is unclear which)"",""""";;;;;
+"thuns,""tˠuns"",""Frequency Number"",""once"",""Etruscan: thunz """"once"""""",""""";;;;;
+"thur,""tˠuʁ"",""Cardinal Number"",""thousand, one thousand"",""Etruscan: thu(n),tu(n) """"one"""""",""""";;;;;
+"thureine,""tˠu.ʁɛi.nɛ"",""eine-Verb"",""give, gift"",""Etruscan: tur- """"to give"""""",""""";;;;;
+"thuri,""tˠu.ʁi"",""Irregular Verb"",""belong to, be owned by"",""Etruscan: -thur """"to belong to the group"""""",""""";;;;;
+"țimië,""tʃi.mi.ə"",""Inanimate Noun"",""pronoun"",""Etruscan: chim,chia """"pronoun"""""",""""";;;;;
+"tina,""ti.nɑ"",""Animate Noun"",""daylight"",""Etruscan: Tina,Tin,Tinia """"Jupiter,Zeus,god of daylight"""""",""""";;;;;
+"tinë,""ti.nə"",""Inanimate Noun"",""day"",""Etruscan: tin- """"day"""""",""""";;;;;
+"tirxenu,""tiʁ.xɛ.nu"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Tyrrhenus """"an Etruscan culture hero"""""",""""";;;;;
+"tișazë,""ti.ʃɑ.zə"",""Inanimate Noun"",""pond, waterhole"",""tișë + diminutive"",""""";;;;;
+"tișë,""ti.ʃə"",""Inanimate Noun"",""lake"",""Etruscan: tisś """"lake"""""",""""";;;;;
+"tiurë,""ti.u.ʁə"",""Inanimate Noun"",""tower, tall building, tall structure"",""Oscan: tiurrí """"the tower"""""",""""";;;;;
+"tnamva,""tnɑm.βɑ"",""va-Verb"",""see, view, watch"",""Etruscan: tnam """"see"""""",""""";;;;;
+"trahë,""tʁɑ.hə"",""Inanimate Noun"",""milk"",""i-noun"",""Etruscan: thra """"milk?"""" (or thras """"drank?"""")"",""""";;;;;
+"tranuzi,""tʁɑ.nu.zi"",""Animate Noun"",""July (month)"",""Etruscan: *traneus """"month,July"""""",""""";;;;;
+"trephu,""tʁɛ.pˠu"",""Masculine Noun"",""worker, employee"",""i-noun"",""Etruscan: trepu """"workman,carpenter"""""",""""";;;;;
+"trinë,""tʁi.nə"",""në-Verb"",""ask, plead"",""Etruscan: trin- """"to plead,supplicate"""""",""""";;;;;
+"triumphë,""tʁi.um.pˠə"",""Inanimate Noun"",""victory"",""Etruscan: *triumpe """"triumph"""" (Greek thriambos)"",""""";;;;;
+"triumphithë,""tʁi.um.pˠi.tˠə"",""Inanimate Noun"",""defeat, loss"",""triumphë + opposite infix"",""""";;;;;
+"triumphun,""tʁi.um.pˠun"",""un-Adjective"",""victorious"",""triumphë + un"",""""";;;;;
+"trizimun,""tʁi.zi.mun"",""un-Adjective"",""enviable"",""a priori"",""""";;;;;
+"truja,""tʁu.jɑ"",""Personal Name"",""[gender-neutral name]"",""Etruscan: Truia """"Troy?"""""",""""";;;;;
+"trunya,""tʁu.ɲɑ"",""Animate Noun"",""power, might"",""Etruscan: truna """"power,rule"""""",""""";;;;;
+"trutë,""tʁu.tə"",""të-Verb"",""throw, cast"",""Etruscan: trvθ """"to throw,to cast"""""",""""";;;;;
+"trwna,""tʁø̞.nɑ"",""Animate Noun"",""bee"",""Laconian Greek: θρῶναξ """"drone"""""",""""";;;;;
+"trwnpana,""tʁø̞n.pɑ.nɑ"",""Animate Noun"",""insect"",""trwna + encompassing infix"",""""";;;;;
+"tuhui,""tu.hu.i"",""Animate Noun"",""smoke"",""Hittite: tuhhui- """"thick smoke"""""",""""";;;;;
+"tuli,""tu.li"",""Animate Noun"",""court of law"",""Hittite: tuli- """"justice assembly"""""",""""";;;;;
+"țulicnyë,""tʃu.lik.ɲə"",""Inanimate Noun"",""vase"",""Etruscan: culichna,chulichna """"vase,'little kylix'"""" (Greek kylix)"",""""";;;;;
+"tunacesrë,""tu.nɑ.kɛs.ʁə"",""Inanimate Noun"",""bedroom"",""Hittite: tunnakessar """"inner chamber"""""",""""";;;;;
+"tuplacë,""tu.plɑ.kə"",""Inanimate Noun"",""plough/plow"",""Umbrian: tuplak """"fork?"""""",""""";;;;;
+"tuplacë,""tu.plɑ.kə"",""cë-Verb"",""plough/plow"",""tuplacë + cë"",""""";;;;;
+"tuplacëfo,""tu.plɑ.kə.ɸo"",""Masculine Noun"",""plougher/plower"",""tuplacë + actant suffix"",""""";;;;;
+"turë,""tu.ʁə"",""Inanimate Noun"",""incense"",""Etruscan: tura """"incense"""""",""""";;;;;
+"tusë,""tu.sə"",""Inanimate Noun"",""bed"",""Etruscan: tus """"kline"""""",""""";;;;;
+"tusni,""tus.ni"",""Animate Noun"",""swan"",""Etruscan: tusna """"swan"""""",""""";;;;;
+"tuthi,""tu.tˠi"",""Animate Noun"",""municipality"",""Etruscan: tuthi,tuti- """"community,state"""" (Umbrian tota?)"",""""";;;;;
+"tuthithi,""tu.tˠi.tˠi"",""Animate Noun"",""unincorporated territory"",""tuthi + opposite infix"",""""";;;;;
+"tuzurthu,""tu.zuʁ.tˠu"",""Masculine Noun"",""married couple"",""Etruscan: tusurthir """"married couples ('in the double urn'?)"""""",""""";;;;;
+"tvi,""tβi"",""i-Adjective"",""inside, interior, inner"",""Etruscan: thva """"interior,inner"""""",""""";;;;;
+"u,""u"",""Preposition"",""oh, ô"",""vocative-like preposition, used generally only in literary contexts"",""a priori";" but compare many IE-languages,e.g. French """"ô"""",English and German """"oh"""",etc."",""""";;;;
+"ulphaië,""ul.pˠɑi.ə"",""Inanimate Noun"",""wine, alcoholic beverage"",""Etruscan: ulpaia """"vase for wine"""" (Greek olpe)"",""""";;;;;
+"ulphaizë,""ul.pˠɑi.zə"",""Inanimate Noun"",""cocktail, alcoholic beverage"",""ulphaië + diminutive"",""""";;;;;
+"ulphi,""ul.pˠi"",""i-Adjective"",""alcoholic"",""ulphaië + i"",""""";;;;;
+"um,""um"",""and"",""Used solely before words beginning on a nasal. Gets turned into a suffix """"-m"""" following words ending on a vowel"",""Etruscan: -m,um """"and"""""",""""";;;;;
+"umtazë,""um.tɑ.zə"",""Inanimate Noun"",""nail clippings"",""umtë + diminutive"",""""";;;;;
+"umtë,""um.tə"",""Inanimate Noun"",""nail (finger, toe)"",""Umbrian: umtu """"fingernail"""""",""""";;;;;
+"un,""un"",""Pronoun"",""you"",""second person singular nominative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"unai,""u.nɑi"",""Animate Noun"",""stream, brook, creek, flow of water"",""Etruscan: una """"flowing stream"""""",""""";;;;;
+"unatalu,""u.nɑ.tɑ.lu"",""Masculine Noun"",""trader, merchant"",""Hittite: unatalla- """"trader"""""",""""";;;;;
+"unu,""u.nu"",""Pronoun"",""you"",""second person singular accusative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"unuë,""u.nu.ə"",""Pronoun"",""you"",""second person singular dative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"unw,""u.nø̞"",""Pronoun"",""your"",""second person singular genitive pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"uo,""uo"",""Pronoun"",""you"",""second person plural nominative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"uonë,""uo.nə"",""Pronoun"",""you"",""second person plural dative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"uono,""uo.no"",""Pronoun"",""you"",""second person plural accusative pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"uonw,""uo.nø̞"",""Pronoun"",""your"",""second person plural genitive pronoun"",""Etruscan: vn """"you"""""",""""";;;;;
+"urethu,""u.ʁɛ.tˠu"",""Masculine Noun"",""adult"",""Umbrian: uřetu """"grown up"""""",""""";;;;;
+"urtha,""uʁ.tˠɑ"",""Animate Noun"",""cause, reason"",""urthanë + a"",""""";;;;;
+"urthanë,""uʁ.tˠɑ.nə"",""në-Verb"",""cause"",""Etruscan: urthan,urthanike """"to make,cause to be"""""",""""";;;;;
+"urustho,""u.ʁus.tˠo"",""Personal Name"",""Orestes [gender-neutral name]"",""Etruscan: Urusthe """"Orestes"""""",""""";;;;;
+"urusthu,""u.ʁus.tˠu"",""Personal Name"",""Orestes [gender-neutral name]"",""Etruscan: Urusthe """"Orestes"""""",""""";;;;;
+"uși,""u.ʃi"",""Animate Noun"",""sun"",""Etruscan: usil,uśil """"sun"""" (Sabine ausel)"",""""";;;;;
+"uslanë,""us.lɑ.nə"",""Inanimate Noun"",""noon, midday"",""Etruscan: uslane """"at noon"""""",""""";;;;;
+"usti,""us.ti"",""Animate Noun"",""storm"",""Umbrian: ustite """"by the storm?"""""",""""";;;;;
+"usursa,""u.suʁ.sɑ"",""Animate Noun"",""hate"",""usursë + a"",""""";;;;;
+"usursë,""u.suʁ.sə"",""së-Verb"",""hate, despise"",""Oscan: usurs """"haters"""""",""""";;;;;
+"utrë,""u.tʁə"",""Inanimate Noun"",""word"",""Hittite: uttar """"word,speech"; chattering; business; story; reason,motive;" legal matter"""""","""""
+"utuse,""u.tu.sɛ"",""Irregular Verb"",""carry out, perform, do"",""Etruscan: ut- (utuse) """"carry out,perform,give"""""",""""";;;;;
+"uxtrëtheine,""ux.tʁə.tˠɛi.nɛ"",""eine-Verb"",""increase, make bigger"",""Umbrian: uhtretie """"increase"""""",""""";;;;;
+"uzëtë,""u.zə.tə"",""të-Verb"",""draw (water), scoop, spoon"",""Etruscan: us-,useti """"scoop,ladle,draw (water)"""""",""""";;;;;
+"vëgo,""βə.go"",""Personal Name"",""[fem. name]"",""Etruscan: Vegoia """" Etruscan nymph believed to have power over lightning"""""",""""";;;;;
+"velcitna,""βɛl.kit.nɑ"",""Animate Noun"",""March (month)"",""Etruscan: *velcitna """"March"""""",""""";;;;;
+"velcitnaza,""βɛl.kit.nɑ.zɑ"",""Animate Noun"",""February (month)"",""velcitna + diminutive"",""""";;;;;
+"velparu,""βɛl.pɑ.ʁu"",""Personal Name"",""Elpenor [masc. name]"",""Etruscan: Velparun """"Elpenor"""""",""""";;;;;
+"velthuru,""βɛl.tˠu.ʁu"",""Personal Name"",""[masc. name]"",""Etruscan: Velthur """"proper name (masculine)"""""",""""";;;;;
+"velu,""βɛ.lu"",""Personal Name"",""[masc. name]"",""Etruscan: Vel """"proper name (masculine)"""""",""""";;;;;
+"vestaru,""βɛs.tɑ.ʁu"",""Masculine Noun"",""shepherd, herder, herdsman"",""Hittite: westara- """"shepherd"""""",""""";;;;;
+"vestava,""βɛs.tɑ.βɑ"",""va-Verb"",""herd"",""vestaru + va"",""""";;;;;
+"vezci,""βɛz.ki"",""i-Adjective"",""ancient"",""Oscan: vezkeí """"the ancients?"""""",""""";;;;;
+"vinyë,""βi.ɲə"",""Inanimate Noun"",""vineyard"",""Etruscan: vina """"vineyard"""""",""""";;;;;
+"wth,""ø̞tˠ"",""Determiner"",""also, again"",""Etruscan: eth,et """"thus,in this way (adverb)"""""",""""";;;;;
+"wtna,""ø̞t.nɑ"",""Animate Noun"",""wolf"",""Hittite: wetn- (wetna-?) """"wolf?"""""",""""";;;;;
+"ximba,""xim.bɑ"",""Animate Noun"",""pomegranate"",""Aeolian Greek: ξίμβα """"pomegranate-tree"""""",""""";;;;;
+"xureine,""xu.ʁɛi.nɛ"",""eine-Verb"",""howl (at)"",""xuri + eine"",""""";;;;;
+"xuri,""xu.ʁi"",""Animate Noun"",""moon"",""Etruscan: tiu,tivr,tiur """"moon,month"""""",""""";;;;;
+"zal,""zɑl"",""Cardinal Number"",""two"",""Etruscan: zal,sal,esal """"two"""""",""""";;;;;
+"zalșna,""zɑl.ʃnɑ"",""Ordinal Number"",""second"",""Etruscan: zal,sal,esal """"two"""""",""""";;;;;
+"zamathi,""zɑ.mɑ.tˠi"",""i-Adjective"",""golden"",""Etruscan: zamathi,zamth """"gold?"""""",""""";;;;;
+"zamathië,""zɑ.mɑ.tˠi.ə"",""Inanimate Noun"",""gold"",""Etruscan: zamathi,zamth """"gold?"""""",""""";;;;;
+"zas,""zɑs"",""Frequency Number"",""six times"",""Etruscan: śas? """"six (gen.)"""""",""""";;;;;
+"zathum,""zɑ.tˠum"",""Cardinal Number"",""twenty"",""Etruscan: zathrum """"twenty"""""",""""";;;;;
+"zatlathazu,""zɑ.tlɑ.tˠɑ.zu"",""Masculine Noun"",""childhood friend, old friend"",""zatlathu + diminutive"",""""";;;;;
+"zatlathocu,""zɑ.tlɑ.tˠo.ku"",""Masculine Noun"",""best friend"",""zatlathu + augmentative"",""""";;;;;
+"zatlathu,""zɑ.tlɑ.tˠu"",""Masculine Noun"",""friend, companion"",""Etruscan: zatlath """"companion"""""",""""";;;;;
+"zerë,""zɛ.ʁə"",""Inanimate Noun"",""serenity, accessibility"",""zeri + ë"",""""";;;;;
+"zeri,""zɛ.ʁi"",""i-Adjective"",""serene, unclouded, accessible"",""Etruscan: zeri """"serene,unclouded,free (person),accessible (water)"""""",""""";;;;;
+"zicë,""zi.kə"",""cë-Verb"",""write, write down"",""Etruscan: zic-,zich- """"to write,incise"""""",""""";;;;;
+"zid̦ë,""zi.ʒə"",""Inanimate Noun"",""book"",""Etruscan: zic,zich """"book,writing,document,inscription"""""",""""";;;;;
+"zid̦panë,""ziʒ.pɑ.nə"",""Inanimate Noun"",""literature"",""zid̦ë + encompassing infix"",""""";;;;;
+"zid̦panun,""ziʒ.pɑ.nun"",""un-Adjective"",""literary, literally"",""zid̦panë + un"",""""";;;;;
+"zid̦u,""zi.ʒu"",""Masculine Noun"",""writer, author, scribe, secretary"",""Etruscan: zichu """"writer,scribe"""""",""""";;;;;
+"zifi,""zi.ɸi"",""i-Adjective"",""dead, deceased"",""Etruscan: ziva """"the dead,deceased"""""",""""";;;;;
+"zran,""zʁɑn"",""Cardinal Number"",""hundred, one hundred"",""Etruscan: śran """"one hundred"""""",""""";;;;;
+"zupari,""zu.pɑ.ʁi"",""Animate Noun"",""torch, lamp"",""Hittite: zuppari- """"torch"""""",""""";;;;;
+"zusli,""zus.li"",""Animate Noun"",""domesticated animal, pet"",""Etruscan: zvsle """"animal"""""",""""";;;;;
+"zuslithi,""zus.li.tˠi"",""Animate Noun"",""wild animal, undomesticated animal"",""zusli + opposite infix"",""""";;;;;
+"zuslithpani,""zus.litˠ.pɑ.ni"",""Animate Noun"",""wildlife"",""zuslithi + encompassing infix"",""""";;;;;
