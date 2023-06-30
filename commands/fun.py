@@ -4,16 +4,14 @@ import utils
 class FunCommands(ipy.Extension):
   @ipy.slash_command(
     name="pancak",
-    description="Learn how to make Pancaks!",
-    scopes=[986960242325729300]
+    description="Learn how to make Pancaks!"
   )
   async def pancak(self, ctx: ipy.InteractionContext):
     await ctx.send("Paiju:\n- Mud ndu\n- Vi udi oncu\n- Vi hlynna onso, nothii\n- Vi maein oncu\n- Vi nobi onden\n- Qen bu'a onmu\nKveun:\n- Vi'iin, anoavhat wn jima wnd cametu tancam qenmun je.\n- Tan'iin, amiisvhat wn bu'a wnd kiitau yn wnd jima yn.\n- Leb'iin, ajavhat oajio paijyu syd kiipe yn meq akashvhat.\n- Chas'iin, akpevhat vud zytynyu tanmhai nkor.\n")
 
   @ipy.slash_command(
     name="edcypher",
-    description="Encrypt your messages with Ed's Cypher!",
-    scopes=[986960242325729300]
+    description="Encrypt your messages with Ed's Cypher!"
   )
   @ipy.slash_option(
     name="mode",
