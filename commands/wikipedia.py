@@ -14,10 +14,10 @@ class WikipediaCommands(ipy.Extension):
 
   def embedify_page(self, page: wikipedia.page) -> ipy.Embed:
     return ipy.Embed(
-      title=page.title,
-      url=page.url,
-      description=page.summary[:600] + "…",
-      thumbnail=page.images[0]
+        title=page.title,
+        url=page.url,
+        description=f"{page.summary[:600]}…",
+        thumbnail=page.images[0],
     )
   
   @ipy.slash_command(

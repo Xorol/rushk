@@ -7,8 +7,8 @@ from typing import Annotated
 
 
 class DictionaryConverter(ipy.Converter):
-  async def convert(ctx, argument: str):
-    if argument == "all" or argument == "random":
+  async def convert(self, argument: str):
+    if argument in {"all", "random"}:
       return argument
     return utils.Dictionary(argument, utils.load_dictionaries())
 

@@ -80,14 +80,12 @@ class Dictionary:
     if len(word) < 5:
       return f"**{word[0]}** {'[' if word[1] else ''}{word[1]}{']' if word[1] else ''}\n*{word[2]}*{'.' if not word[2].endswith('.') else ''} {word[3]}"
     if word[4]:
-      return f"**{word[0]}** {'[' if word[1] else ''}{word[1]}{']' if word[1] else ''}\n*{word[2]}*{'.' if not word[2].endswith('.') else ''} {word[3]}{'— ' + word[4]}"
+      return f"**{word[0]}** {'[' if word[1] else ''}{word[1]}{']' if word[1] else ''}\n*{word[2]}*{'.' if not word[2].endswith('.') else ''} {word[3]}{f'— {word[4]}'}"
     return f"**{word[0]}** {'[' if word[1] else ''}{word[1]}{']' if word[1] else ''}\n*{word[2]}*{'.' if not word[2].endswith('.') else ''} {word[3]}"
 
   def random_word(self, oneline : bool = False, raw: bool = False):
     word = random.choice(self.words)
-    if raw:
-      return word
-    return self.format_word(word, oneline)
+    return word if raw else self.format_word(word, oneline)
 
 
 def random_dictionary():

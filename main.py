@@ -7,9 +7,7 @@ import asyncio
 bot = interactions.Client(delete_unused_application_cmds=True)
 
 dicts = utils.load_dictionaries()
-word_amt = 0
-for dict in dicts:
-  word_amt += utils.Dictionary(dict, dicts).length
+word_amt = sum(utils.Dictionary(dict, dicts).length for dict in dicts)
 dict_amt = str(len(dicts))
 word_amt = str(word_amt)
 del dicts

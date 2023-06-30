@@ -105,20 +105,20 @@ class WordPaginator(standard_paginator.Paginator):
                 replace_whitespace=False,
             )
             pages = [standard_paginator.Page(c, prefix=prefix, suffix=suffix) for c in content_pages]
-            return cls(client, pages=pages, timeout_interval=timeout, allow_multi_user=allow_multi_user)
-        
         else:
             num_lines = max(1, num_lines) # Make sure number of lines is at least one
             page_size = max(1, page_size) # Make sure max page length is at least one
 
             page_lists = cls.__break_lines(cls, lines = content.split("\n"), num_lines = num_lines, page_size = page_size)
 
-            pages = []
+            pages = [
+                standard_paginator.Page(
+                    content="\n".join(page), prefix=prefix, suffix=suffix
+                )
+                for page in page_lists
+            ]
 
-            for page in page_lists:
-                pages.append(standard_paginator.Page(content="\n".join(page), prefix=prefix, suffix=suffix))
-
-            return cls(client, pages=pages, timeout_interval=timeout, allow_multi_user=allow_multi_user)
+        return cls(client, pages=pages, timeout_interval=timeout, allow_multi_user=allow_multi_user)
     
     def __break_lines(self, lines, num_lines, page_size):
         result = []
@@ -316,9 +316,9 @@ class WordPaginator(standard_paginator.Paginator):
         words = input_str.split()
         output_str = ''
         for word in words:
-            if len(output_str + ' ' + word) > max_len:
+            if len(f'{output_str} {word}') > max_len:
                 break
             else:
-                output_str += ' ' + word
+                output_str += f' {word}'
         remaining_str = input_str[len(output_str):]
         return output_str.strip(), remaining_str.strip()
