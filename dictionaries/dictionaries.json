@@ -6,10 +6,7 @@
     "description":"A post-apocalyptic language of two scripts and a culture based on the denial of scientific progress",
     "image":"https://cdn.discordapp.com/attachments/773676901146296320/988988188716589146/59940300-1F81-4471-AFB2-EDCECBB67301.jpg",
     "dictionary":"https://docs.google.com/spreadsheets/d/1bivMhmc_CI3rYmDD8IX4CEA7n5x3tJ_FU6DIrx6WEco/edit#gid=974740045",
-    "owner": {
-        "name":"^_^",
-        "discriminator":"8842"
-      }
+    "owner":538354993938300928
   },
   "ciscun": {
     "file":"dictionaries/ciscun.csv",
@@ -18,10 +15,7 @@
     "description":"Ya need a turtle? Ya got a turtle",
     "image":"https://upload.wikimedia.org/wikipedia/commons/2/24/Spot_the_cow.gif",
     "dictionary":"https://docs.google.com/spreadsheets/d/10rfOaXTPF7LNQzY-3vaH4jfikY2ER3cm3B7GpDFwRwI/edit#gid=0",
-    "owner": {
-      "name":"^_^",
-      "discriminator":"8842"
-    }
+    "owner":538354993938300928
   },
   "hantera": {
     "file":"dictionaries/hantera.csv",
@@ -30,10 +24,7 @@
     "description":"a conpidgin that texas made with some friends",
     "image":"https://cdn.discordapp.com/attachments/986040640360046652/986041321888301096/unknown.png",
     "dictionary":"https://docs.google.com/spreadsheets/d/1Tbp42dKbSI37apjB_NOngKqaijJngQX4VP9S-TrWGiQ/edit#gid=0",
-    "owner": {
-      "name":"tllsTEXAS",
-      "discriminator":"3313"
-    }
+    "owner":890680962189492334
   },
   "illyrian": {
     "file":"dictionaries/illyrian.csv",
@@ -42,10 +33,7 @@
     "description":"The better of the texas conlangs. Spoken in an alternate-universe Dalmatian region.",
     "image":null,
     "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
-    "owner": {
-      "name":"tllsTEXAS",
-      "discriminator":"3313"
-    }
+    "owner":890680962189492334
   },
   "olamolh": {
     "file":"dictionaries/olamolh.csv",
@@ -54,10 +42,7 @@
     "description":"A language with a Spanish-inspired orthography and complex grammar that makes heavy use of non-concatenative morphology including benfeactive suffixes for verbs and possessive suffixes for nouns spoken traditionally buy a group of hunter-gatherer tribes but has now expanded to an entire country which sits between the United States and Mexico.",
     "image":"",
     "dictionary":"https://docs.google.com/spreadsheets/d/1UZZlaCDHy5YpOT3YRRWiS39TXz_NcV2_XGK1ROxfQ1I/edit#gid=1904741817",
-    "owner": {
-      "name":"tllsTEXAS",
-      "discriminator":"3313"
-    }
+    "owner":938379645919834143
   },
   "osrhean": {
     "file":"dictionaries/osrhean.csv",
@@ -78,10 +63,7 @@
     "description":"Rasna (aka. Classic Atlantean) is spoken by the people of Atlantis. It has strong lexical connections with Etruscan and some ancient Indo-European languages.",
     "image":null,
     "dictionary":"https://lexicon.ga/936245299",
-    "owner": {
-      "name":"inbread_cat",
-      "discriminator":"4089"
-    }
+    "owner":202855762584666112
   },
   "tsevhu": {
     "file":"dictionaries/tsevhu.csv",
@@ -90,9 +72,6 @@
     "description":"Tsevhu [tsɛˈβu] n. constructed art-language made by koallary centered around the basis of a free-order volition controlled grammar system and a hidden non-linear writing system created using koi fish and ripples.",
     "image":"https://images-ext-1.discordapp.net/external/pfO3zveWqrkhb3Yj9E3njEkA3Fsm2iIU4AdYvLoQvu0/%3Fwidth%3D3600%26format%3Dpng%26auto%3Dwebp%26s%3D635087de582bd1765c00161fb111058e81d57e1a/https/preview.redd.it/vgwk8ixaouc61.png?width=665&height=499",
     "dictionary":"https://docs.google.com/spreadsheets/d/1Z3GgLvUsjAupx9l_Zo0lBfozFwRk_K_gE6kCBJmuU3Y/edit#gid=0",
-    "owner":{
-      "name":"koallary",
-      "discriminator":"0263"
-    }
+    "owner":275400048731357185
   }
 }
