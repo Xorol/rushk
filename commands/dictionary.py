@@ -16,8 +16,7 @@ class DictionaryCommands(ipy.Extension):
   @ipy.slash_command(
     name="dictionary", 
     sub_cmd_name="guess-the-language", 
-    sub_cmd_description="Guess what language a word's from!", 
-    scopes=[986960242325729300]
+    sub_cmd_description="Guess what language a word's from!"
   )
   async def guess_the_language(self, ctx: ipy.InteractionContext):
       dictionary_obj = utils.random_dictionary()
@@ -44,8 +43,7 @@ class DictionaryCommands(ipy.Extension):
   @ipy.slash_command(
     name="dictionary",
     sub_cmd_name="search",
-    sub_cmd_description="Search a dictionary!",
-    scopes=[986960242325729300]
+    sub_cmd_description="Search a dictionary!"
   )
   @ipy.slash_option(
     name="dictionary",
@@ -97,8 +95,7 @@ class DictionaryCommands(ipy.Extension):
   @ipy.slash_command(
     name="dictionary",
     sub_cmd_name="random",
-    sub_cmd_description="Get a random word stored in Rushk!",
-    scopes=[986960242325729300]
+    sub_cmd_description="Get a random word stored in Rushk!"
   )
   @ipy.slash_option(
     name="dictionary",
@@ -115,8 +112,7 @@ class DictionaryCommands(ipy.Extension):
   @ipy.slash_command(
     name="dictionary",
     sub_cmd_name="info",
-    sub_cmd_description="Find out more about any dictionary!",
-    scopes=[986960242325729300]
+    sub_cmd_description="Find out more about any dictionary!"
   )
   @ipy.slash_option(
     name="dictionary",
