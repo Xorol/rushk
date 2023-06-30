@@ -1,0 +1,4 @@
+commands.dictionary
+commands.meta
+commands.wikipedia
+commands.fun
