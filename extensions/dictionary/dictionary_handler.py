@@ -137,7 +137,7 @@ class SearchSpecificity(enum.Enum):
         # Helper function to automagically convert `str`-type arguments passed
         # to slash commands into `SearchSpecificity`s as needed 
 
-        return cls[argument]
+        return cls[argument.upper()]
 
 
 class SearchResult(NamedTuple):
