@@ -49,6 +49,7 @@ class TsevhuExtension(RushkExtension):
         consonants = r"[pbtdkgqʔɸβfvθszʃʒçxhmnwlrj ]"
         vowels = r"[ɑeɛɪiuʊɔoœəy]"
 
+        text = text.lower()
         text += "⍀"
         ipa = ""
 
