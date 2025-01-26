@@ -23,7 +23,7 @@ async def tsevhu_word_of_the_day(client: Client):
     tsevhu_dictionary = Dictionary("tsevhu")
     word = tsevhu_dictionary.words.choice()
 
-    tsevhu_vocab_channel = client.fetch_channel(TSEVHU_VOCAB_CHANNEL_ID)
+    tsevhu_vocab_channel = await client.fetch_channel(TSEVHU_VOCAB_CHANNEL_ID)
     await word.send(tsevhu_vocab_channel, "", "### Tsevhu word of the day")
 
 
