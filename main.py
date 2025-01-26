@@ -4,7 +4,7 @@ from interactions import Client, Intents, listen
 
 from tasks import start_tasks
 
-bot = Client(intents=Intents.DEFAULT)
+bot = Client(intents=Intents.DEFAULT, delete_unused_application_cmds=True)
 # intents are what events we want to receive from discord, `DEFAULT` is usually fine
 
 @listen()  # this decorator tells snek that it needs to listen for the corresponding event, and run this coroutine
