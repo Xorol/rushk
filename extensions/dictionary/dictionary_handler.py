@@ -329,7 +329,7 @@ class Dictionary:
 
     @property
     def display_name(self) -> str:
-        return self.name.capitalize()
+        return string.capwords(self.name)
     
     @property
     def last_updated(self) -> datetime.datetime:
