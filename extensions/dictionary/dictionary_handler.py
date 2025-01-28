@@ -10,6 +10,7 @@ import json
 import pathlib
 import random
 import re
+import string
 from typing import NamedTuple, Optional
 
 import interactions as ipy
@@ -225,7 +226,8 @@ class WordList:
             return term in word.entry or term in word.definition
         
         def medium_check(word: Word) -> bool:
-            return term in word.entry.split(" ") or term in word.definition.split(" ")
+            normalized_definition = ''.join(chr for chr in word.definition if chr not in string.punctuation)
+            return term in word.entry.split(" ") or term in normalized_definition.split(" ")
         
         def narrow_check(word: Word) -> bool:
             return term == word.entry or term == word.definition
