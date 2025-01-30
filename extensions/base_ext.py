@@ -10,6 +10,11 @@ ALLOWED_CHANNELS = [
     791860532960559105, # #well-technically
 ]
 
+# List of roles that bypass the channel check
+BYPASS_CHANNEL_CHECK_ROLES = [
+    1214386781953204304, # Tsevhu Helper
+]
+
 # List of servers Rushk can be used in
 SERVER_SCOPES = [
     719617569908064348 # koilang
@@ -23,4 +28,4 @@ class RushkExtension(ipy.Extension):
         self.add_ext_check(self.channel_check)
     
     async def channel_check(self, ctx: ipy.BaseContext) -> bool:
-        return ctx.channel_id in ALLOWED_CHANNELS
+        return ctx.channel_id in ALLOWED_CHANNELS or ctx.author.has_role(BYPASS_CHANNEL_CHECK_ROLES)
