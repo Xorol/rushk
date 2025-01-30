@@ -24,12 +24,12 @@ async def tsevhu_word_of_the_day(client: Client):
     word = tsevhu_dictionary.words.choice()
 
     tsevhu_vocab_channel = await client.fetch_channel(TSEVHU_VOCAB_CHANNEL_ID)
-    await word.send(tsevhu_vocab_channel, "", "### Tsevhu word of the day")
+    await word.send(tsevhu_vocab_channel, "", "## Today's Tsevhu Word of the Day™ is...")
 
 
 async def start_tasks(client: Client):
     status_revolver_task = Task(partial(status_revolver, client), IntervalTrigger(seconds=15))
-    tsevhu_word_of_the_day_task = Task(partial(tsevhu_word_of_the_day, client), TimeTrigger(hour=10))
+    tsevhu_word_of_the_day_task = Task(partial(tsevhu_word_of_the_day, client), TimeTrigger(hour=11))
 
     status_revolver_task.start()
     tsevhu_word_of_the_day_task.start()
