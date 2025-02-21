@@ -28,4 +28,4 @@ class RushkExtension(ipy.Extension):
         self.add_ext_check(self.channel_check)
     
     async def channel_check(self, ctx: ipy.BaseContext) -> bool:
-        return ctx.channel_id in ALLOWED_CHANNELS or ctx.author.has_role(BYPASS_CHANNEL_CHECK_ROLES)
+        return ctx.channel_id in ALLOWED_CHANNELS or ctx.author.has_any_role(BYPASS_CHANNEL_CHECK_ROLES)
