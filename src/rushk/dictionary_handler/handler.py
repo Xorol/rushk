@@ -1,7 +1,7 @@
 # Contains all the logic for loading and manipulating dictionaries
 
 
-from .word_paginator import WordPaginator
+from rushk.word_paginator import WordPaginator
 
 import csv
 import datetime
@@ -11,6 +11,7 @@ import pathlib
 import random
 import re
 import string
+from importlib import resources as resources
 from typing import NamedTuple, Optional
 
 import interactions as ipy
@@ -19,7 +20,7 @@ import interactions as ipy
 # The metadata for the registered dictionaries
 dictionary_metadata: dict = None
 
-with open("extensions/dictionary/dictionaries/meta.json", "r") as metadata_file:
+with resources.open_text("rushk.data.dictionaries", "meta.json") as metadata_file:
         dictionary_metadata = json.load(metadata_file)
 
 # The json schema for a dictionary representation in `meta.json`
@@ -334,10 +335,9 @@ class Dictionary:
     @property
     def last_updated(self) -> datetime.datetime:
         # The last time the `Dictionary`'s file was modified
-
-        self_file = pathlib.Path(f"extensions/dictionary/dictionaries/{self.file}")
-        modified_timestamp = self_file.stat().st_mtime
-        modified_time = datetime.datetime.fromtimestamp(modified_timestamp, tz=datetime.UTC)
+        with resources.as_file(resources.files("rushk.data.dictionaries").joinpath(self.file)) as self_file:
+            modified_timestamp = self_file.stat().st_mtime
+            modified_time = datetime.datetime.fromtimestamp(modified_timestamp, tz=datetime.UTC)
 
         return modified_time
 
@@ -351,7 +351,7 @@ class Dictionary:
             return self._words
         
         # Open the relevant file and make a reader object
-        with open(f"extensions/dictionary/dictionaries/{self.file}", "r") as word_file:
+        with resources.open_text("rushk.data.dictionaries", self.file) as word_file:
             reader = csv.reader(word_file, dialect="excel-tab")
             raw_words = [word[:5] for word in reader] # We only care about the first 5 columns
         

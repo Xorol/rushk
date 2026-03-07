@@ -1,14 +1,13 @@
 # Contains the status revolver and word-of-the-day tasks
 
-from extensions.dictionary.dictionary_handler import Dictionary
+from rushk.dictionary_handler import Dictionary
 
 from interactions import Task, IntervalTrigger, TimeTrigger, Client
-
+from importlib import resources as resources
 from functools import partial
 import random
 
-
-with open("statuses.txt") as status_f:
+with resources.open_text("rushk.data", "statuses.txt") as status_f:   
     STATUSES = status_f.readlines()
 
 TSEVHU_VOCAB_CHANNEL_ID = 742114751064178758

@@ -2,7 +2,7 @@ import dotenv
 
 from interactions import Client, Intents, listen
 
-from tasks import start_tasks
+from rushk.tasks import start_tasks
 
 bot = Client(intents=Intents.DEFAULT, delete_unused_application_cmds=True)
 # intents are what events we want to receive from discord, `DEFAULT` is usually fine
@@ -16,11 +16,11 @@ async def on_ready():
     print(bot.application_commands)
 
 
-bot.load_extension("extensions.dictionary.dictionary_ext")
-bot.load_extension("extensions.tsevhu.tsevhu_ext")
-bot.load_extension("extensions.fun_ext")
+bot.load_extension("rushk.extensions.dictionary_ext")
+bot.load_extension("rushk.extensions.tsevhu_ext")
+bot.load_extension("rushk.extensions.fun_ext")
 
 # Get the token and start the bot
-TOKEN = dotenv.dotenv_values(".env")["TOKEN"]
+TOKEN = dotenv.dotenv_values("rushk/.env")["TOKEN"]
 
 bot.start(TOKEN)

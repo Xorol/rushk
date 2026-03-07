@@ -1,15 +1,16 @@
 import interactions as ipy
 import cairosvg
 
-from extensions.base_ext import RushkExtension, SERVER_SCOPES
-from .koiwriter import koiwriter
+from importlib import resources as resources
+
+from rushk.extensions.base_ext import RushkExtension, SERVER_SCOPES
+from rushk.koiwriter import koiwriter
 
 import io
 import json
 import re
 
-
-with open("extensions/tsevhu/topics.json", "r") as topics_file:
+with resources.open_text("rushk.data", "tsevhu_topics.json") as topics_file:
     TOPICS: dict[str, dict[str, str]] = json.load(topics_file)
 
 def generate_tsevhu_topic_choices() -> list[ipy.SlashCommandChoice]:
@@ -207,7 +208,7 @@ class TsevhuExtension(RushkExtension):
         for word in words:
             # Ripple-fy the word
             try:
-                koiwriter.rippler(word.lower().strip())
+                ripple_svg_text: str = koiwriter.rippler(word.lower().strip())
             except KeyError as e:
                 # Generate an error message pointing out the bad character
                 err_msg = f"Oops! I don't know how to write this character:\n```\n{word}\n"
@@ -219,13 +220,12 @@ class TsevhuExtension(RushkExtension):
 
 
             # Turn the outputted .svg into a .png and send
-            with open("extensions/tsevhu/koiwriter/output.svg") as svg_file:
-                png_bytes: bytes = cairosvg.svg2png(
-                    file_obj=svg_file, 
+            png_bytes: bytes = cairosvg.svg2png(
+                    bytestring=ripple_svg_text.encode("utf-8"), 
                     output_height=750, 
                     output_width=750,
                     negate_colors=True
-                )
+            )
 
             pngs.append(ipy.File(file=io.BytesIO(png_bytes), file_name="ripple.png"))
 

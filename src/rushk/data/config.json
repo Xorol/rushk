@@ -1,0 +1,26 @@
+{
+    "environment": "dev",
+    "environments": {
+        "stable": {
+            "channel_scopes": [
+                773676901146296320,
+                791860532960559105
+            ],
+            "guild_scopes": [
+                719617569908064348
+            ],
+            "channel_check_override_roles": [
+                1214386781953204304
+            ]
+        },
+        "dev":{
+            "channel_scopes": [
+                1138479334454218752
+            ],
+            "guild_scopes": [
+                986960242325729300
+            ],
+            "channel_check_override_roles": []
+        }
+    }
+}

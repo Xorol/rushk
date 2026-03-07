@@ -1,6 +1,6 @@
 import interactions as ipy
 
-from .base_ext import RushkExtension, SERVER_SCOPES
+from rushk.extensions.base_ext import RushkExtension, SERVER_SCOPES
 
 
 class FunExtension(RushkExtension):

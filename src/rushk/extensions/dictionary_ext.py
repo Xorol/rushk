@@ -3,15 +3,15 @@ import re
 from typing import Annotated
 import uuid
 
-from .dictionary_handler import (
+from rushk.dictionary_handler import (
     Dictionary, 
     SearchSpecificity, 
     generate_dictionary_choices, 
     SearchResult,
     dictionary_metadata,
 )
-from .word_paginator import WordPaginator
-from extensions.base_ext import RushkExtension, SERVER_SCOPES
+from rushk.word_paginator import WordPaginator
+from rushk.extensions.base_ext import RushkExtension, SERVER_SCOPES
 
 import interactions as ipy
 

@@ -6,7 +6,7 @@
 import json
 from pathlib import Path
 from typing import List, Union
-
+from importlib import resources as resources
 
 # Some constants pertaining to image parameters have been added here
 VIEW_BOX_VAL = 500
@@ -93,7 +93,7 @@ def rippler(word: str):
             tokens[i] = "`"
     
     # Get density data
-    with open(Path("extensions/tsevhu/koiwriter/ripples/density_data.json")) as f:
+    with resources.open_text("rushk.koiwriter.ripples", "density_data.json") as f:
         density_data = json.loads(f.read())
     
     translate_orientation = {
@@ -179,25 +179,21 @@ def rippler(word: str):
 
     global VIEW_BOX_VAL, VIEW_BOX_VAL2, SCALE_VALUE
 
-
-    # Create the output file
-    with open(Path("extensions/tsevhu/koiwriter/output.svg"), 'w') as output_f:
-        view_box_val = VIEW_BOX_VAL
-        view_box_val2 = VIEW_BOX_VAL2
-        output_f.write(f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{view_box_val}" height="{view_box_val}" viewBox="0 0 {view_box_val2} {view_box_val2}">\n')
+    output_svg_text = f'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{VIEW_BOX_VAL}" height="{VIEW_BOX_VAL}" viewBox="0 0 {VIEW_BOX_VAL2} {VIEW_BOX_VAL2}">\n'
+    num_tokens = len(tokens)
+    _image_dir = Path(__file__).parent / "ripples" / "images"
+    for i, token in enumerate(tokens):
+        doc = parse(str(Path(_image_dir / f"{token}.svg")))
+        scale_value = SCALE_VALUE ** (num_tokens - (i + 1))
         
-        # Obtain the SVG files for the tokens and add it to the image
-        num_tokens = len(tokens)
-        for i, token in enumerate(tokens):
-            doc = parse(str(Path(f"extensions/tsevhu/koiwriter/ripples/images/{token}.svg")))
-            scale_value = SCALE_VALUE ** (num_tokens - (i + 1))
-            
-            output_f.write(f'\t<g id="{token}_{i}" transform-origin="250 250" transform="scale({scale_value}) rotate({90 * orientations[i]})">\n')
-            for child_elem in doc.getElementsByTagName("path"):
-                output_f.write(f'\t\t{child_elem.toprettyxml()}\n')
-            output_f.write(f'\t</g>\n')
+        output_svg_text += f'\t<g id="{token}_{i}" transform-origin="250 250" transform="scale({scale_value}) rotate({90 * orientations[i]})">\n'
+        for child_elem in doc.getElementsByTagName("path"):
+            output_svg_text += f'\t\t{child_elem.toprettyxml()}\n'
+        output_svg_text += f'\t</g>\n'
+        print(token, output_svg_text)
+
         
         # Added by Xorol to show the original word in the bottom-left
-        output_f.write(f'<text x="0" y="100%" textLength="50%">{word}</text>\n')
+    output_svg_text += f'<text x="0" y="100%" textLength="50%">{word}</text>\n</svg>\n'
         
-        output_f.write('</svg>\n')
+    return output_svg_text

@@ -1,7 +1,7 @@
 # WIP extension; don't load it
 
 import interactions as ipy
-from .base_ext import RushkExtension
+from rushk.extensions.base_ext import RushkExtension
 
 class DebugExtension(RushkExtension):
     @ipy.slash_command()
