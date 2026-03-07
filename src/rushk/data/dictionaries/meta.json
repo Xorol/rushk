@@ -1,0 +1,16 @@
+{
+    "tsevhu": {
+        "name": "tsevhu",
+        "file": "tsevhu.tsv",
+        "owner_id": "275400048731357185",
+        "language_description": "Tsevhu [tsɛˈβu] n. constructed art-language made by koallary centered around the basis of a free-order volition controlled grammar system and a hidden non-linear writing system created using koi fish and ripples.",
+        "url": "https://docs.google.com/spreadsheets/d/1Z3GgLvUsjAupx9l_Zo0lBfozFwRk_K_gE6kCBJmuU3Y/edit#gid=0",
+        "display_image_url": "https://images-ext-1.discordapp.net/external/rIDiq1uATevUSS3XMaeeIcH9-X11KnyMzC0pTNBVBRQ/%3Fwidth%3D665%26height%3D499/https/images-ext-1.discordapp.net/external/pfO3zveWqrkhb3Yj9E3njEkA3Fsm2iIU4AdYvLoQvu0/%253Fwidth%253D3600%2526format%253Dpng%2526auto%253Dwebp%2526s%253D635087de582bd1765c00161fb111058e81d57e1a/https/preview.redd.it/vgwk8ixaouc61.png?format=webp&quality=lossless&width=605&height=454",
+        "search_shortcuts": [
+            {
+                "triggers": ["I", "me", "my", "you", "your", "yours", "y'all", "they", "them", "their", "theirs", "he", "him", "his", "she", "her", "hers"],
+                "result": "Pronouns' powers are too great for me!"
+            }
+        ]
+    }
+}
